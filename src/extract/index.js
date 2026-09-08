@@ -31,13 +31,18 @@ export async function extractDocumentText(buffer, { label = 'document', contentT
     .map((chars, i) => (chars < threshold ? i + 1 : null))
     .filter(Boolean);
 
+  // `ocrPending` records that this document has scanned pages we did NOT read.
+  // Without it, a run on a machine with no OCR tooling caches the empty result
+  // forever, and a later run that *does* have tesseract skips the document as
+  // already extracted - which is exactly the wrong outcome for scanned minutes.
   const wantsOcr = config.ocr?.enabled && emptyPages.length > 0;
   if (!wantsOcr) {
     return {
       text: base.text,
       pages: base.pages,
       method: base.pagesWithText > 0 ? 'text-layer' : 'none',
-      note: base.pagesWithText === 0 ? 'no text layer (scanned?); OCR disabled' : '',
+      note: emptyPages.length ? 'scanned page(s) not read; OCR disabled' : '',
+      ocrPending: emptyPages.length > 0,
       truncated: base.truncated,
     };
   }
@@ -49,6 +54,7 @@ export async function extractDocumentText(buffer, { label = 'document', contentT
       pages: base.pages,
       method: base.pagesWithText > 0 ? 'text-layer' : 'none',
       note: 'OCR requested but pdftoppm/tesseract not on PATH',
+      ocrPending: true,
       truncated: base.truncated,
     };
   }
@@ -66,6 +72,9 @@ export async function extractDocumentText(buffer, { label = 'document', contentT
     note: emptyPages.length > toRead.length
       ? `OCR limited to first ${budget} scanned pages`
       : '',
+    // OCR has now run. Any remaining pages were dropped by the page budget, not
+    // by missing tooling, so re-running would refetch to no benefit.
+    ocrPending: false,
     truncated: base.truncated || emptyPages.length > toRead.length,
   };
 }

@@ -54,6 +54,9 @@ const SETTLED_DAYS = 120;
 const SETTLED_BEFORE = new Date(Date.now() - SETTLED_DAYS * 86_400_000)
   .toISOString().slice(0, 10);
 
+// Whether this run can actually read scanned pages. Resolved once in main().
+let ocrReady = false;
+
 const inScopeForDocs = (meeting) => {
   if (SKIP_DOCS) return false;
   if (!SINCE) return true;
@@ -113,10 +116,18 @@ function reportPlan(meetings, state) {
  */
 async function extractDocument(fileId, url, label, state, stats) {
   const prior = state.documents[fileId];
-  if (!FULL && prior && !prior.failed && hasText(fileId)) {
+
+  // A document whose scanned pages were never read is not really "done". If it
+  // was extracted somewhere without tesseract - a laptop, say - and this run
+  // does have OCR, retry it. Otherwise the empty result from the first machine
+  // is cached forever and the scanned minutes stay invisible.
+  const retryForOcr = Boolean(prior?.ocrPending) && ocrReady;
+
+  if (!FULL && prior && !prior.failed && hasText(fileId) && !retryForOcr) {
     stats.cached += 1;
     return true;
   }
+  if (retryForOcr) stats.ocrRetried += 1;
 
   const { buffer, bytes, tooLarge, contentType } = await fetchBuffer(url, {
     maxBytes: config.maxAttachmentBytes,
@@ -141,6 +152,7 @@ async function extractDocument(fileId, url, label, state, stats) {
     pages: result.pages,
     method: result.method,
     note: result.note || undefined,
+    ocrPending: result.ocrPending || undefined,
     extractedAt: new Date().toISOString(),
   };
 
@@ -154,6 +166,7 @@ async function main() {
   log.step(`BoardBook scrape - org ${config.orgId} (${config.orgName})`);
   if (config.ocr?.enabled) {
     const a = await ocrAvailable();
+    ocrReady = a.ok;
     log.info(a.ok ? 'OCR enabled (pdftoppm + tesseract found)' : 'OCR enabled in config but tooling missing - scanned pages will be skipped');
   }
 
@@ -178,7 +191,7 @@ async function main() {
     return;
   }
 
-  const docStats = { fetched: 0, cached: 0, skipped: 0, chars: 0, byMethod: {} };
+  const docStats = { fetched: 0, cached: 0, skipped: 0, ocrRetried: 0, chars: 0, byMethod: {} };
   const bar = progress('meetings', meetings.length);
   const records = [];
 
@@ -344,7 +357,7 @@ async function main() {
   const atts = records.reduce((s, m) => s + m.items.reduce((t, i) => t + i.attachments.length, 0), 0);
   log.step('Scrape complete');
   log.info(`meetings=${records.length} items=${items} attachments=${atts}`);
-  log.info(`documents: fetched=${docStats.fetched} cached=${docStats.cached} skipped=${docStats.skipped} text=${(docStats.chars / 1e6).toFixed(2)}M chars`);
+  log.info(`documents: fetched=${docStats.fetched} cached=${docStats.cached} skipped=${docStats.skipped} ocr-retried=${docStats.ocrRetried} text=${(docStats.chars / 1e6).toFixed(2)}M chars`);
   log.info(`extraction methods: ${JSON.stringify(docStats.byMethod)}`);
   log.info(`wrote ${meetingsFile}`);
   if (stoppedEarly) log.warn('Run was cut short by --max-seconds; re-run to continue the backfill.');

@@ -7,7 +7,34 @@ import { paths } from '../config.js';
 export const sha1 = (input) =>
   crypto.createHash('sha1').update(input).digest('hex').slice(0, 16);
 
-const STATE_VERSION = 2;
+const STATE_VERSION = 3;
+
+/**
+ * Bring an older state file forward rather than discarding it - the cache it
+ * describes represents hours of polite, rate-limited scraping.
+ *
+ * v2 -> v3: v2 recorded a scanned document with no readable text as simply
+ * "extracted, 0 chars". A later run with OCR available would treat it as done
+ * and skip it forever. Mark those so they get retried once.
+ */
+function migrate(state) {
+  if (state.version === 2) {
+    let marked = 0;
+    for (const doc of Object.values(state.documents ?? {})) {
+      if (!doc.failed && (doc.chars ?? 0) === 0 && doc.method === 'none') {
+        doc.ocrPending = true;
+        marked += 1;
+      }
+    }
+    state.version = 3;
+    if (marked) {
+      process.stderr.write(
+        `state: migrated to v3, flagged ${marked} scanned document(s) for OCR retry\n`,
+      );
+    }
+  }
+  return state;
+}
 
 const emptyState = (orgId) => ({
   version: STATE_VERSION,
@@ -19,8 +46,8 @@ const emptyState = (orgId) => ({
 
 export function loadState(orgId) {
   try {
-    const s = JSON.parse(fs.readFileSync(paths.state, 'utf8'));
-    // A version or org change invalidates the incremental cache.
+    const s = migrate(JSON.parse(fs.readFileSync(paths.state, 'utf8')));
+    // An org change, or a version we cannot migrate, invalidates the cache.
     if (s.version !== STATE_VERSION || String(s.orgId) !== String(orgId)) return emptyState(orgId);
     return { ...emptyState(orgId), ...s };
   } catch {
