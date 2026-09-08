@@ -157,6 +157,27 @@ node src/cli/scrape.js --months=6 --dry-run
 Measured on ISD 281: last 6 months ≈ 30 meetings and ~10 minutes; the full archive with
 attachments back to 2021 ≈ 3h10m; metadata for all 1,133 meetings ≈ 43 minutes.
 
+## What you can do with it
+
+| | |
+|---|---|
+| **Search** | Full-text across agenda items, attachments and minutes, ranked by relevance |
+| **Ask a question** | Ordinary questions work — stopwords are dropped and the query relaxes automatically when nothing matches all the words |
+| **Star documents** | Build a collection in your browser and share it as a link. No account, no server, no personal data |
+| **Browse meetings** | Chronological index for when you know the meeting but not the words |
+| **Follow new documents** | [`feed.xml`](feed.xml) — an Atom feed of newly indexed documents |
+| **See the coverage** | The page states what is indexed, what isn't, and which text came from OCR |
+
+### Starred documents and sharing
+
+Stars are kept in `localStorage` and keyed by a stable document reference, so they survive
+the weekly rebuild. (`documents.id` cannot be used for this: it is an autoincrement assigned
+in insert order, and a single new meeting shifts every id below it.)
+
+"Copy share link" puts the references in the URL **fragment** — the part browsers never
+transmit — so a shared collection is not visible to the host, and nothing about who starred
+what is stored anywhere.
+
 ## Search syntax
 
 | You type | You get |
@@ -172,6 +193,12 @@ attachments back to 2021 ≈ 3h10m; metadata for all 1,133 meetings ≈ 43 minut
 Searchable fields are `title`, `item_title`, `presenter` and `text`; any of them can be
 used as a `field:term` filter.
 
+Ordinary questions work too. `What did the board decide about the bond referendum?` used to
+return nothing, because FTS5 required every word — including `what` and `did` — to appear in
+the document. Stopwords are now dropped, and if too few documents contain *all* the
+remaining words the query relaxes to OR and lets bm25 ranking surface the best matches. The
+page says which words it searched and which it ignored.
+
 The search box is not passed to SQLite as-is. FTS5's own grammar is unforgiving in ways
 that produce confidently wrong answers rather than errors — its operators must be
 uppercase, so `a not b` searches for the word "not"; there is no Google-style `-term`; and
@@ -185,7 +212,7 @@ exclude.
 
 Two workflows in `.github/workflows/`:
 
-- **`update.yml`** — runs weekly (Mondays 06:20 UTC) and on demand. Scrapes what is new,
+- **`update.yml`** — runs weekly (Fridays 12:20 UTC) and on demand. Scrapes what is new,
   rebuilds `site.db`, commits the refreshed text cache, deploys to GitHub Pages.
 - **`backfill.yml`** — manual, for the first pass over an archive. Each run takes a bounded
   chunk and commits its progress; re-run until it reports nothing new.

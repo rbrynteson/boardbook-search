@@ -182,7 +182,7 @@ The workflows are written for it and need no external accounts.
 3. **Settings → Actions → General → Workflow permissions: Read and write** (the workflows
    commit the refreshed text cache).
 4. Run `Backfill archive` until complete.
-5. Run `Update index and deploy`, or wait for the Monday cron.
+5. Run `Update index and deploy`, or wait for the Friday cron.
 
 The site lands at `https://<user>.github.io/<repo>/`.
 
@@ -240,7 +240,9 @@ earlier again later, because the text cache is never discarded.
 
 ## 7. Keeping it running
 
-`update.yml` runs Mondays at 06:20 UTC. To change that, edit the `cron` expression.
+`update.yml` runs Fridays at 12:20 UTC (7:20 AM Central). To change that, edit the `cron`
+expression — but keep it clear of BoardBook's advertised nightly maintenance window of
+midnight to 5 AM Central, which is 05:00–11:00 UTC across both DST states.
 
 Match it to your board's cadence — a run the morning after a regular meeting picks up the
 agenda and packet while people are still looking for them. Approved minutes typically

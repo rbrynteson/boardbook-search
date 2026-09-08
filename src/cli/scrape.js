@@ -164,6 +164,9 @@ async function extractDocument(fileId, url, label, state, stats) {
     method: result.method,
     note: result.note || undefined,
     ocrPending: result.ocrPending || undefined,
+    // Set once, on first sight, and carried through every re-extraction - an
+    // OCR retry must not make a 2019 document look newly published.
+    firstSeen: prior?.firstSeen ?? new Date().toISOString(),
     extractedAt: new Date().toISOString(),
   };
 

@@ -38,20 +38,31 @@ CREATE INDEX meetings_year ON meetings(year);
 -- One row per searchable unit: an agenda item, an attachment, or the minutes.
 CREATE TABLE documents (
   id          INTEGER PRIMARY KEY,
+  -- `id` is an autoincrement rowid assigned in insert order, so it is NOT stable
+  -- across rebuilds. Anything that has to survive a rebuild - a saved favourite,
+  -- a shared link - must key off `ref` instead.
+  ref         TEXT NOT NULL,   -- f<fileId> | i<itemId> | m<meetingId>
   meeting_id  TEXT NOT NULL REFERENCES meetings(meeting_id),
   kind        TEXT NOT NULL,   -- agenda_item | attachment | minutes
+  item_id     TEXT,            -- BoardBook agenda item id; anchors a deep link
   item_label  TEXT,            -- "6.A.1."
   item_title  TEXT,            -- agenda item heading
   title       TEXT,            -- document name (attachments) or item title
   presenter   TEXT,
   source_url  TEXT NOT NULL,   -- link back to BoardBook
   pages       INTEGER,
+  -- How the text was obtained, so the UI can warn that OCR output may be wrong:
+  -- text-layer | ocr | text-layer+ocr | none | encrypted | unsupported
+  extract_method TEXT,
+  first_seen  TEXT,            -- ISO date this document first entered the index
   sort_order  INTEGER NOT NULL DEFAULT 0,
   text        TEXT NOT NULL DEFAULT ''
 );
 
+CREATE UNIQUE INDEX documents_ref ON documents(ref);
 CREATE INDEX documents_meeting ON documents(meeting_id, sort_order);
 CREATE INDEX documents_kind ON documents(kind);
+CREATE INDEX documents_first_seen ON documents(first_seen DESC);
 
 -- Field weights are applied at query time via bm25(); keeping title, item
 -- context and body text in separate columns is what makes that possible.

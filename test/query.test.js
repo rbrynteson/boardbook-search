@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
-import { parseQuery, toMatchExpr } from '../site/query.js';
+import { parseQuery, toMatchExpr, canRelax } from '../site/query.js';
 
 const expr = (raw) => toMatchExpr(raw).expr;
 
@@ -68,7 +68,8 @@ test('punctuation that is a syntax error in raw FTS5 is safely quoted', () => {
 test('an unbalanced quote is dropped rather than unbalancing the query', () => {
   assert.equal(expr('say "hi'), '"say" AND "hi"');
   assert.equal(expr('budget" OR levy'), '"budget" OR "levy"');
-  assert.equal(expr('unbalanced " quote here'), '"unbalanced" AND "quote" AND "here"');
+  // Deliberately avoids stopwords, which are removed separately (below).
+  assert.equal(expr('unbalanced " quote marks'), '"unbalanced" AND "quote" AND "marks"');
   assert.equal(expr('""'), null);
 });
 
@@ -89,4 +90,54 @@ test('empty input yields no query and no complaint', () => {
   const { expr: e, reason } = toMatchExpr('   ');
   assert.equal(e, null);
   assert.equal(reason, null);
+});
+
+/* ---------- stopwords and progressive relaxation ---------- */
+
+test('stopwords are dropped so an ordinary question can match', () => {
+  // Against the live index this exact question returned 0 results, because
+  // every word including "what" and "did" had to appear in the document.
+  const r = toMatchExpr('What did the board decide about the bond referendum?');
+
+  assert.equal(r.expr.includes('"What"'), false);
+  assert.equal(r.expr.includes('"the"'), false);
+  assert.deepEqual(r.used, ['board', 'decide', 'bond', 'referendum?']);
+  assert.ok(r.dropped.includes('What'));
+  assert.ok(r.dropped.includes('did'));
+});
+
+test('stopwords inside a quoted phrase are preserved', () => {
+  // "the" is a stopword, but the searcher asked for an exact phrase.
+  assert.equal(expr('"chair of the board"'), '"chair of the board"');
+  assert.equal(toMatchExpr('"chair of the board"').dropped.length, 0);
+});
+
+test('a query made only of stopwords still searches for them', () => {
+  // Someone looking for "The Who" should not be handed an empty query.
+  const r = toMatchExpr('the who');
+  assert.equal(r.expr, '"the" AND "who"');
+  assert.deepEqual(r.dropped, []);
+});
+
+test('relaxed mode ORs bare terms but never phrases or exclusions', () => {
+  const r = toMatchExpr('approve sandburg mechanical bids', { mode: 'relaxed' });
+  assert.equal(r.expr, '"approve" OR "sandburg" OR "mechanical" OR "bids"');
+  assert.equal(r.relaxed, true);
+
+  // An exclusion stays an exclusion - relaxing must never widen it into a match.
+  const withNot = toMatchExpr('sandburg bids -mechanical', { mode: 'relaxed' });
+  assert.equal(withNot.expr, '("sandburg" OR "bids") NOT ("mechanical")');
+});
+
+test('relaxing a single-term query would change nothing', () => {
+  assert.equal(canRelax('referendum'), false);
+  assert.equal(canRelax('bond referendum'), true);
+  // An explicit OR is already relaxed.
+  assert.equal(canRelax('bond OR referendum'), false);
+});
+
+test('user operators survive stopword handling', () => {
+  assert.equal(expr('budget -"board report"'), '"budget" NOT ("board report")');
+  assert.equal(expr('transport*'), '"transport"*');
+  assert.equal(expr('title:budget'), 'title:"budget"');
 });

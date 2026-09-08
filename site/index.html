@@ -6,6 +6,7 @@
 <title>Board Document Search</title>
 <meta name="description" content="Full-text search across public school board meeting agendas, minutes and packets." />
 <link rel="stylesheet" href="styles.css" />
+<link rel="alternate" type="application/atom+xml" title="Newly indexed documents" href="feed.xml" />
 </head>
 <body>
 <a class="skip" href="#q">Skip to search</a>
@@ -46,8 +47,23 @@
         </select>
       </label>
       <button type="button" id="reset" class="linkish">Reset</button>
+      <button type="button" id="show-starred" class="linkish" aria-pressed="false">
+        Starred (<span id="star-count">0</span>)
+      </button>
+      <button type="button" id="show-browse" class="linkish" aria-pressed="false">Browse meetings</button>
     </div>
   </form>
+
+  <div id="star-tools" class="star-tools" hidden>
+    <button type="button" id="share-stars">Copy share link</button>
+    <button type="button" id="copy-stars">Copy as list</button>
+    <button type="button" id="clear-stars" class="linkish">Clear all</button>
+    <p class="fineprint">
+      Starred documents are kept in this browser only &mdash; never uploaded, never tied to
+      you. A share link carries the document references in the part of the URL browsers
+      don&rsquo;t send to the server.
+    </p>
+  </div>
 
   <noscript>
     <p class="status error">This search runs in your browser and needs JavaScript enabled.
@@ -55,6 +71,7 @@
   </noscript>
 
   <p id="status" class="status" role="status" aria-live="polite">Downloading the search index&hellip;</p>
+  <p id="explain" class="explain" hidden></p>
 
   <section id="results" aria-label="Search results"></section>
 
@@ -74,6 +91,13 @@
       <li><code>budget -title:"board report"</code> &mdash; exclude only by document title,
           so documents that merely mention it are kept.</li>
     </ul>
+  </section>
+  <section id="coverage" class="tips">
+    <h2>What is in this index</h2>
+    <div id="coverage-body"></div>
+    <p class="fineprint">
+      <a href="feed.xml">Subscribe to newly indexed documents</a> (Atom feed).
+    </p>
   </section>
 </main>
 

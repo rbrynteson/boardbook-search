@@ -9,8 +9,14 @@ name: Update index and deploy
 
 on:
   schedule:
-    # 06:20 UTC every Monday (just after the weekend, before the work week).
-    - cron: '20 6 * * 1'
+    # Friday 12:20 UTC. New meetings are published on Thursdays, so Friday
+    # morning picks them up while people are still looking for them.
+    #
+    # The time matters as much as the day: BoardBook advertises a nightly
+    # maintenance window of midnight to 5 AM Central, which is 05:00-10:00 UTC
+    # during CDT and 06:00-11:00 UTC during CST. 12:20 UTC clears it in both,
+    # and lands at 7:20 AM Central.
+    - cron: '20 12 * * 5'
   workflow_dispatch:
     inputs:
       full:

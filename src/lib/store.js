@@ -7,7 +7,7 @@ import { paths } from '../config.js';
 export const sha1 = (input) =>
   crypto.createHash('sha1').update(input).digest('hex').slice(0, 16);
 
-const STATE_VERSION = 3;
+const STATE_VERSION = 4;
 
 /**
  * Bring an older state file forward rather than discarding it - the cache it
@@ -16,6 +16,11 @@ const STATE_VERSION = 3;
  * v2 -> v3: v2 recorded a scanned document with no readable text as simply
  * "extracted, 0 chars". A later run with OCR available would treat it as done
  * and skip it forever. Mark those so they get retried once.
+ *
+ * v3 -> v4: add `firstSeen`, so the "what's new" feed can report when a document
+ * entered the index. `extractedAt` cannot stand in for it - re-extraction moves
+ * that timestamp, as the OCR retry did for every scanned document - so the
+ * existing value is copied once here and then left alone.
  */
 function migrate(state) {
   if (state.version === 2) {
@@ -33,6 +38,21 @@ function migrate(state) {
       );
     }
   }
+
+  if (state.version === 3) {
+    let seeded = 0;
+    for (const doc of Object.values(state.documents ?? {})) {
+      if (!doc.firstSeen && doc.extractedAt) {
+        doc.firstSeen = doc.extractedAt;
+        seeded += 1;
+      }
+    }
+    state.version = 4;
+    if (seeded) {
+      process.stderr.write(`state: migrated to v4, seeded firstSeen for ${seeded} document(s)\n`);
+    }
+  }
+
   return state;
 }
 
