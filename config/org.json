@@ -8,7 +8,7 @@
   "siteTagline": "Full-text search across Robbinsdale Area Schools board meeting agendas, minutes, and packets.",
 
   "_comment_scope": "Agenda + minutes text is indexed for ALL meetings (cheap). Attachment PDF text is only fetched for meetings on/after attachmentsSinceDate, because the full archive is ~15GB and site.db must download to every visitor.",
-  "attachmentsSinceDate": "2021-01-01",
+  "attachmentsSinceDate": "2023-01-01",
   "meetingsSinceDate": null,
 
   "_comment_limits": "Guardrails so a runaway run cannot hammer BoardBook or explode the database.",

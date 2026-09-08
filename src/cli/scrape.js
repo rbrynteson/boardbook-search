@@ -57,6 +57,17 @@ const SETTLED_BEFORE = new Date(Date.now() - SETTLED_DAYS * 86_400_000)
 // Whether this run can actually read scanned pages. Resolved once in main().
 let ocrReady = false;
 
+/**
+ * Does this document have scanned pages that no run has yet been able to read?
+ *
+ * Checked by every cache shortcut, not just extractDocument: a meeting whose
+ * agenda is unchanged, and minutes that are past the "settled" window, are both
+ * served straight from the cache, so without this they would skip the very
+ * documents OCR was installed to rescue.
+ */
+const needsOcrRetry = (fileId, state) =>
+  ocrReady && Boolean(state.documents[fileId]?.ocrPending);
+
 const inScopeForDocs = (meeting) => {
   if (SKIP_DOCS) return false;
   if (!SINCE) return true;
@@ -121,7 +132,7 @@ async function extractDocument(fileId, url, label, state, stats) {
   // was extracted somewhere without tesseract - a laptop, say - and this run
   // does have OCR, retry it. Otherwise the empty result from the first machine
   // is cached forever and the scanned minutes stay invisible.
-  const retryForOcr = Boolean(prior?.ocrPending) && ocrReady;
+  const retryForOcr = needsOcrRetry(fileId, state);
 
   if (!FULL && prior && !prior.failed && hasText(fileId) && !retryForOcr) {
     stats.cached += 1;
@@ -247,7 +258,9 @@ async function main() {
         // are always re-checked. Once a meeting is well past that window and we
         // already hold its minutes, re-requesting them every week is pure load.
         const settled = SETTLED_BEFORE && meeting.date && meeting.date < SETTLED_BEFORE;
-        const cachedMinutes = unchanged && settled && prior?.minutesFileId && hasText(prior.minutesFileId);
+        const cachedMinutes = unchanged && settled && prior?.minutesFileId
+          && hasText(prior.minutesFileId)
+          && !needsOcrRetry(prior.minutesFileId, state);
 
         if (cachedMinutes) {
           minutes = {
@@ -297,7 +310,7 @@ async function main() {
     for (const item of agenda.items) {
       for (const att of item.attachments) {
         if (!wantDocs) { att.indexed = false; continue; }
-        if (unchanged && hasText(att.fileId)) {
+        if (unchanged && hasText(att.fileId) && !needsOcrRetry(att.fileId, state)) {
           att.indexed = true;
           docStats.cached += 1;
           continue;
