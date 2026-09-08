@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "orgId": "964",
-  "lastRun": "2026-09-08T16:02:23.480Z",
+  "lastRun": "2026-09-08T16:14:04.860Z",
   "meetings": {
     "726735": {
       "agendaHash": "6c13c2ab46246c2d",
@@ -78,210 +78,210 @@
       "itemCount": 34,
       "minutesFileId": "4448291",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:23.479Z"
+      "scrapedAt": "2026-09-08T16:14:04.860Z"
     },
     "735366": {
       "agendaHash": "92df91417db415ec",
       "itemCount": 15,
       "minutesFileId": "4448292",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:22.292Z"
+      "scrapedAt": "2026-09-08T16:14:03.656Z"
     },
     "736409": {
       "agendaHash": "4eb51f8525a28af3",
       "itemCount": 1,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:19.875Z"
+      "scrapedAt": "2026-09-08T16:14:01.249Z"
     },
     "736481": {
       "agendaHash": "cf5df3a8e20e8e12",
       "itemCount": 16,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:21.072Z"
+      "scrapedAt": "2026-09-08T16:14:02.460Z"
     },
     "736684": {
       "agendaHash": "fa822bcee4d0bab3",
       "itemCount": 35,
       "minutesFileId": "4448290",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:17.620Z"
+      "scrapedAt": "2026-09-08T16:13:58.865Z"
     },
     "740161": {
       "agendaHash": "377674f09140ae51",
       "itemCount": 36,
       "minutesFileId": "4448294",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:15.091Z"
+      "scrapedAt": "2026-09-08T16:13:56.478Z"
     },
     "740164": {
       "agendaHash": "144456cc9e10ae9d",
       "itemCount": 14,
       "minutesFileId": "4448295",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:13.876Z"
+      "scrapedAt": "2026-09-08T16:13:55.252Z"
     },
     "740459": {
       "agendaHash": "54d10682e22e851b",
       "itemCount": 14,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:16.261Z"
+      "scrapedAt": "2026-09-08T16:13:57.648Z"
     },
     "740467": {
       "agendaHash": "d3e3ae392e0e434c",
       "itemCount": 11,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:01.886Z"
+      "scrapedAt": "2026-09-08T16:13:33.369Z"
     },
     "743017": {
       "agendaHash": "30a5182e94363070",
       "itemCount": 1,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:12.672Z"
+      "scrapedAt": "2026-09-08T16:13:54.050Z"
     },
     "743021": {
       "agendaHash": "ceec71c953da4890",
       "itemCount": 40,
       "minutesFileId": "4448293",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:10.274Z"
+      "scrapedAt": "2026-09-08T16:13:51.679Z"
     },
     "743187": {
       "agendaHash": "b23016ae9d1f7694",
       "itemCount": 12,
       "minutesFileId": "4448296",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:09.166Z"
+      "scrapedAt": "2026-09-08T16:13:51.598Z"
     },
     "745646": {
       "agendaHash": "3caeda1d40263edf",
       "itemCount": 37,
       "minutesFileId": "4448297",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:06.756Z"
+      "scrapedAt": "2026-09-08T16:13:46.316Z"
     },
     "745735": {
       "agendaHash": "d598c3fd005d3bad",
       "itemCount": 14,
       "minutesFileId": "4448298",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:04.473Z"
+      "scrapedAt": "2026-09-08T16:13:39.181Z"
     },
     "747443": {
       "agendaHash": "e99043a89e9998d8",
       "itemCount": 1,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:02:00.662Z"
+      "scrapedAt": "2026-09-08T16:13:32.195Z"
     },
     "747444": {
       "agendaHash": "fb81767968b0f5d7",
       "itemCount": 33,
       "minutesFileId": "4448299",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:58.351Z"
+      "scrapedAt": "2026-09-08T16:13:30.918Z"
     },
     "748921": {
       "agendaHash": "b7d8b6ed65603760",
       "itemCount": 13,
       "minutesFileId": "4448300",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:55.964Z"
+      "scrapedAt": "2026-09-08T16:13:22.984Z"
     },
     "750864": {
       "agendaHash": "ed8452bcbbf776ae",
       "itemCount": 36,
       "minutesFileId": "4448302",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:53.576Z"
+      "scrapedAt": "2026-09-08T16:13:16.923Z"
     },
     "751003": {
       "agendaHash": "c63442e1fed0bf1f",
       "itemCount": 13,
       "minutesFileId": "4448303",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:51.289Z"
+      "scrapedAt": "2026-09-08T16:13:14.571Z"
     },
     "752763": {
       "agendaHash": "b84e93c0c7c729f0",
       "itemCount": 1,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:48.693Z"
+      "scrapedAt": "2026-09-08T16:13:12.099Z"
     },
     "752767": {
       "agendaHash": "7123b4558946eb0f",
       "itemCount": 27,
       "minutesFileId": "4448304",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:46.364Z"
+      "scrapedAt": "2026-09-08T16:13:10.838Z"
     },
     "755529": {
       "agendaHash": "178c94a156eab830",
       "itemCount": 29,
       "minutesFileId": "4448305",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:44.112Z"
+      "scrapedAt": "2026-09-08T16:13:03.697Z"
     },
     "756333": {
       "agendaHash": "bb907d9a9693de5b",
       "itemCount": 11,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:41.466Z"
+      "scrapedAt": "2026-09-08T16:12:55.488Z"
     },
     "757761": {
       "agendaHash": "74c1b973da17ec34",
       "itemCount": 1,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:40.298Z"
+      "scrapedAt": "2026-09-08T16:12:54.283Z"
     },
     "757763": {
       "agendaHash": "67018b011953608d",
       "itemCount": 25,
       "minutesFileId": "14330488",
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:38.076Z"
+      "scrapedAt": "2026-09-08T16:12:52.991Z"
     },
     "760887": {
       "agendaHash": "633193d6e2a08eba",
       "itemCount": 31,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:35.493Z"
+      "scrapedAt": "2026-09-08T16:12:45.339Z"
     },
     "761224": {
       "agendaHash": "804179c8db446d67",
       "itemCount": 10,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:33.081Z"
+      "scrapedAt": "2026-09-08T16:12:42.951Z"
     },
     "761231": {
       "agendaHash": "3f6188c2ea9bcae6",
       "itemCount": 13,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:34.270Z"
+      "scrapedAt": "2026-09-08T16:12:44.151Z"
     },
     "762688": {
       "agendaHash": "5ea0137de6d2d1bc",
       "itemCount": 1,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:31.868Z"
+      "scrapedAt": "2026-09-08T16:12:41.737Z"
     },
     "762689": {
       "agendaHash": "18fa9746a3bbb119",
       "itemCount": 30,
       "minutesFileId": null,
       "docsComplete": true,
-      "scrapedAt": "2026-09-08T16:01:30.696Z"
+      "scrapedAt": "2026-09-08T16:12:40.563Z"
     }
   },
   "documents": {
@@ -644,7 +644,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:43:32.636Z"
+      "extractedAt": "2026-09-08T14:43:32.636Z",
+      "ocrPending": true
     },
     "4434133": {
       "hash": "1a4daf9fd4a46250",
@@ -717,7 +718,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:43:03.206Z"
+      "extractedAt": "2026-09-08T14:43:03.206Z",
+      "ocrPending": true
     },
     "4434229": {
       "hash": "78f2fb171f61611c",
@@ -822,7 +824,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:39:28.119Z"
+      "extractedAt": "2026-09-08T14:39:28.119Z",
+      "ocrPending": true
     },
     "4434490": {
       "hash": "1664d2b1b7fad227",
@@ -847,7 +850,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:39:29.299Z"
+      "extractedAt": "2026-09-08T14:39:29.299Z",
+      "ocrPending": true
     },
     "4434535": {
       "hash": "e2febd4360793f4d",
@@ -1680,7 +1684,8 @@
       "pages": 4,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:46:31.292Z"
+      "extractedAt": "2026-09-08T14:46:31.292Z",
+      "ocrPending": true
     },
     "4446681": {
       "hash": "c784555b58121135",
@@ -1689,7 +1694,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:46:32.201Z"
+      "extractedAt": "2026-09-08T14:46:32.201Z",
+      "ocrPending": true
     },
     "4446684": {
       "hash": "d0e681bf8075b700",
@@ -1698,7 +1704,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:46:52.147Z"
+      "extractedAt": "2026-09-08T14:46:52.147Z",
+      "ocrPending": true
     },
     "4446685": {
       "hash": "7fbccc2088984488",
@@ -1707,7 +1714,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:46:59.533Z"
+      "extractedAt": "2026-09-08T14:46:59.533Z",
+      "ocrPending": true
     },
     "4446686": {
       "hash": "7b94ba9a06534f8d",
@@ -1756,7 +1764,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:45:33.477Z"
+      "extractedAt": "2026-09-08T14:45:33.477Z",
+      "ocrPending": true
     },
     "4446698": {
       "hash": "2d6b9e774e2be11d",
@@ -1765,7 +1774,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:45:34.422Z"
+      "extractedAt": "2026-09-08T14:45:34.422Z",
+      "ocrPending": true
     },
     "4446699": {
       "hash": "73da92c76e26f552",
@@ -1774,7 +1784,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:45:40.336Z"
+      "extractedAt": "2026-09-08T14:45:40.336Z",
+      "ocrPending": true
     },
     "4446700": {
       "hash": "219617ae282b8539",
@@ -1887,7 +1898,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:44:52.583Z"
+      "extractedAt": "2026-09-08T14:44:52.583Z",
+      "ocrPending": true
     },
     "4446719": {
       "hash": "4010b6a72bfea7c6",
@@ -1976,7 +1988,8 @@
       "pages": 6,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:44:38.879Z"
+      "extractedAt": "2026-09-08T14:44:38.879Z",
+      "ocrPending": true
     },
     "4446731": {
       "hash": "9ac6154de803ecd5",
@@ -2337,7 +2350,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:43:43.492Z"
+      "extractedAt": "2026-09-08T14:43:43.492Z",
+      "ocrPending": true
     },
     "4446785": {
       "hash": "e8d677b051d9a093",
@@ -2410,7 +2424,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:42:58.409Z"
+      "extractedAt": "2026-09-08T14:42:58.409Z",
+      "ocrPending": true
     },
     "4446798": {
       "hash": "2144e2e42286ebdd",
@@ -2531,7 +2546,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:42:42.004Z"
+      "extractedAt": "2026-09-08T14:42:42.004Z",
+      "ocrPending": true
     },
     "4446818": {
       "hash": "ade783574c0beeb1",
@@ -2596,7 +2612,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:42:52.667Z"
+      "extractedAt": "2026-09-08T14:42:52.667Z",
+      "ocrPending": true
     },
     "4446827": {
       "hash": "f139d198c1584590",
@@ -2605,7 +2622,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:42:55.187Z"
+      "extractedAt": "2026-09-08T14:42:55.187Z",
+      "ocrPending": true
     },
     "4446830": {
       "hash": "a3311dbb53c159db",
@@ -2806,7 +2824,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:42:39.570Z"
+      "extractedAt": "2026-09-08T14:42:39.570Z",
+      "ocrPending": true
     },
     "4446862": {
       "hash": "d95154240f64543a",
@@ -2823,7 +2842,8 @@
       "pages": 7,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:41:39.125Z"
+      "extractedAt": "2026-09-08T14:41:39.125Z",
+      "ocrPending": true
     },
     "4446864": {
       "hash": "d259ad9dd5bb7660",
@@ -2920,7 +2940,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:40:56.110Z"
+      "extractedAt": "2026-09-08T14:40:56.110Z",
+      "ocrPending": true
     },
     "4446882": {
       "hash": "fd2fb30c4c9cb572",
@@ -2953,7 +2974,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:41:40.400Z"
+      "extractedAt": "2026-09-08T14:41:40.400Z",
+      "ocrPending": true
     },
     "4446886": {
       "hash": "fac20889822b1501",
@@ -2962,7 +2984,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:41:41.582Z"
+      "extractedAt": "2026-09-08T14:41:41.582Z",
+      "ocrPending": true
     },
     "4446887": {
       "hash": "2f05a49e17dbab73",
@@ -2971,7 +2994,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:41:54.904Z"
+      "extractedAt": "2026-09-08T14:41:54.904Z",
+      "ocrPending": true
     },
     "4446889": {
       "hash": "d75115e1506a1deb",
@@ -3508,7 +3532,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:40:37.146Z"
+      "extractedAt": "2026-09-08T14:40:37.146Z",
+      "ocrPending": true
     },
     "4446977": {
       "hash": "9c2f63a9f9396554",
@@ -3525,7 +3550,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:39:18.593Z"
+      "extractedAt": "2026-09-08T14:39:18.593Z",
+      "ocrPending": true
     },
     "4446979": {
       "hash": "bdfbf7971b78cad3",
@@ -3534,7 +3560,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:39:19.765Z"
+      "extractedAt": "2026-09-08T14:39:19.765Z",
+      "ocrPending": true
     },
     "4446980": {
       "hash": "b57023c23d056f4c",
@@ -3543,7 +3570,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:39:41.236Z"
+      "extractedAt": "2026-09-08T14:39:41.236Z",
+      "ocrPending": true
     },
     "4446982": {
       "hash": "b32f3f0eb3156dc9",
@@ -3872,7 +3900,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:38:14.769Z"
+      "extractedAt": "2026-09-08T14:38:14.769Z",
+      "ocrPending": true
     },
     "4447044": {
       "hash": "16d2f505d4e672d4",
@@ -3881,7 +3910,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:38:20.991Z"
+      "extractedAt": "2026-09-08T14:38:20.991Z",
+      "ocrPending": true
     },
     "4447045": {
       "hash": "0d6685cd2566a73c",
@@ -3890,7 +3920,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:38:22.016Z"
+      "extractedAt": "2026-09-08T14:38:22.016Z",
+      "ocrPending": true
     },
     "4447046": {
       "hash": "a492ad04a541bd8e",
@@ -4067,7 +4098,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:40:50.236Z"
+      "extractedAt": "2026-09-08T14:40:50.236Z",
+      "ocrPending": true
     },
     "4447070": {
       "hash": "eb41c7551d5ad248",
@@ -4084,7 +4116,8 @@
       "pages": 30,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:36:55.907Z"
+      "extractedAt": "2026-09-08T14:36:55.907Z",
+      "ocrPending": true
     },
     "4447072": {
       "hash": "c85f1df15ac2601a",
@@ -4413,7 +4446,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:37:00.489Z"
+      "extractedAt": "2026-09-08T14:37:00.489Z",
+      "ocrPending": true
     },
     "4447126": {
       "hash": "7545736dd2f149cf",
@@ -4422,7 +4456,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:37:01.623Z"
+      "extractedAt": "2026-09-08T14:37:01.623Z",
+      "ocrPending": true
     },
     "4447127": {
       "hash": "404e0bea97e9e982",
@@ -4479,7 +4514,8 @@
       "pages": 7,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:36:17.850Z"
+      "extractedAt": "2026-09-08T14:36:17.850Z",
+      "ocrPending": true
     },
     "4447154": {
       "hash": "29cf95e1c74812e7",
@@ -4488,7 +4524,8 @@
       "pages": 5,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:36:21.566Z"
+      "extractedAt": "2026-09-08T14:36:21.566Z",
+      "ocrPending": true
     },
     "4447158": {
       "hash": "73c1318deae74e5d",
@@ -4497,7 +4534,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:36:19.463Z"
+      "extractedAt": "2026-09-08T14:36:19.463Z",
+      "ocrPending": true
     },
     "4447166": {
       "hash": "2c63c7d54d0a61e4",
@@ -4514,7 +4552,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:35:53.769Z"
+      "extractedAt": "2026-09-08T14:35:53.769Z",
+      "ocrPending": true
     },
     "4447170": {
       "hash": "f085a766a0ed4296",
@@ -4523,7 +4562,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:35:54.954Z"
+      "extractedAt": "2026-09-08T14:35:54.954Z",
+      "ocrPending": true
     },
     "4447172": {
       "hash": "53c873e5753af215",
@@ -4628,7 +4668,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:35:18.758Z"
+      "extractedAt": "2026-09-08T14:35:18.758Z",
+      "ocrPending": true
     },
     "4447193": {
       "hash": "d7e05e1874fac693",
@@ -4677,7 +4718,8 @@
       "pages": 4,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:34:24.963Z"
+      "extractedAt": "2026-09-08T14:34:24.963Z",
+      "ocrPending": true
     },
     "4447201": {
       "hash": "22531107e0f8d93c",
@@ -4798,7 +4840,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:34:22.365Z"
+      "extractedAt": "2026-09-08T14:34:22.365Z",
+      "ocrPending": true
     },
     "4447230": {
       "hash": "daeff25f5dc30216",
@@ -4807,7 +4850,8 @@
       "pages": 10,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:34:39.451Z"
+      "extractedAt": "2026-09-08T14:34:39.451Z",
+      "ocrPending": true
     },
     "4447231": {
       "hash": "b33755413f5dad83",
@@ -4816,7 +4860,8 @@
       "pages": 8,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:34:41.649Z"
+      "extractedAt": "2026-09-08T14:34:41.649Z",
+      "ocrPending": true
     },
     "4447232": {
       "hash": "de6e646a10e39a66",
@@ -4825,7 +4870,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:34:44.619Z"
+      "extractedAt": "2026-09-08T14:34:44.619Z",
+      "ocrPending": true
     },
     "4447233": {
       "hash": "8c70893a06e4f88b",
@@ -5106,7 +5152,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:33:52.198Z"
+      "extractedAt": "2026-09-08T14:33:52.198Z",
+      "ocrPending": true
     },
     "4447282": {
       "hash": "e3bb57738c5982ac",
@@ -5115,7 +5162,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:34:00.568Z"
+      "extractedAt": "2026-09-08T14:34:00.568Z",
+      "ocrPending": true
     },
     "4447284": {
       "hash": "6d8bea71204f33f8",
@@ -5140,7 +5188,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:46:22.375Z"
+      "extractedAt": "2026-09-08T14:46:22.375Z",
+      "ocrPending": true
     },
     "4448284": {
       "hash": "2d6b9e774e2be11d",
@@ -5149,7 +5198,8 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:46:15.010Z"
+      "extractedAt": "2026-09-08T14:46:15.010Z",
+      "ocrPending": true
     },
     "4448286": {
       "hash": "40861d38da99ab36",
@@ -5158,7 +5208,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:44:24.746Z"
+      "extractedAt": "2026-09-08T14:44:24.746Z",
+      "ocrPending": true
     },
     "4448287": {
       "hash": "e8d677b051d9a093",
@@ -5183,7 +5234,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:43:14.541Z"
+      "extractedAt": "2026-09-08T14:43:14.541Z",
+      "ocrPending": true
     },
     "4448290": {
       "hash": "d7ad89cb69656640",
@@ -5192,7 +5244,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:41:22.516Z"
+      "extractedAt": "2026-09-08T14:41:22.516Z",
+      "ocrPending": true
     },
     "4448291": {
       "hash": "c13b63c44c5aef57",
@@ -5201,7 +5254,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:42:29.723Z"
+      "extractedAt": "2026-09-08T14:42:29.723Z",
+      "ocrPending": true
     },
     "4448292": {
       "hash": "fac20889822b1501",
@@ -5210,7 +5264,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:42:22.596Z"
+      "extractedAt": "2026-09-08T14:42:22.596Z",
+      "ocrPending": true
     },
     "4448293": {
       "hash": "16d2f505d4e672d4",
@@ -5219,7 +5274,8 @@
       "pages": 3,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:38:59.531Z"
+      "extractedAt": "2026-09-08T14:38:59.531Z",
+      "ocrPending": true
     },
     "4448294": {
       "hash": "cbad2fa66eef26b5",
@@ -5228,7 +5284,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:40:14.260Z"
+      "extractedAt": "2026-09-08T14:40:14.260Z",
+      "ocrPending": true
     },
     "4448295": {
       "hash": "bdfbf7971b78cad3",
@@ -5237,52 +5294,48 @@
       "pages": 1,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:40:05.656Z"
+      "extractedAt": "2026-09-08T14:40:05.656Z",
+      "ocrPending": true
     },
     "4448296": {
       "hash": "0d6685cd2566a73c",
       "bytes": 764756,
-      "chars": 0,
+      "chars": 2480,
       "pages": 1,
-      "method": "none",
-      "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:38:47.975Z"
+      "method": "ocr",
+      "extractedAt": "2026-09-08T16:13:51.598Z"
     },
     "4448297": {
       "hash": "e885a0ae6f8ea4b9",
       "bytes": 1370359,
-      "chars": 0,
+      "chars": 4188,
       "pages": 2,
-      "method": "none",
-      "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:38:04.023Z"
+      "method": "ocr",
+      "extractedAt": "2026-09-08T16:13:46.316Z"
     },
     "4448298": {
       "hash": "7545736dd2f149cf",
       "bytes": 627462,
-      "chars": 0,
+      "chars": 1847,
       "pages": 1,
-      "method": "none",
-      "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:37:50.787Z"
+      "method": "ocr",
+      "extractedAt": "2026-09-08T16:13:39.181Z"
     },
     "4448299": {
       "hash": "e1426c1fcbbf1c21",
       "bytes": 1481376,
-      "chars": 0,
+      "chars": 5256,
       "pages": 2,
-      "method": "none",
-      "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:36:47.054Z"
+      "method": "ocr",
+      "extractedAt": "2026-09-08T16:13:30.918Z"
     },
     "4448300": {
       "hash": "f085a766a0ed4296",
       "bytes": 675137,
-      "chars": 0,
+      "chars": 2196,
       "pages": 1,
-      "method": "none",
-      "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:36:33.654Z"
+      "method": "ocr",
+      "extractedAt": "2026-09-08T16:13:22.984Z"
     },
     "4448302": {
       "hash": "d083fbc9c85c58ba",
@@ -5303,20 +5356,18 @@
     "4448304": {
       "hash": "1980ff05da43f3e5",
       "bytes": 1339511,
-      "chars": 0,
+      "chars": 4287,
       "pages": 2,
-      "method": "none",
-      "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:34:54.283Z"
+      "method": "ocr",
+      "extractedAt": "2026-09-08T16:13:10.838Z"
     },
     "4448305": {
       "hash": "e80842e22626351a",
       "bytes": 1318525,
-      "chars": 0,
+      "chars": 4070,
       "pages": 2,
-      "method": "none",
-      "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:34:15.107Z"
+      "method": "ocr",
+      "extractedAt": "2026-09-08T16:13:03.697Z"
     },
     "14288140": {
       "hash": "5225a14b8c029192",
@@ -5349,7 +5400,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:38:39.474Z"
+      "extractedAt": "2026-09-08T14:38:39.474Z",
+      "ocrPending": true
     },
     "14307202": {
       "hash": "88a93ea202ff1b5c",
@@ -5498,11 +5550,10 @@
     "14330488": {
       "hash": "ea8f582ed3ea2e11",
       "bytes": 1075958,
-      "chars": 0,
+      "chars": 2883,
       "pages": 2,
-      "method": "none",
-      "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:33:42.503Z"
+      "method": "ocr",
+      "extractedAt": "2026-09-08T16:12:52.990Z"
     },
     "14330492": {
       "hash": "ea8f582ed3ea2e11",
@@ -5511,7 +5562,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:33:17.441Z"
+      "extractedAt": "2026-09-08T14:33:17.441Z",
+      "ocrPending": true
     },
     "14330560": {
       "hash": "42a0f72c141c0df4",
@@ -5536,7 +5588,8 @@
       "pages": 2,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:33:29.330Z"
+      "extractedAt": "2026-09-08T14:33:29.330Z",
+      "ocrPending": true
     },
     "14331050": {
       "hash": "3f6caac2f4ef22ab",
@@ -5545,7 +5598,8 @@
       "pages": 9,
       "method": "none",
       "note": "no text layer (scanned?); OCR disabled",
-      "extractedAt": "2026-09-08T14:33:33.400Z"
+      "extractedAt": "2026-09-08T14:33:33.400Z",
+      "ocrPending": true
     },
     "14331317": {
       "hash": "6ac8c6b7a44d7b73",
