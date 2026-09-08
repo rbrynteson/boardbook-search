@@ -1,0 +1,33 @@
+Agenda Item: 6
+School Board of Robbinsdale Area Schools
+Organizational/Business Meeting - January 5, 2026
+Other Organizational Business
+AGENDA SECTION:
+6.J. Designation of Identified Official with Authority (IOwA)
+ITEM:
+for the Minnesota Department of Education (MDE) External
+User Access Recertification System for 2026
+Dr. Teri Staloch, Superintendent
+COMMENTS BY:
+The MDE requires school districts to annually designate an IOwA to comply with State
+Access Control Security Standard 1.0 which states that all user access rights to Minnesota state systems must be reviewed and recertified at least annually. The IOwA will assign job duties and authorize external user's access to MDE secure systems for their local education agency (LEA).
+The Superintendent recommends the Board authorize the following individual to act as the IOwA for the Robbinsdale Public School District 0281-01:
+● Dr. Teri Staloch, Superintendent
+The Superintendent also recommends the Board authorize the following individual to act as the IOwA Proxy for the Robbinsdale Public School District 0281-01:
+● Dr. Bob McDowell, Assistant Superintendent
+Recommended Action:
+Approve the designation of Dr. Staloch as District 0281 IOwA, and the designation of
+Dr. Bob McDowell as District 0281 IOwA Proxy.
+Yes No Abstention
+Helen Bassett
+ReNae Bowman
+DJ Brynteson
+Dr. Greta
+Evans-Becker
+Aviva Hillenbrand
+Caroline Long
+Dr. Kenneth Wutoh
+
+Motion by: ________________________________ Yes: ________ Passed: ________
+Second by: _______________________________ No: ________ Failed: _________
+Abstentions: _______________________________________________________________

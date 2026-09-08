@@ -1,0 +1,108 @@
+Division of School Finance
+ED - 02478-11
+400 NE Stinson Blvd
+Long-Term Facility Maintenance Ten-Year Expenditure Application (LTFM) - Fund 01 and Fund 06 Projects Only
+MDE / School Finance
+Minneapolis, MN 55413
+Instructions: Enter estimated, allowable LTFM expenditures (Fund 01 and/or Fund 06 only) under Minnesota Statutes 2024, section 123B.595, subd. 10. Enter by Uniform Financial and Accounting Reporting Standards (UFARS) finance code and by fiscal year in the cells provided.
+no data no data no data no data no data no data no data no data
+District Info. (REQUIRED) Enter Information District Info. (REQUIRED) Enter Information
+District Name: Robbinsdale Area Schools Date: 6/16/2025 no data no data no data no data no data no data no data no data
+District Number: 0281-01 Email: kristen_hoheisel@rdale.org no data no data no data no data no data no data no data no data
+District Contact Name: Kristen Hoheisel no data no data no data no data no data no data no data no data no data no data no data
+Contact Phone # 763-507-8037 no data no data no data no data no data no data no data no data no data no data no data
+Fiscal Year (FY) Ending June 30
+Expenditure Categories
+2025 (base year) 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+Health and Safety - this section excludes project costs in Category 2 of $100,000 or more for which additional revenue is requested for Finance Codes 358, 363 and 366. no data no data no data no data no data no data no data no data no data no data no data
+Finance Code Category (1) 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+347 Physical Hazards $280,000 $118,700 $122,261 $125,929 $129,708 $133,599 $137,606 $141,734 $145,986 $150,366 $154,877
+349 Other Hazardous Materials $147,565 $129,600 $133,488 $137,493 $141,617 $145,866 $150,242 $154,749 $159,392 $164,173 $169,099
+352
+Environmental Health and Safety Management $205,000 $206,400 $212,592 $218,970 $225,539 $232,305 $239,274 $246,452 $253,846 $261,461 $269,305
+358
+Asbestos Removal and Encapsulation $11,200 $122,600 $126,278 $130,066 $133,968 $137,987 $142,127 $146,391 $150,783 $155,306 $159,965
+363 Fire Safety $415,784 $773,335 $1,298,855 $1,738,936 $2,404,802 $2,476,946 $2,551,254 $3,055,362 $3,550,673 $3,657,194 $3,766,909
+366 Indoor Air Quality $3,036 $84,100 $86,623 $89,222 $91,898 $94,655 $97,495 $100,420 $103,432 $106,535 $109,731
+all Total Health and Safety Capital Projects - Category (1) $1,062,585 $1,434,735 $1,980,097 $2,440,616 $3,127,532 $3,221,358 $3,317,998 $3,845,108 $4,364,112 $4,495,035 $4,629,886
+Health and Safety - Projects Costing $100,000 or more per Project/Site/Year - Additional Revenue no data no data no data no data no data no data no data no data no data no data no data
+Finance Code
+Category (2) 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+358 Asbestos Removal and Encapsulation $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+363
+Fire Safety $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+366
+Indoor Air Quality $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+all Total Health and Safety Capital Projects $100,000 or More - Category (2) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+Remodeling for Approved Voluntary Pre-K under Minnesota Statutes, section 124D.151 no data no data no data no data no data no data no data
+Finance Code Category 3 (a) 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+355
+Remodeling for prekindergarten (Pre-K) instruction approved by the commissioner. $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data
+Total Remodeling for Approved Voluntary Pre-K Projects - Category 3(a) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+Remodeling for Gender-Neutral Single-User Restrooms no data no data no data no data no data no data no data no data no data
+Finance/Course Codes
+Category 3 (b) LTFM REVENUE EFFECTIVE FY 2025 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+Finance Code 384 and
+Remodeling for gender-neutral single user restroom per site.
+$0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+Course Code 684 MUST
+USE BOTH Total Remodeling for Gender-Neutral Single User Projects - Category 3(b) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+Accessibility no data no data no data no data no data no data no data no data no data no data no data
+Finance Code Category (4) 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+367 Accessibility $0 $100,000 $0 $291,720 $261,924 $226,200 $92,625 $0 $0 $0 $0
+no data Total Accessibility Projects - Category (4) $0 $100,000 $0 $291,720 $261,924 $226,200 $92,625 $0 $0 $0 $0
+Deferred Capital Expenditures and Maintenance Projects no data no data no data no data no data no data no data no data no data no data no data
+Finance Code
+Category (5) 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+368 Building Envelope $52,655 $240,000 $169,634 $1,030,279 $1,676,441 $1,078,662 $2,066,553 $1,787,919 $1,223,235 $99,754 $1,331,280
+369
+Building Hardware and Equipment $550,520 $640,696 $2,561,570 $3,696,576 $1,448,423 $1,378,603 $1,585,090 $1,700,901 $1,038,214 $1,852,260 $2,373,215
+370
+Electrical $1,452,650 $217,320 $2,061,150 $8,738,140 $4,897,620 $1,831,128 $402,651 $697,970 $1,593,540 $746,200 $2,864,258
+379 Interior Surfaces $290,000 $458,925 $2,344,958 $4,360,252 $4,190,475 $2,757,810 $6,277,980 $4,254,940 $10,596,909 $7,934,425 $8,040,762
+380
+Mechanical Systems $2,269,500 $359,945 $1,410,373 $3,749,449 $6,103,293 $13,060,442 $6,555,343 $14,602,940 $7,340,005 $4,826,822 $4,629,749
+381
+Plumbing $26,636 $1,301,378 $186,869 $285,643 $472,271 $2,298,549 $8,039,038 $288,990 $175,500 $50,050 $305,370
+382 Professional Services and Salary $3,015,000 $275,000 $280,500 $286,110 $291,832 $297,669 $303,622 $309,695 $315,889 $322,206 $328,650
+Roof Systems (normally below $100,000 unless the school chooses not to receive
+383 additional revenue for $100K or more roofing project/site/year - pending 2025
+Legislation) $1,505,200 $1,094,532 $2,399,878 $3,818,176 $7,122,684 $3,005,984 $1,522,402 $1,089,994 $869,748 $9,085,249 $3,526,773
+384
+Site Projects $1,374,515 $2,227,860 $1,379,210 $1,304,489 $856,505 $2,376,420 $672,750 $1,292,850 $2,353,455 $1,499,680 $4,192,240
+no data Total Deferred Capital Expenditures and Maintenance Projects - Category (5) $10,536,676 $6,815,656 $12,794,142 $27,269,114 $27,059,544 $28,085,267 $27,425,429 $26,026,199 $25,506,495 $26,416,646 $27,592,297
+Deferred Capital Expenditures for Roofing Projects - Additional Revenue for $100,000 or more project/site/year no data no data no data no data no data no data no data no data no data no data no data
+Category (6)
+Finance Code 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+Roofing Systems -pending 2025 Legislation and if passed effective FY 2027
+383 PENDING CHANGES IN THE 2025 LEGISLATIVE SESSION
+no data Total Deferred Capital Expense and Maintenance - Category (6) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+$11,599,261 $8,350,391 $14,774,239 $30,001,450 $30,449,000 $31,532,825 $30,836,052 $29,871,307 $29,870,607 $30,911,681 $32,222,183
+Total Annual 10-Year Plan Expenditures
+Fund Balance Section
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+FY 25 and 26 Revenue Projection
+FY 27 Revenue Projection Model Ten-Year Spreadsheet
+Model Revenue no data Fund 01
+no data Beginning Fund Balance 01-467-XX $520,486 $446,916 $6,945 $6,945 $4,615 $19,995 $102,050 $130,878 $124,451 $118,724 $71,923
+no data LTFM Fiscal Year Revenue - Levy $1,131,062 $1,032,629 $4,307,620 $7,360,000 $30,599,500 $31,750,000 $31,000,000 $30,000,000 $30,000,000 $31,000,000 $32,500,000
+no data LTFM Fiscal Year Revenue - AID if Applicable $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Fiscal Year Revenue Other $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Transfer IN from Fund 06 if applicable (see transfer guidance tab) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+LTFM Deduction for applicable Cooperative/Intermediate Member District Levy
+LEVY Page 10, Line 421 $142,047 $137,865 $135,120 $135,120 $135,120 $135,120 $135,120 $135,120 $135,120 $135,120 $135,120
+no data LTFM Transfer OUT from Fund 01 if applicable (see transfer guidance tab) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Transfer OUT if applicable - Special Legislation $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Estimated Fiscal Year Expenditures $1,062,585 $1,334,735 $4,172,500 $7,227,210 $30,449,000 $31,532,825 $30,836,052 $29,871,307 $29,870,607 $30,911,681 $32,222,183
+Ending Fiscal Year Fund Balance 01-467-XX $446,916 $6,945 $6,945 $4,615 $19,995 $102,050 $130,878 $124,451 $118,724 $71,923 $214,620
+no data Fund 06 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+no data Beginning Fund Balance 06-467-XX $12,363,311 $21,161,635 $33,045,979 $22,674,240 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Fiscal Year Bonded Revenue $18,935,000 $18,450,000 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Fiscal Year Revenue Other $400,000 $450,000 $200,000 $100,000 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Transfer IN from Fund 01 if applicable (see transfer guidance tab) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Transfer OUT from Fund 06 if applicable (see transfer guidance tab) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data Other Transfers $0 $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+no data LTFM Estimated Fiscal Year Expenditures $10,536,676 $7,015,656 $10,571,739 $22,774,240 $0 $0 $0 $0 $0 $0 $0
+Ending Fiscal Year Fund Balance 06-467-XX $21,161,635 $33,045,979 $22,674,240 $0 $0 $0 $0 $0 $0 $0 $0
+End of worksheet

@@ -1,0 +1,212 @@
+MDE / School Finance Division
+FY 26 Long-Term Facilities Maintenance (LTFM) Ten-Year Revenue Projection Revised 5/09/2024 n/a n/a n/a
+281 <= Type in School District Number n/a n/a n/a n/a n/a n/a n/a n/a n/a ROBBINSDALE PUBLIC SCHOOL DISTRICT n/a Change only n/a n/a n/a n/a n/a n/a n/a n/a n/a if requiring levy Payable 2024 n/a n/a n/a n/a n/a
+Calculations for Ten Year Projection Pay 24 adjustments LLC Certification Current Estimate n/a n/a n/a n/a n/a n/a LLC # FY 2024 FY 2025 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029
+1 Type your district number in cell A2 (Minneapolis = 1.2) n/a n/a n/a n/a n/a n/a n/a n/a
+2
+Type APU, health and safety and alternative facilities project, and bond estimates in lines 6a, 14, 16b to
+18, 20, 21, 26, 27 and 50b n/a n/a n/a n/a n/a n/a n/a n/a
+3
+Type debt excess, intermediate/coop district, and revenue reduction data in lines 13, 15, 23, 31, and 33 n/a n/a n/a n/a n/a n/a n/a n/a
+4 Look-up data from following tabs n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+5 Initial Formula Revenue n/a n/a n/a n/a n/a n/a n/a n/a
+6 Current year APU 57 n/a 11,522.00 11,575.76 11,543.25 11,543.25 11,543.25 11,543.25
+6a Additional Pre-K Pupil Units ( line 19 of Pre-K application) n/a n/a n/a
+6b Total Adjusted Pupil Units = (6) + (6a) n/a n/a n/a 11,575.76 11,543.25 11,543.25 11,543.25 11,543.25
+7 District average building age (uncapped) 401 n/a 54.90 54.91 55.91 56.91 57.91 58.91
+8 Formula allowance n/a n/a $ 380.00 $ 380.00 $ 380.00 $ 380.00 $ 380.00 $ 380.00
+9 Building age ratio = (Lesser of 1 or (7) / 35) 402 n/a n/a 1.00000 1.00000 1.00000 1.00000 1.00000
+10 Initial revenue = (6) * (8) * (9) 403 n/a 4,378,360 4,398,789 4,386,436 4,386,436 4,386,436 4,386,436
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+11 Added revenue for Eligible H&S Projects > $100,000 / site n/a n/a n/a n/a n/a n/a n/a n/a
+12
+Debt service for existing Alt facilities H&S bonds (1B) - gross before debt excess 701 n/a n/a - - - - -
+13
+Debt Excess related to Debt service for existing Alt facilities H&S bonds (1B) 754 n/a n/a - - - - -
+14 Debt service for portion of existing Alt facilities bonds from line (22) attributable to eligible H&S Projects >
+$100,000 per site (1A) 700 n/a n/a - - - - -
+15
+Debt Excess related to Debt service for portion of existing Alt facilities bonds attributable to eligible H&S
+Projects > $100,000 per site (1A) 753 n/a n/a - - - - -
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+16a Existing Net debt service for LTFM bonds for eligible new H&S projects > $100,000 / site = (principal +
+interest)*1.05 - portion of bond paid by initial revenue from "IAQFAA Bonds" tab n/a n/a n/a 176,590 185,253 277,390 280,803 283,690
+16b
+New debt service for LTFM bonds for eligible new H&S projects > $100,000 / site = (principal + interest)*1.05
+- portion of bond paid by initial revenue n/a n/a n/a - - - - -
+17
+Net debt service for LTFM bonds for eligible new H&S projects > $100,000 / site = (principal + interest)*1.05 -
+portion of bond paid by initial revenue = (16a) + (16b) 765 n/a n/a 176,590 185,253 277,390 280,803 283,690
+18 Pay as you go revenue for eligible new H&S projects > $100,000 / site 405
+- n/a - - - - -
+19
+Total additional revenue for eligible H&S projects >$100,000 / site (12) - (13) + (14) -(15) + (17) + (18) 406 n/a 175,900 176,590 185,253 277,390 280,803 283,690
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+Added revenue for Pre-K remodeling (for VPK approvals only) n/a n/a n/a n/a n/a n/a n/a n/a
+20a Net debt service for bonds approved for Pre-K remodeling 766 n/a n/a - - - - -
+20b Pay as you go for projects approved for Pre-K remodeling 407 n/a n/a -
+20c Total Pre-K revenue n/a n/a n/a - - - - -
+n/a n/a n/a n/a n/a n/a n/a n/a n/a
+20d Total New Law Revenue (10) + (19) + (20c) 408 n/a n/a 4,575,379 4,571,688 4,663,826 4,667,238 4,670,126
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+
+MDE / School Finance Division
+FY 26 Long-Term Facilities Maintenance (LTFM) Ten-Year Revenue Projection Revised 5/09/2024 n/a n/a n/a
+281 <= Type in School District Number n/a n/a n/a n/a n/a n/a n/a n/a n/a ROBBINSDALE PUBLIC SCHOOL DISTRICT n/a Change only n/a n/a n/a n/a n/a n/a n/a n/a n/a if requiring levy Payable 2024 n/a n/a n/a n/a n/a
+Calculations for Ten Year Projection Pay 24 adjustments LLC Certification Current Estimate n/a n/a n/a n/a n/a n/a LLC # FY 2024 FY 2025 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029
+Old Formula revenue n/a n/a n/a n/a n/a n/a n/a n/a
+21
+Old formula Health & Safety revenue (these should match the pay as you go amounts entered into the Health
+& Safety Data Submission System through FY 2026) 409 n/a 1,872,500 1,872,500 1,872,500 1,872,500 1,872,500 1,872,500
+22
+Old formula alt facilities debt revenue (1A) - gross before debt excess 700 n/a n/a 10,635,870 10,203,533 3,131,573 2,203,740 1,380,540
+23 Debt Excess allocated to line 22 n/a n/a n/a - - - - -
+24 Old formula alt facilities debt revenue (1A) - debt excess 763 n/a n/a 10,635,870 10,203,533 3,131,573 2,203,740 1,380,540
+25 Old formula alt facilities net debt revenue (1B) = (12) - (13) 764 n/a n/a - - - - -
+26 Old formula alt facilities pay as you go revenue (1A) 410 - n/a - - - - -
+26b (18)
+Pay-as-you-go revenue for H&S projects over $100,000 per site 411 n/a n/a - - - - -
+27
+Old formula alt facilities pay as you go revenue (1B) > $500,000 (these should match the pay as you go amounts entered into the Health & Safety Data Submission System through FY 2026) 413 n/a n/a - - - - -
+27a LTFM "H&S >100K per site" bonds 765 n/a n/a 176,590 185,253 277,390 280,803 283,690
+27b LTFM "other" bonds for 1A hold harmless 767 n/a n/a 10,789,221 14,108,469 18,964,509 19,852,914 20,623,194
+28 Old formula deferred maintenance revenue
+= (if (22) + (26) = 0, (10) * ($64 / formula allowance)) 416 n/a n/a - - - - -
+29
+Total old formula revenue = (21)+(24)+(25)+(26)+(26b)+(27)+(27a)+(27b)+(28) 417 n/a 23,389,684 23,474,181 26,369,754 24,245,972 24,209,957 24,159,925
+n/a n/a n/a n/a n/a n/a n/a n/a n/a
+Total LTFM Revenue for Individual District Projects
+30
+= Greater of (20d) or [(29) + (20c)] 418
+n/a 23,389,684 23,474,181 26,369,754 24,245,972 24,209,957 24,159,925
+31
+District Requested Reduction from Maximum LTFM Revenue (to levy less than the maximum). Also enter this amount in the Levy Information System. Stated as positive number 419 n/a - - - - - -
+n/a n/a n/a n/a n/a n/a n/a n/a n/a
+District LTFM Revenue (30) - (31) 420
+32 n/a 23,389,684 23,474,181 26,369,754 24,245,972 24,209,957 24,159,925
+n/a n/a n/a n/a n/a n/a n/a n/a n/a
+33
+LTFM Revenue for District Share of Eligible Cooperative / Intermediate Projects (Unequalized) 421
+n/a 142,047 142,047 137,865 137,865 137,865 137,865
+Grand Total LTFM Revenue (32) + (33) 422
+n/a 23,531,731 23,616,228 26,507,619 24,383,837 24,347,822 24,297,789
+34
+n/a n/a n/a n/a n/a n/a n/a n/a n/a
+Aid and Levy Shares of Total Revenue n/a n/a n/a n/a n/a n/a n/a
+35 For ANTC & APU, three year prior date n/a n/a 2022 2022 2023 2024 2025 2026
+Three year prior Ag Modified ANTC 35 n/a 174,033,406 174,033,406 178,405,539 185,541,760 192,963,431 200,681,968
+36
+37 Three year prior Adjusted PU (New Weights) 54 n/a 12,199.40 12,199.35 11,818.68 11,763.27 11,575.76 11,543.25
+38 ANTC / APU = (36) / (37) 424 n/a 14,265.73 14,265.79 15,095.22 15,772.98 16,669.61 17,385.22
+39 State average ANTC / APU with ag value adjustment 425 n/a 12,230.05 12,230.05 13,617.01 14,207.10 14,848.85 15,443.00
+40 Equalizing Factor = 123% of (39) 426 n/a 15,042.96 15,042.96 16,748.92 17,474.73 18,264.09 18,994.89
+41 Local (levy) share of Equalized Revenue (lesser of 1 or (38) / (40)) 427 n/a 94.83% 94.83% 90.13% 90.26% 91.27% 91.53%
+42 State (aid) share of Equalized Revenue (1 - (41)) 428 n/a 5.17% 5.17% 9.87% 9.74% 8.73% 8.47%
+43 Equalized Revenue (lesser of (34) or (6) * (8)) 423 n/a 4,378,360 4,398,789 4,386,436 4,386,436 4,386,436 4,386,436
+44 Initial LTFM State Aid (42) * (43) 429 n/a 226,262 227,256 433,094 427,166 382,942 371,716
+Old formula Grandfathered Alternative Facilities Aid 431 n/a 900,000 900,000 900,000 900,000 900,000 900,000
+45
+46 Total LTFM State Aid (Greater of (44) or (45)) 432 n/a 900,000 900,000 900,000 900,000 900,000 900,000
+47 Total LTFM Levy (34) - (46) (including coop/intermediate) 435 n/a 22,631,731 22,716,228 25,607,619 23,483,837 23,447,822 23,397,789
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+48 Debt Service Portion of Revenue (non-grandfather districts) n/a n/a n/a n/a n/a n/a n/a n/a
+49 Subtotal Debt Service Revenue from above
+763+764+
+765+766
+= (12) - (13) + (17) + (20a) + (24) n/a n/a 10,812,460 10,388,785 3,408,963 2,484,543 1,664,230
+50 Existing LTFM bonds excluding bonds on line 17 (principal + interest)*1.05 from "FM Other Bonds" tab
+767 n/a n/a 10,789,221 12,844,191 18,046,888 18,935,293 19,705,573
+50b New LTFM bonds excluding bonds on line 17 (principal + interest)*1.05
+n/a 1,264,278 917,621 917,621 917,621
+51 Total Debt Service Revenue = (49) + (50) + (50b) 768 n/a n/a 21,601,681 24,497,254 22,373,472 22,337,457 22,287,425
+
+MDE / School Finance Division
+FY 26 Long-Term Facilities Maintenance (LTFM) Ten-Year Revenue Projection Revised 5/09/2024 n/a n/a n/a
+281 <= Type in School District Number n/a n/a n/a n/a n/a n/a n/a n/a n/a ROBBINSDALE PUBLIC SCHOOL DISTRICT n/a Change only n/a n/a n/a n/a n/a n/a n/a n/a n/a if requiring levy Payable 2024 n/a n/a n/a n/a n/a
+Calculations for Ten Year Projection Pay 24 adjustments LLC Certification Current Estimate n/a n/a n/a n/a n/a n/a LLC # FY 2024 FY 2025 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029
+52 Equalized debt Service Revenue (lesser of (43) or (51)) 436 n/a n/a 4,398,789 4,386,436 4,386,436 4,386,436 4,386,436
+53 Debt Service Aid = (52) * (42) 438 n/a n/a 227,256 433,094 427,166 382,942 371,716
+54 Equalized Debt Service Levy = (52) - (53) 439 n/a n/a 4,171,533 3,953,342 3,959,269 4,003,494 4,014,719
+55 Unequalized Debt Service Revenue and Levy
+= (Greater of zero or (51) - (50)) 440 n/a n/a 17,202,892 20,110,818 17,987,037 17,951,022 17,900,989
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+56 General Fund Portion of Revenue (non-grandfather districts) n/a n/a n/a n/a n/a n/a n/a n/a
+57 Total General Fund Revenue = (34) - (51) 441 n/a n/a 2,014,547 2,010,365 2,010,365 2,010,365 2,010,365
+58 General Fund Equalized Revenue = (43) - (52) 442 n/a n/a - - - - -
+59 Total General Fund Aid = (46) - (53) 443 n/a n/a 672,744 466,906 472,834 517,058 528,284
+60 General Fund Equalized Levy = (58) * (41) 444 n/a n/a - - - - -
+61 General Fund Unequalized levy = (57) - (58) 445 n/a n/a 2,014,547 2,010,365 2,010,365 2,010,365 2,010,365
+62 Total General Fund Levy = (60) + (61) 446 n/a n/a 2,014,547 2,010,365 2,010,365 2,010,365 2,010,365
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+Notes:
+1. Underlevy on general fund equalized levy results in proportionate reduction in associated aid.
+2. Total Debt Service revenue on line 49 must not exceed total LTFM revenue for individual district projects
+(line 30) for any of the 10 years in the plan.
+3. For 1A districts with old Alt Facilities bonding, the amount on line 22 will reduce initial revenue on line 10, less the H & S portion entered on line 14.
+n/a n/a n/a n/a n/a n/a n/a n/a n/a
+
+MDE / School Finance Division n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+FY 2030 FY 2031 FY 2032 FY 2033 FY 2034
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+11,543.25 11,543.25 11,543.25 11,543.25 11,543.25
+11,543.25 11,543.25 11,543.25 11,543.25 11,543.25
+59.91 60.91 61.91 62.91 63.91
+$ 380.00 $ 380.00 $ 380.00 $ 380.00 $ 380.00
+1.00000 1.00000 1.00000 1.00000 1.00000
+4,386,436 4,386,436 4,386,436 4,386,436 4,386,436
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+275,553 277,915 279,753 329,995 325,690
+275,553 277,915 279,753 329,995 325,690
+275,553 277,915 279,753 329,995 325,690
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+4,661,988 4,664,351 4,666,188 4,716,431 4,712,126
+n/a n/a n/a n/a n/a
+
+MDE / School Finance Division n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+FY 2030 FY 2031 FY 2032 FY 2033 FY 2034
+n/a n/a n/a n/a n/a
+1,872,500 1,872,500 1,872,500 1,872,500 1,872,500
+721,088 725,025 572,985 - -
+721,088 725,025 572,985 - -
+275,553 277,915 279,753 329,995 325,690
+21,238,389 21,183,054 16,083,834 9,583,337 9,594,729
+24,107,530 24,058,495 18,809,072 11,785,832 11,792,920
+n/a n/a n/a n/a n/a
+24,107,530 24,058,495 18,809,072 11,785,832 11,792,920
+n/a n/a n/a n/a n/a
+24,107,530 24,058,495 18,809,072 11,785,832 11,792,920
+n/a n/a n/a n/a n/a
+137,865 137,865 137,865 137,865 137,865
+24,245,394 24,196,359 18,946,937 11,923,697 11,930,784
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+2027 2028 2029 2030 2031
+208,709,247 217,057,617 225,739,921 234,769,518 244,160,299
+11,543.25 11,543.25 11,543.25 11,543.25 11,543.25
+18,080.63 18,803.85 19,556.01 20,338.25 21,151.78
+16,061.00 16,703.00 17,371.00 18,066.00 18,789.00
+19,755.03 20,544.69 21,366.33 22,221.18 23,110.47
+91.52% 91.53% 91.53% 91.53% 91.52%
+8.48% 8.47% 8.47% 8.47% 8.48%
+4,386,436 4,386,436 4,386,436 4,386,436 4,386,436
+371,786 371,682 371,653 371,688 371,765
+900,000 900,000 900,000 900,000 900,000
+900,000 900,000 900,000 900,000 900,000
+23,345,394 23,296,359 18,046,937 11,023,697 11,030,784
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+996,640 1,002,940 852,738 329,995 325,690
+20,320,768 20,265,433 14,194,963 7,690,528 7,705,858
+917,621 917,621 1,888,871 1,892,809 1,888,871
+22,235,030 22,185,995 16,936,572 9,913,332 9,920,420
+
+MDE / School Finance Division n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+FY 2030 FY 2031 FY 2032 FY 2033 FY 2034
+4,386,436 4,386,436 4,386,436 4,386,436 4,386,436
+371,786 371,682 371,653 371,688 371,765
+4,014,649 4,014,754 4,014,783 4,014,747 4,014,670
+17,848,594 17,799,559 12,550,137 5,526,897 5,533,984
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a
+2,010,365 2,010,365 2,010,365 2,010,365 2,010,365
+528,214 528,318 528,347 528,312 528,235
+2,010,365 2,010,365 2,010,365 2,010,365 2,010,365
+2,010,365 2,010,365 2,010,365 2,010,365 2,010,365
+n/a n/a n/a n/a n/a n/a n/a n/a n/a n/a

@@ -1,0 +1,9 @@
+To: School Board and Superintendent Staloch
+From: Kristen Hoheisel, Chief Financial Officer
+Date: August 4, 2025
+RE: Nutrition Services Fund Transfer
+As a part of the Minnesota Department of Education (MDE) resource management review, MDE
+provided guidance to Nutrition Services around purchasing card rebates. Specifically, Nutrition
+Services used Nonprofit School Food Service Account (NSFSA) funds to pay for some food service expenses using a purchasing card (p-card). As the p-card generates rebates that are credited to the General Fund, in accordance with 2 CFR 200.406, all allowable food services expenses must be net of applicable credits, including rebates.
+Based on FY25 Nutrition Services p-card expenditures, $277.39 for p-card rebates must be allocated to the NSFSA (fund 02). Per guidance from MDE, this rebate amount must be restored via a fund transfer in the current (review) fiscal year (FY25) and allocated to Source Code 649.
+A journal entry reflecting this is attached.

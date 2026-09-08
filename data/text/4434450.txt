@@ -1,0 +1,116 @@
+Executive Governance
+Summary
+Independent School District No. 281
+New Hope, Minnesota
+For the year ended June 30, 2024
+
+January 22, 2025
+Members of the Board of Education
+Independent School District No. 281
+New Hope, Minnesota
+We have audited the financial statements of the governmental activities, each major fund and the aggregate remaining fund information of Independent School District No. 281 (the District), New Hope, Minnesota for the year ended
+June 30, 2024 and have issued our report thereon dated January 22, 2025. Professional standards require that we provide you with information about our responsibilities under generally accepted auditing standards, Government Auditing
+Standards and the Uniform Guidance as well as certain information related to the planned scope and timing of our audit.
+We have communicated such information in our letter to you dated August 28, 2024. Professional standards also require that we communicate to you the following information related to our audit.
+Significant Audit Findings
+In planning and performing our audit of the financial statements, we considered the District's internal control over financial reporting (internal control) as a basis for designing audit procedures that are appropriate in the circumstances for the purpose of expressing our opinions on the financial statements, but not for the purpose of expressing an opinion on the effectiveness of the District's internal control. Accordingly, we do not express an opinion on the effectiveness of the District's internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow management or employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in internal control, such that there is a reasonable possibility that a material misstatement of the entity's financial statements will not be prevented, or detected and corrected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than a material weakness, yet important enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and was not designed to identify all deficiencies in internal control that might be material weaknesses or significant deficiencies.
+Given these limitations, during our audit we did not identify any deficiencies in internal control that we consider to be a significant deficiency, however significant deficiencies may exist that have not been identified. As described below, we identified a deficiency in internal control that we consider to be a material weakness, as finding 2024-004.
+2
+
+Finding Description
+2024-004 Material Audit Adjustment
+Condition: During this year's audit, it was noted that the prior year construction in progress account was materially understated.
+Criteria: The financial statements need to be materially correct.
+Cause: Construction in progress was understated last year. This understatement needed to be categorized as a error correction in the current year.
+Effect: This indicates that misstatements may occur and not be detected by the District's system of internal control.
+Recommendation: We recommend that the year-end audit preparation process include a review of Capital Assets to ensure that there are checks and balances to prevent this type of error correction moving forward.
+Management Response:
+The District agrees with the correction. Procedures are in place for the fiscal year 2025 audit to improve the process and to ensure that this type of error correction is not needed in the future.
+Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the District's financial statements are free of material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts and grants, and noncompliance with which could have a direct and material effect on the financial statements. However, providing an opinion on compliance with those provisions was not an objective of our audit. Also, in accordance with the Uniform
+Guidance, we examined, on a test basis, evidence about the District's compliance with the types of compliance requirements described in the "U.S. Office of Management and Budget (OMB) Compliance Supplement" applicable to each of its major Federal programs for the purpose of expressing an opinion on the District's compliance with those requirements and for compliance with federal statutes, regulations, and the terms and conditions of its federal awards applicable to its federal programs. While our audit provides a reasonable basis for our opinion, it does not provide a legal determination on the District's compliance with those requirements. The results of our tests disclosed three instances of noncompliance or other matters that are required to be reported in accordance with the Uniform Guidance, Government
+Auditing Standards or Minnesota statues.
+3
+
+Finding Description
+2024-001 Student Activity Accounts with Deficit Balances
+Condition: We noted certain student activity accounts that had a deficit year-end balance, which is not appropriate as defined in the Manual for Activity Fund Accounting (MAFA).
+Criteria: The Manual for Activity Fund Accounting (MAFA) states that no individual student activity will operate with a negative cash balance at the end of the fiscal year.
+Cause: During our audit, we found that there was one student activity account with a deficit fund balance.
+Effect: The District is not in compliance with MAFA.
+Recommendation: It is our recommendation that the District assure all student activity accounts do not spend in excess of available funds, and eliminate the existing student activity account balance deficit.
+Management Response:
+There is no disagreement with this finding. The District will take action to avoid similar occurrences in the future.
+2024-002 Student Activity Purpose Summary
+Condition: During our audit procedures, it came to our attention that the District did not have an Activity
+Purpose Summary for all student activity accounts.
+Criteria: UFARS Chapter 14 requires the District to have Activity Purpose Summaries in place for all student activity groups.
+Cause: The District did not have Activity Purpose Summaries for all accounts.
+Effect: The District is out of compliance with UFARS requirements.
+Recommendation: We recommend that the District develops an Activity Purpose Summary for all groups to fill out at the beginning of each school year.
+Management Response:
+The District is aware of the situation and plans to implement procedures to ensure Activity Purpose Summaries are put in place
+4
+
+Finding Description
+2024-003 Late Audited Financial Statement Submission
+Condition: During our audit procedures, it came to our attention that the District's audited financial statements would not be submitted prior to the deadline.
+Criteria: Minnesota Statutes § 6.65, 123B.77, Subd. 3 requires that the District submit audited fund balance, revenue, and expenditure data to the Minnesota Department of Education annually by
+November 30, and audited financial statements by December 31.
+Cause: The District's did not submit audited financial statements to the Minnesota Department of
+Education by December 31.
+Effect: The District is out of compliance with Minnesota state statutes.
+Recommendation: We recommend that the District take measures to ensure that the financial statement audit is completed prior to the deadlines set forth by Minnesota state statutes.
+Management Response:
+The District is aware of the situation and plans to implement measures to ensure on-time audited financial statement submissions in the future.
+Qualitative Aspects of Accounting Practices
+Management is responsible for the selection and use of appropriate accounting policies. The significant accounting policies used by the District are described in Note 1 to the financial statements. The District did not change accounting policies during the year ended June 30, 2024. We noted no transactions entered into by the District during the year for which there is a lack of authoritative guidance or consensus.
+Accounting estimates are an integral part of the financial statements prepared by management and are based on management's knowledge and experience about past and current events and assumptions about future events. Certain accounting estimates are particularly sensitive because of their significance to the financial statements and because of the possibility that future events affecting them may differ significantly from those expected. Significant estimates affecting the financial statements include depreciation on capital assets, receivables from the Department of Education, as well as the obligations (assets) for the District's Pension Benefit and other postemployment benefits (OPEB) plans.
+• Management's estimate of depreciation is based on estimated useful lives of the assets. Depreciation is calculated using the straight-line method.
+• Management estimates a portion of the receivable from the Department of Education on student numbers and past expenditures.
+• Management's estimate of its Net OPEB Obligations (Assets) are based on several factors including, but not limited to, anticipated retirement age for active employees, life expectancy, turnover, and healthcare cost trend rate.
+• Management's estimate of its portion of the District's net pension liabilities related to its proportionate share of
+TRA and PERA pensions (assets) are based on the District's contributions in relation to all contributions to each plan as a whole. The overall net pension liability for TRA and PERA are based on several factors including, but not limited to, anticipated retirement age for active employees, life expectancy, survivor life expectancy, and high-five salary.
+5
+
+• Management's estimates of its lease liability and intangible right to use assets are based on several factors including, but not limited to, a discount rate based on the District's estimated incremental borrowing rate.
+• Management's estimate of its lease receivable is based on the present value of lease payments expected to be received during the lease term.
+We evaluated the key factors and assumptions used to develop these estimates in determining that they are reasonable in relation to the financial statements taken as a whole. The disclosures in the financial statements are neutral, consistent, and clear. Certain financial statement disclosures are particularly sensitive because of their significance to financial statement users.
+Difficulties Encountered in Performing the Audit
+We encountered no significant difficulties in dealing with management in performing and completing our audit.
+Corrected and Uncorrected Misstatements
+Professional standards require us to accumulate all known and likely misstatements identified during the audit, other than those that are clearly trivial, and communicate them to the appropriate level of management. Management has corrected all such misstatements. In addition, none of the misstatements detected as a result of audit procedures and corrected by management were material, either individually or in the aggregate, to each opinion unit's financial statements taken as a whole.
+Management Representations
+We have requested certain representations from management that are included in the management representations letter dated January 22, 2025.
+Disagreements with Management
+For purposes of this letter, professional standards define a disagreement with management as financial accounting, reporting, or auditing matter, whether or not resolved to our satisfaction, that could be significant to the financial statements or the auditor's report. We are pleased to report that no such disagreements arose during the course of our audit.
+Management Consultations with Other Independent Accountants
+In some cases, management may decide to consult with other accountants about auditing and accounting matters, similar to obtaining a "second opinion" on certain situations. If a consultation involves application of an accounting principle to the District's financial statements or a determination of the type of auditor's opinion that may be expressed on those statements, our professional standards require the consulting accountant to check with us to determine that the consultant has all the relevant facts. To our knowledge, there were no such consultations with other accountants.
+Other Matters
+We applied certain limited procedures to the required supplementary information (RSI) (Management's Discussion and
+Analysis, the Schedule of Changes in the District's Net OPEB Liability and Related Ratios, the Schedule of the District's
+Contributions, the Schedule of Investment Returns, the Schedules of Employer's Share of the Net Pension Liability, the
+Schedules of Employer's Contributions), which is information that the supplements the basic financial statements. Our procedures consisted of inquiries of management regarding the methods of preparing the information and comparing the information for consistency with management's responses to our inquiries, the basic financial statements, and other knowledge we obtained during our audit of the basic financial statements. We did not audit the RSI and do not express an opinion or provide any assurance on the RSI.
+6
+
+We were engaged to report on the supplementary information (combining and individual fund financial statements and schedules and table and the Schedule of Expenditures of Federal Awards), which accompany the financial statements but are not RSI. With respect to this supplementary information, we made certain inquiries of management and evaluated the form, content, and methods of preparing the information to determine that the information complies with accounting principles generally accepted in the United States of America, the method of preparing it has not changed from the prior period, and the information is appropriate and complete in relation to our audit of the financial statements. We compared and reconciled the supplementary information to the underlying accounting records used to prepare the financial statements or to the financial statements themselves.
+We were not engaged to report on the introductory or statistical sections, which accompany the financial statements but are not RSI. We did not audit or perform other procedures on this other information and we do not express an opinion or provide any assurance on them.
+Other Audit Findings or Issues
+We generally discuss a variety of matters, including the application of accounting principles and auditing standards, with management prior to retention as the District's auditors. However, these discussions occurred in the normal course of our professional relationship and our responses were not a condition to our retention.
+Future Accounting Standard Changes
+The following Governmental Accounting Standards Board (GASB) Statements have been issued and may have an impact on future District financial statements:
+GASB Statement No. 100 - Accounting Changes and Error Corrections Effective: 12/31/2024
+GASB Statement No. 101 - Compensated Absences Effective: 12/31/2024
+GASB Statement No. 102 - Certain Risk Disclosures Effective: 12/31/2025
+Further information on upcoming GASB pronouncements.
+Restriction on Use
+This communication is intended solely for the information and use of the members of the School Board, management and others within the administration of the District, federal awarding agencies and the Minnesota Department of Education, and is not intended to be and should not be used by anyone other than these specified parties.
+The comments and recommendations in the report are purely constructive in nature, and should be read in this context.
+Our audit would not necessarily disclose all weaknesses in the system because it was based on selected tests of the accounting records and related data.
+If you have any questions or wish to discuss any of the items contained in this letter, please feel free to contact us at your convenience. We wish to thank you for the opportunity to be of service and for the courtesy and cooperation extended to us by your staff.
+Abdo
+Minneapolis, Minnesota
+January 22, 2025
+7

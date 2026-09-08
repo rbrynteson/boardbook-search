@@ -1,0 +1,37 @@
+To: Board of Education
+From: Bridget Hall and Matt Pletcher
+Date: October 16, 2023
+Re: Data Warehouse
+In the fall of 2022, the Curriculum and Instruction team initiated the process of acquiring a data warehouse and visualization platform for RAS. Bridget Hall and Matt Pletcher led a small team of
+C&I staff to perform an initial screening of five potential vendors who might met our detailed requirements. Three vendors were chosen to present their products on April 19, 2023. In attendance were teachers, administrators, TOSAs, directors, and executive directors. The team members were Amy O'Hern, Anne Grue, Bridget Hall, Matt Pletcher, Cheryl Videen, David
+Engstrom, Elsa Littel, Jean Braun, Joel Mehring, John Groenke, Jon Ruger, Julie Baumiester, Kelley
+Booth, Kelly Anderson, Krista Range, Marti Voight, Matthew Wagner, Melissa Davey, Michele Baker,
+Patrick Archibald, Sou Saechao, Sue Holtz, Toni Boyden, Tony Patteron, and Wilbur Winkelman.
+A detailed scoring rubric was utilized to determine the capabilities of each vendor to meet our needs. Listed below are the rankings from RAS employees:
+1. EduClimber
+2. Abre
+3. PowerSchool
+Pricing:
+EduClimber: 3 Years, $260,830 (Includes PD & data migration)
+Abre: 3 Years, $280,000 (Includes data migration and enhanced dashboards) + $15,000 for PD
+PowerSchool: $87,000/year + $40,000 implementation fee & $5,000 for PD
+Recommendation:
+RAS entered into negotiations with EduClimber to acquire their services. EduClimber will allow
+RAS to create customized data dashboards for all employees, including a unique dashboard for the Board of Education.
+
+eduCLIMBER is an interactive system that integrates all whole child data into a single platform with built-in tools for intervention tracking, collaboration, effectiveness reporting, early warning, driving system-level improvement, and more.
+● It bolsters student achievement and wellbeing by evaluating and monitoring effectiveness of both Tier 1 practices and Tier 2 and Tier 3 interventions
+● We can quickly shift from data analysis to taking our next steps with built-in workflow tools, like student plan templates, a dedicated intervention module, action items, and more
+● It drives impactful system-level decisions around resources and professional development based on a holistic view of what's happening in RAS
+eduCLIMBER eliminates silos, duplicative systems, and logins. It effortlessly integrates and triangulates all current and historic data in one interactive platform for a holistic view of student, class, school, and district needs.
+All Whole Child Data, including:
+● Academics
+● Social-Emotional Behavior (SEB)
+● Interventions
+● Attendance
+● Behavior Incidents
+● School Climate and Culture
+● Qualitative Data
+● Social-Emotional Learning (SEL) Surveys
+● Student Plans
+● Engagement

@@ -1,0 +1,124 @@
+2 - Expenditure # 3
+
+2 - Expenditure # 3
+
+10/24/25, 8:34 AM
+
+1. Estimate Premiums
+All Fields Required
+
+Who do you want to estimate premiums for?
+
+Changing this input will automatically update elements of the form.
+
+© Entire Workforce
+
+O anindividual
+
+How many employees do you have?
+
+Your employee count is the highest number of employees reported on a single wage detail report last year.
+
+Learn more about your employee count;
+
+2,142
+
+What was your employee payroll for the last 12 months?
+
+If any employee wages are above the OASDI Limit; , this calculator will provide an overestimate for premiums.
+
+$ 120,587,829
+
+Calculate Reset
+
+Premiums Successfully
+Calculated
+
+https://mn.gov/deed/paidleave/employers/premiums/
+
+Premium rate and contributions / Minnesota Paid Leave
+
+Estimate Premiums
+
+2. Select Premium Frequency
+
+Move the slider to see how your estimated costs change. Your costs will automatically update.
+
+Weekly Bi-Weekly Monthly
+
+c =O
+
+Semi-Monthly Quarterly Annually
+
+Employer Contributions
+
+Family Leave $162,793.57
+=
+Medical Leave $367,792.88
+i
+Total Employer Contributions $530,586.45
+
+Contribution Breakdowns
+
+Employee + Employer
+Total Contributions
+
+Employee Contributions
+
+Family Leave $162,793.57
+
+Family Leave $325,587.14
+Medical Leave $367,792.88
+
+Medical Leave $735,585.76
+Total Employee Contributions Total
+
+$530,586.45 $1,061,172.90
+
+How was this calculated?
+
+Your estimate is calculated by multiplying your total payroll by the
+0.88% premium rate. That amount is split between Family and Medical
+Leave, and shared between the employer and employee.
+
+Have Questions?
+
+2 - Expenditure # 3
+214
+
+10/24/25, 8:34 AM Premium rate and contributions / Minnesota Paid Leave
+
+We're here to help answer the questions you have.
+Visit our FAQ section ;,
+
+Premiums Provided By This Calculator Are Unofficial
+
+Premium calculations provided by this calculator are unofficial and are only intended to provide an estimate for premium contributions.
+
+How this calculation works:
+
+To determine the total contribution, the payroll total entered above is multiplied by the premium rate of
+0.88%. This value is then divided to give the total contribution amount for an employer's reported employee count by week, month, quarter, or year. The calculator displays the total contribution owed by the employer for their reported employee count, and the total contributed by all of their employees.
+
+This calculator assumes premium contributions are split 50% between employers and employees.
+Employers may choose to cover up to 100% of the total premium for employees, but may not collect more than 50% from employees.
+
+Small employers will pay a reduced premium rate under the Paid Leave law. This calculator finds the average employee wage and compares it to the criteria for the small employer rate: the number of employees must be 30 or fewer, and the average employee wage must be less than 150% of the statewide average weekly wage. If an employer qualifies, the reduced premium rate is applied. The maximum contribution from employees in this case is the same as an employee of a large employer.
+
+More about Paid Leave premiums
+
+Premium rates are set to ensure the Paid Leave program is able to cover the cost of benefits and can best serve its users. The Paid Leave premium rate of 0.88 percent for 2026 covers the premium for medical leave (0.61
+percent), for your own medical care, and family leave (0.27 percent), to care for others.
+
+2026 Contribution Rates for Minnesota Paid Leave
+Total Premium Rate 0.88%
+Max. Employee Contribution Rate 0.44%
+Max. Weekly Benefit $1,423
+Min. Employer Contribution Rate 0.44%
+Min. Small Employer Contribution Rate 0.22%
+
+Employers must pay at least 50 percent of the total premium and can deduct the remainder from employee pay. Employers may also choose to pay up to 100 percent of the premium for their employees. Small employers pay a reduced premium rate. The maximum contribution from employees in this case is the same as an employee of a large employer.
+
+2 - Expenditure # 3
+
+https://mn.gov/deed/paidleave/employers/premiums/ 3/4

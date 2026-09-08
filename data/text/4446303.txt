@@ -1,0 +1,15 @@
+Lakeview boundary available students 391
+Northport Elementary
+Forest Elementary
+Lakeview Elementary
+The FAIR School - Crystal
+Robbinsdale Middle
+10/14/2025, 11:55:44 AM 1:43,334
+0 0.25 0.5 1 mi
+Filter Students for Map result District Boundary
+Middle
+0 0.4 0.8 1.6 km
+Robbinsdale Schools
+Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, (c) OpenStreetMap
+Surrounding District Boundaries contributors, and the GIS User Community, Sources: Esri, TomTom, Garmin,
+Elementary

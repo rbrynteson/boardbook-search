@@ -1,0 +1,21 @@
+To: Board Chair, School Board Directors, and Superintendent Staloch
+From: Joel Mehring, Assistant Director of Technology
+Date: May 19, 2025
+Re: Data Center Infrastructure Refresh Request for Approval
+This memo requests the school board's approval for a critical refresh of the district's data center infrastructure, including hardware, storage, backup, and cyber vault solutions. The current infrastructure, purchased in 2020, is nearing the end of its optimal lifespan.
+The Technology Department has proactively assessed our current data center hardware and software, which are approximately five years old. Industry best practices suggest a 3-5 year refresh cycle for critical infrastructure to maintain performance, reliability, and security. We engaged with two major vendors, Dell
+Technologies (partnering with our local reseller Cyber Advisors) and Hewlett-Packard Enterprise (HPE, partnering with another valued local reseller, High Point Networks), to explore viable refresh options.
+Continuing to maintain the aging infrastructure would incur increasing annual support costs without the benefit of modern performance and security features. Investing in new hardware with long-term maintenance and support provides a more cost-effective and strategic approach. Furthermore, repurposing the existing servers to upgrade our surveillance camera infrastructure offers a valuable secondary benefit, enhancing overall school safety. This initiative will be funded through the technology levy.
+To ensure a comprehensive and objective selection process, we employed an evaluation matrix based on key factors: total cost of ownership (including potential additional costs), features/ease of use, and vendor experience and support. High Point Networks/HPE scored 4.15 out of 5, while Cyber Advisors/Dell scored
+3.55 out of 5. The higher score for High Points Networks/HPE reflects a strong alignment with our needs across this critical area, particularly in terms of cost effectiveness and the comprehensive nature of the proposed solution.
+The proposed solution from High Point Networks/HPE meets all our current technical requirements and provides a scalable platform for future growth. Importantly, it also represents the lowest overall cost to the
+District.
+Tabulation
+Proposal for data center refresh
+High Point Networks / HPE Cyber Advisors / Dell
+Data center server, storage,
+$616,841.74 $659,383.96
+backup & cyber vault refresh
+Request for approval
+Based on the evaluation and value of the proposal, we recommend that the School Board approve the award of the data center infrastructure refresh project to High Point Networks/HPE for the cost of
+$616,841.74

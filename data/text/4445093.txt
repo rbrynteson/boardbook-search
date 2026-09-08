@@ -1,0 +1,29 @@
+Agenda Item: 5
+School Board of Robbinsdale Area Schools
+Business Meeting - January 6, 2025
+Operations
+AGENDA SECTION:
+5.E. Designation of Identified Official with Authority (IOwA)
+ITEM:
+for the Minnesota Department of Education (MDE) External
+User Access Recertification System
+Dr. Teri Staloch, Superintendent
+COMMENTS BY:
+The MDE requires school districts to annually designate an IOwA to comply with State
+Access Control Security Standard 1.0 which states that all user access rights to Minnesota state systems must be reviewed and recertified at least annually. The IOwA will assign job duties and authorize external user's access to MDE secure systems for their local education agency (LEA).
+The Superintendent recommends the Board authorize Dr. Teri Staloch, Superintendent, to act as the Identified Official with Authority for the Robbinsdale Public School District
+0281-01.
+Recommended Action: Approve the designation of Dr. Teri Staloch as District 281 IOwA.
+Yes No Abstention
+Helen Bassett
+ReNae Bowman
+Sharon E. Brooks
+Dr. Greta
+Evans-Becker
+Aviva Hillenbrand
+Kim Holmes
+Caroline Long
+Motion by: ________________________________ Yes: ________ Passed: ________
+Second by: _______________________________ No: ________ Failed: _________
+
+Abstentions: _______________________________________________________________

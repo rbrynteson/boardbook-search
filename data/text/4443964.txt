@@ -1,0 +1,22 @@
+Ira Swenson (2nd), Kaiden Quigley (3rd), Manisha
+Sukhdeo, Melena Ballou, Nelada Yang (4th)
+Chris Porter - Computer Science Teacher
+The Importance of Introducing Computer Science Education at the Elementary School Level
+In our rapidly evolving world, technology has become an integral part of our daily lives. From smartphones to tablets, from social media to online learning, technology surrounds us.
+Therefore, it is crucial for young learners to gain foundational knowledge and skills in computer science from an early age, and here's why:
+1. **Digital Literacy**: In today's digital age, being literate in technology is as essential as reading and writing. Computer science classes introduce children to basic computing concepts, such as understanding how computers work, navigating software interfaces, and using productivity tools effectively. These skills lay the groundwork for digital literacy, empowering students to navigate the digital world confidently.
+At Noble Elementary each student in grades kindergarten through fifth grade receives a minimum of 50 minutes per week of Computer Science education. This includes the six center-based classrooms. In addition, collaboration with classroom teachers on projects supporting core curriculum is also included.
+2. **Problem-Solving Skills**: Computer science encourages logical thinking and problem-solving skills. Through coding and computational thinking activities, students learn to break down complex problems into smaller, manageable parts and develop step-by-step strategies to solve them. These problem-solving skills are not only applicable in computer science but also in various other subjects and real-life situations.
+We use a variety of tools to learn Computer Science Concepts, which includes, but is not limited to: Code Monkey, CodeSpark, Code.org, Kodable and Scratch.
+Kaiden (3rd Grade) is going to give a short demonstration of how he is learning computational thinking skills by coding a puzzle in Code Monkey.
+
+3. **Creativity and Innovation**: Computer science classes foster creativity and innovation.
+Coding projects allow students to express their creativity by designing programs, animations, games, and digital stories. By experimenting with code, students learn to think outside the box, explore new ideas, and develop innovative solutions to challenges, which are valuable skills in today's innovation-driven economy.
+Ira (2nd Grade) is going to present one of the many games he has created and coded using CodeSpark.
+4. **Critical Thinking and Collaboration**: Computer science education promotes critical thinking and collaboration. Students learn to analyze problems critically, evaluate different solutions, and collaborate with their peers to achieve common goals. These collaborative problem-solving experiences enhance communication skills, teamwork, and empathy, which are essential for success in today's interconnected world.
+Manisha, Melena, and Nelada (4th grade) will give a short presentation/demonstration on the AI project they have been working on using Code Monkey.
+5. **Future Career Opportunities**: Proficiency in computer science opens doors to a wide range of career opportunities in technology-related fields. By introducing computer science concepts early on, elementary schools prepare students for future careers in software development, engineering, data science, cybersecurity, and more.
+Moreover, early exposure to computer science can help bridge the gender and diversity gap in the tech industry by encouraging underrepresented groups to pursue careers in
+STEM.
+Noble students also have opportunities to beta test software for Code.org, Kodable and
+Code Monkey, which provides them with interactions with software developers and coders in a real-life setting.

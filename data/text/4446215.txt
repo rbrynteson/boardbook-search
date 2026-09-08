@@ -1,0 +1,19 @@
+OE Out 24-25
+K-6 7-12
+Elementary Secondary K-12 Students MARSS Preschool
+Hopkins 341.7 301.32 643.02 647.99 4.97
+Osseo 173.9 187.96 361.86 366.31 4.45
+Minnetonka 74.23 57.13 131.36 132.11 0.75
+Minneapolis 59.41 68.89 128.3 129.62 1.32
+Brooklyn Center 41.96 86.09 128.05 131.06 3.01
+St. Louis Park 43.76 66.87 110.63 111.3 0.67
+Wayzata 28.74 36.17 64.91 67.75 2.84
+Anoka-Hennepin 26.19 26.12 52.31 53.08 0.77
+Edina 23.01 18.95 41.96 42.25 0.29
+Orono 19.05 18.9 37.95 38.55 0.6
+Columbia Heights 14.73 17.46 32.19 32.19 0
+Fridley 14.08 11.98 26.06 26.93 0.87
+Eden Prairie 14.16 11.12 25.28 25.28 0
+St. Paul 5.25 12.93 18.18 18.73 0.55
+Spring Lake Park 5.56 12.33 17.89 18.16 0.27
+Total 885.73 934.22 1819.95 1841.31 21.36

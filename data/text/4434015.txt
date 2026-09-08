@@ -1,0 +1,19 @@
+To: Board Chair, School Board Directors, and Superintendent Engstrom
+From: Sue Holtz, Technology Director
+Date: February 21, 2023
+Re: Proposal for data switches, implementation, and maintenance services
+On January 11, 2023, proposals for data switches, implementation, and maintenance services were accepted.
+The network data switch redesign proposal is a district-wide upgrade of aging equipment. It is geared towards optimizing the District's data network security, performance and future-proofing for the next seven to ten years. This project is similar to rebuilding an aging highway system to handle current and new traffic demands and building in growth to address future requirements.
+All funding for this project will come from the federal e-rate program and the Robbinsdale Area
+Schools' technology levy. E-rate funding will cover approximately 80% of the entire project, the district's Technology levy will cover the remaining balance.
+Three vendors (CDW-G, Matrix-NDI, and SHI) submitted proposals for consideration. Proposals were evaluated in four categories: 1) Cost-one time and annual maintenance and support; 2)
+Additional cost incurred by the District to implement the proposed solution, including any transition costs; 3) System feature capabilities and ease of use and administration, and compatibility with the existing environment; 4) Vendor experience, support, and customer reference.
+Of the three, only the Matrix-NDI solution meets all the requirements of the RFP. While not the lowest cost, Matrix-NDI provides a better solution for the District.
+Tabulation
+Proposal for data switches, implementation, and maintenance services:
+SHI/Meraki Matrix-NDI / Extreme CDW-G / HPE
+Data switches, implementation, and $1,498,952.41 $1,398,046.10 $1,138,062.00
+maintenance services
+CONSENT AGENDA
+Given the rationale above, we recommend the District award the contract to Matrix-NDI for
+Extreme Fabric Network manufactured data switches for $1,398,046.10.

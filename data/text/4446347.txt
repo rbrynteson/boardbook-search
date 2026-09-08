@@ -1,0 +1,27 @@
+Transportation History - Regular
+32.80% 11.70% 3.00% 13.58% 3.50%
+2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027
+Service Type Full Day Charge Full Day Charge Full Day Charge Full Day Charge Full Day Charge Full Day Charge
+Bus Assistant/Aide (per Hour) $ 20.03 $ 26.60 $ 29.71 $ 30.60 $37.62 $38.93
+Excess (per 1/10 hour) $ 4.00 $ 5.31 $ 5.93 $ 6.11 $6.81 $7.04
+Lift Fee $ 17.97 $ 23.86 $ 26.66 $ 27.46 $30.59 $31.66
+Midday, Contractor Owned, Type A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89 $106.81 $110.54
+Midday, Contractor Owned, Type III/Van, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89
+Midday, District Owned, Type A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89 $106.81 110.54
+Outsourced $ - $ - $ - $ - $ - $ -
+Regular-Ed, Contractor Owned, Type A-B-C, 5 Hr Base $ 298.90 $ 396.94 $ 443.38 $ 456.68 $518.70 536.85
+Regular-Ed, District Owned, Type A-B-C, 5 Hr Base $ 240.66 $ 319.60 $ 356.99 $ 367.70 $409.58 423.91
+Special-Ed, In-District, Contractor Owned, Type A-B-C, 5 Hr Base $ 314.43 $ 417.56 $ 466.42 $ 480.41 $545.13 564.2
+Special-Ed, In-District, Contractor Owned, Type III/Van, 5 Hr Base $ 238.47 $ 316.69 $ 353.74 $ 364.35
+Special-Ed, In-District, District Owned, Type A-B-C, 5 Hr Base $ 256.19 $ 340.22 $ 380.03 $ 391.43 $436.01 451.27
+Special-Ed, Midday, Contractor Owned, Type A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89 $99.15 102.62
+Special-Ed, Midday, Contractor Owned, Type III/Van, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89
+Special-Ed, Midday, District Owned, Type A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89 $99.15 102.62
+Special-Ed, Out-of-District, Contractor Owned, Type A-B-C, 5 Hr Base $ 314.43 $ 417.56 $ 466.42 $ 480.41 $545.13 579.46
+Special-Ed, Out-of-District, Contractor Owned, Type III/Van, 5 Hr Base $ 238.47 $ 316.69 $ 353.74 $ 364.35
+Special-Ed, Out-of-District, District Owned, Type A-B-C, 5 Hr Base $ 256.19 $ 340.22 $ 380.03 $ 391.43 436.01 451.27
+Summer School, Contractor Owned, Type A-B-C, 5 Hr Base $ 314.43 $ 417.56 $ 466.42 $ 480.41
+Summer School, District Owned, Type A-B-C, 5 Hr Base $ 256.19 $ 340.22 $ 380.03 $ 391.43
+Activity Services TypeType A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89
+Activity Services Excess (per 1/10 hour) $ 4.00 $ 5.31 $ 5.93 $ 6.11
+2 - Expenditure # 4

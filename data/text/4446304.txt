@@ -1,0 +1,15 @@
+Meadow Lake boundary available students 626
+Meadow Lake Elementary
+Northport Elementary
+Cooper Credit Recovery
+Forest Elementary
+Lakeview Elementary
+10/14/2025, 11:32:10 AM 1:43,334
+0 0.25 0.5 1 mi
+Filter Students for Map result District Boundary
+High
+0 0.4 0.8 1.6 km
+Robbinsdale Schools
+Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, (c) OpenStreetMap
+Surrounding District Boundaries contributors, and the GIS User Community, Sources: Esri, TomTom, Garmin,
+Elementary

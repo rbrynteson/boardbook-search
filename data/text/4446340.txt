@@ -1,0 +1,351 @@
+Finance Advisory Council (FAC)
+Wednesday November 5, 2025
+Members:
+Kristen Hoheisel Ginny Verbrugge Edwin Ochoa
+Greg Kugler Sarah Taylor Aviva Hillenbrand
+ReNae Bowman Helen Bassett April Gulley
+Nicole Lee David Lloyd Aunnie Kramber
+Agenda:
+1. 2026-2027 Budget Forecast Assumptions - Revenue
+G. Special Education
+2. 2026-2027 Budget Forecast Assumptions - Expenditure a. Unsettled contracts (school board decision)
+b. Staffing Ratios (school board decision)
+c. MN Paid Leave Act d. Regular Transportation e. Supply and materials f. Communications g. Postage h. Utility (garbage)
+i. Electricity j. Water and sewer k. Heating l. Fuel / gasoline m. Property and liability insurance n. Workers compensation insurance o. Other
+3. Other items not addressed in prior meetings?
+4. Adjourn
+
+3 G - Special Education
+Estimated State Fiscal Year (SFY) 2025 and 2026 Special Education Aid Updated 4/9/25 #REF!
+District District Type District Name no data no data
+281 1 ROBBINSDALE PUBLIC SCHOOL DISTRICT no data no data
+Line # Calculation description of calculation Actual SFY 2021 Actual SFY 2022 Actual SFY 2023 Actual SFY 2024 Estimate SFY 2025 Estimate SFY 2026 Source/Info
+1 n/a Final SFY Hold Harmless $ 10,234,664.07 $ 10,234,664.07 $ 10,234,664.07 $ 10,234,664.07 $ 10,234,664.07 $ 10,234,664.07 Line 70, Special Education Comprehensive Aid Reports
+2 1 * PG/MAA Factor Prog Growth (PG) / Min Aid Adjust (MAA) Factor amount per year $ 2,556,227.85 $ 3,093,445.31 $ 3,626,569.69 $ 4,153,296.57 $ 4,671,263.15 $ 5,178,064.68 Please see the "SPED Instructions" tab for details
+3 n/a Final SFY 2016 Adjusted Average Daily Membership (ADM) 12,625.83 12,625.83 12,625.83 12,625.83 12,625.83 12,625.83 Line 71, Special Education Comprehensive Aid Reports
+4 n/a Current Year Adjusted ADM (projected) 11,392.59 11,098.59 10,757.89 10,588.85 10,588.85 10,588.85 Line 71A, Special Education Comprehensive Aid Reports
+5 n/a Override Projected Adjusted ADM n/a
+6 4-or-5/3 Adjusted ADM Ratio 90.23% 87.90% 85.21% 83.87% 83.87% 83.87% Line 71B, Special Education Comprehensive Aid Reports
+7 (1+2)*6 Adjusted Hold Harmless - Original Calculation $ 11,541,221.78 $ 11,715,408.15 $ 11,811,157.28 $ 12,067,182.59 $ 12,501,601.16 $ 12,926,655.60 Line 71D, Special Education Comprehensive Aid Reports
+8 n/a Adjusted Hold Harmless - 2019 Legislation $ 23,356,141.82 $ 23,541,513.02 $ 22,472,090.61 $ 26,500,573.17 $ 29,781,616.27 $ 33,751,335.57 Line 71D4, Special Education Comprehensive Aid Reports
+9 n/a Adjusted Hold Harmless (Lesser of Line 7 or 8) $ 11,541,221.78 $ 11,715,408.15 $ 11,811,157.28 $ 12,067,182.59 $ 12,501,601.16 $ 12,926,655.60 Line 71D5, Special Education Comprehensive Aid Reports
+17 n/a New Formula Gross Aid $ 21,946,163.27 $ 20,934,816.93 $ 23,707,134.45 $ 24,945,110.38 $ 28,921,317.14 $ 32,122,328.13 Line 64, Special Education Comprehensive Aid Reports
+Line 65, SFY 2023 Spec Ed Comp Aid Report plus 5% increase for
+18 n/a Tuition Billing Adjustment $ (4,823,238.16) $ (5,928,256.95) $ (6,712,228.07) $ (6,994,950.64) $ (7,344,698.17) $ (7,711,933.08) each subsequent year
+19 n/a Override Tuition Billing (TB) Adjustment n/a
+20 17+18-or-19 New Formula Net Aid $ 17,122,925.11 $ 15,006,559.98 $ 16,994,906.38 $ 17,950,159.74 $ 21,576,618.97 $ 24,410,395.05 Line 66, Special Education Comprehensive Aid Reports
+21 If 20 < 9, 9, 20 Estimated Initial Gross Special Education Aid $ 17,122,925.11 $ 15,006,559.98 $ 16,994,906.38 $ 17,950,159.74 $ 21,576,618.97 $ 24,410,395.05 Line 75, Special Education Comprehensive Aid Reports
+22 If 20 < 9, 9, 20 Hold Harmless, Growth Limit, or New Formula? New Formula New Formula New Formula New Formula New Formula New Formula If 20 < 9, 9. Otherwise = 20.
+23 n/a Estimated Cross Subsidy Aid $ 882,322.97 $ 882,322.97 $ 1,175,718.03 $ 7,536,848.54 $ 9,142,000.28 $ 9,056,889.40 Line 75F, Special Education Comprehensive Aid Reports
+24 n/a Estimated Homeless Transportation Aid N/A N/A N/A $ - $ - $ - Line 75H, Special Education Comprehensive Aid Reports
+25 21+23+24 Estimated Total Gross Special Education Aid (w/o Proration) $ 18,005,248.08 $ 15,888,882.95 $ 18,170,624.41 $ 25,487,008.28 $ 30,718,619.25 $ 33,467,284.45 Line 76, Special Education Comprehensive Aid Reports
+26 n/a Proration Factor 100% 100% 100% 100% 95.75% 100% Line 77, Special Education Comprehensive Aid Reports
+27 25*26 Total Estimated Net Special Education Aid $ 18,005,248.08 $ 15,888,882.95 $ 18,170,624.41 $ 25,487,008.28 $ 29,413,077.93 $ 33,467,284.45 Line 78, Special Education Comprehensive Aid Reports end of worksheet
+
+3 G - Special Education Expenditure
+Projected SFY 2025 and SFY 2026 Expenditures Updated 4/9/25 #REF!
+Dist. No. Dist. Type District Name no data
+281 1 ROBBINSDALE PUBLIC SCHOOL DISTRICT no data
+Line # no data this columndescription of calculation Actual SFY 2020 Actual SFY 2021 Actual SFY 2022 Actual SFY 2023 Actual SFY 2024 Estimate SFY 2025 Estimate SFY 2026 Source/Info
+1 n/a Special Education Program Expenditures $ 30,070,483.36 $ 30,653,867.23 $ 29,389,621.44 $ 28,471,550.90 $ 31,659,056.49 $ 32,225,927.09 $ 32,802,947.78 Line 16, Special Education Comprehensive Aid Reports
+2 n/a Override Special Education Program Expenditures n/a
+Transportation Expenditures (Finance Codes 723, 728, Bus
+3 n/a Depreciation) $ 4,264,500.86 $ 2,579,078.59 $ 6,228,538.51 $ 8,060,111.71 $ 9,956,697.82 $ 12,956,869.13 $ 16,861,057.81 Line 60, Special Education Comprehensive Aid Reports
+4 n/a Override Transportation Expenditures n/a
+5 FIN 728-only Transportation Expenditures $ 1,331,538.52 $ 435,887.88 $ 2,208,697.11 $ 927,316.12 $ 1,920,086.80 $ 3,440,575.64 $ 6,165,117.49 Line 59, Special Education Comprehensive Aid Reports
+6 Override FIN 728-only Transportation Expenditures
+Total Special Education Program and Transportation
+7 Expenditures $ 34,334,984.22 $ 33,232,945.82 $ 35,618,159.95 $ 36,531,662.61 $ 41,615,754.31 $ 45,182,796.22 $ 49,664,005.59 n/a
+8 n/a Gen Ed Defray (used to calculate aid SFY 2020 & later) $ 2,472,832.76 $ 2,388,046.07 $ 2,326,716.14 $ 2,407,555.00 $ 2,888,321.21 $ 3,022,337.69 $ 3,162,572.47 Line 48, Special Education Comprehensive Aid Reports
+9 n/a Special Education Program Increase/Decrease Percent 3.07% 1.94% -4.12% -3.12% 11.20% 1.79% 1.79% Average Actual Five-Year Increase/Decrease
+10 n/a Transportation Increase/Decrease Percent -4.26% -39.52% 141.50% 29.41% 23.53% 30.13% 30.13% Average Actual Five-Year Increase/Decrease
+11 FIN 728-only Transportation Increase/Decrease 7.45% -67.26% 406.71% -58.02% 107.06% 79.19% 79.19% Average Actual Five-Year Increase/Decrease
+12 n.a Gen Ed Defray Increase/Increase Percent 5.75% -3.43% -2.57% 3.47% 19.97% 4.64% 4.64% Average Actual Five-Year Increase/Decrease
+13 n/a Aid to Special Education Expense Ratio 58.80% 59.88% 59.47% 59.30% 59.90% 59.47% 59.47% Average Actual Five-Year Increase/Decrease
+Uses actual expenditures from prior year SFY (i.e,. SFY 2024 to estimate next year's gross aid (i.e., SFY 2025), found on line 17 on the "SPED Aid" tab
+14 n/a Next Year's New Formula Gross Aid $ 21,946,163.27 $ 20,934,816.93 $ 23,707,134.45 $ 24,945,110.38 $ 28,921,317.14 $ 32,122,328.13 $ 36,369,683.56
+end of worksheet
+
+Independent School District 281
+Robbinsdale Area Schools
+General Fund 2026-27 and Beyond
+November 5, 2025
+Budget forecasts of revenues, expenditures and year-end fund balances are based on a set of assumptions (see below). These projected revenues and expenditures are not adopted budgets and will change as each specific budget is developed and revised for each fiscal year. The projections are to be used by the Board for planning purposes and to determine guidelines to set budget parameters, such as staffing ratios and program needs. The projections are updated several times each year to reflect major revenue or expenditure adjustments, legislative changes, etc. The final, actual results may vary and will impact subsequent years' projections.
+NOTE: The budget projection model estimates the costs for all proposed educational programming and service levels for 2026-27 and for subsequent years. The model does not add or eliminate programs within the projections.
+4. Budget Forecast Assumption - Expenditures:
+1. For unsettled contracts for FY2027 and beyond, the forecast assumes an increase of 0% each year for all salaries. Steps and lanes (roll-up costs) for all groups will be included in costs.
+2. Staffing ratios are noted in Table 1 and these ratios are continued in each year of the forecast model. The model does account for increases and decreases in staffing due to enrollment fluctuations.
+Staffing Allocations*
+2025-26 2024-25
+3. MN Family Paid Leave Act is 0.44% of payroll for calendar year 2026. The rate is expected to increase ? per year
+Kindergarten 18-25 18-25
+beyond 2026.
+Grade 1 19-26 19-26
+4. The transportation contract costs are increasing 3.5% in FY2027 for regular routes. What is the projected ?%
+Grades 2-3 21-28 21-28
+increase for FY2028 and beyond?
+Grade 4 23-30 23-30
+5. Supply and material expenditures are projected to increase ?% per year beyond FY2026. Grade 5 23-31 23-31
+Grades 6-8 25.2 25.2
+6. Communications expenditures are projected to increase ?% per year beyond FY2026.
+Grades 9-12 28.1 28.1
+7. Postage expenditures are projected to increase ?% per year beyond FY2026.
+8. Utility (garbage) expenditures are projected to increase ?% per year beyond FY2026.
+Table 1
+*This does not represent average class size.
+9. Electricity expenditures are projected to increase ?% per year beyond FY2026.
+10. Water and sewer expenditures are projected to increase ?% per year beyond FY2026.
+11. Heating expenditures are projected to increase ?% per year beyond FY2026.
+12. Fuel / gasoline expenditures are projected to increase ?% per year beyond FY2026.
+13. Property and liability insurance is projected to increase at ?% per year beyond FY2026.
+14. Workers compensation insurance is projected to increase at ?% per year beyond FY2026.
+15. Other?
+Fund Balance:
+1. The undesignated, unreserved fund balance for the General Fund is at least 6.5% of total expenditures in each year.
+.
+October 1, 2025
+
+2 - Expenditure # 3
+
+2 - Expenditure # 3
+
+Transportation History - Regular
+32.80% 11.70% 3.00% 13.58% 3.50%
+2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027
+Service Type Full Day Charge Full Day Charge Full Day Charge Full Day Charge Full Day Charge Full Day Charge
+Bus Assistant/Aide (per Hour) $ 20.03 $ 26.60 $ 29.71 $ 30.60 $37.62 $38.93
+Excess (per 1/10 hour) $ 4.00 $ 5.31 $ 5.93 $ 6.11 $6.81 $7.04
+Lift Fee $ 17.97 $ 23.86 $ 26.66 $ 27.46 $30.59 $31.66
+Midday, Contractor Owned, Type A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89 $106.81 $110.54
+Midday, Contractor Owned, Type III/Van, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89
+Midday, District Owned, Type A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89 $106.81 110.54
+Outsourced $ - $ - $ - $ - $ - $ -
+Regular-Ed, Contractor Owned, Type A-B-C, 5 Hr Base $ 298.90 $ 396.94 $ 443.38 $ 456.68 $518.70 536.85
+Regular-Ed, District Owned, Type A-B-C, 5 Hr Base $ 240.66 $ 319.60 $ 356.99 $ 367.70 $409.58 423.91
+Special-Ed, In-District, Contractor Owned, Type A-B-C, 5 Hr Base $ 314.43 $ 417.56 $ 466.42 $ 480.41 $545.13 564.2
+Special-Ed, In-District, Contractor Owned, Type III/Van, 5 Hr Base $ 238.47 $ 316.69 $ 353.74 $ 364.35
+Special-Ed, In-District, District Owned, Type A-B-C, 5 Hr Base $ 256.19 $ 340.22 $ 380.03 $ 391.43 $436.01 451.27
+Special-Ed, Midday, Contractor Owned, Type A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89 $99.15 102.62
+Special-Ed, Midday, Contractor Owned, Type III/Van, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89
+Special-Ed, Midday, District Owned, Type A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89 $99.15 102.62
+Special-Ed, Out-of-District, Contractor Owned, Type A-B-C, 5 Hr Base $ 314.43 $ 417.56 $ 466.42 $ 480.41 $545.13 579.46
+Special-Ed, Out-of-District, Contractor Owned, Type III/Van, 5 Hr Base $ 238.47 $ 316.69 $ 353.74 $ 364.35
+Special-Ed, Out-of-District, District Owned, Type A-B-C, 5 Hr Base $ 256.19 $ 340.22 $ 380.03 $ 391.43 436.01 451.27
+Summer School, Contractor Owned, Type A-B-C, 5 Hr Base $ 314.43 $ 417.56 $ 466.42 $ 480.41
+Summer School, District Owned, Type A-B-C, 5 Hr Base $ 256.19 $ 340.22 $ 380.03 $ 391.43
+Activity Services TypeType A-B-C, 1.5 Hr Base $ 62.76 $ 83.35 $ 93.10 $ 95.89
+Activity Services Excess (per 1/10 hour) $ 4.00 $ 5.31 $ 5.93 $ 6.11
+2 - Expenditure # 4
+
+Supply Budget Allocation
+Basic
+Allocation Basic ARTS
+School Enrollment Rate Allocation Allocation ARTS
+Cooper 050 1,497 84.00 125,748.00
+Armstrong 053 1,722 84.00 144,648.00
+Early Learning 013
+Highview / RTC 200 310 84.00 26,040.00
+RTC 180
+Robbinsdale Vitural Academy 289 37 84.00 3,108.00
+Plymouth 040 772 57.00 44,004.00
+Robbinsdale 043 597 57.00 34,029.00
+Sandburg 045 326 57.00 18,582.00
+FAIR - Crystal 401 424 57.00 24,168.00
+FAIR - Pilgrim Lane 020 398 42.00 16,716.00 11.35 4,517
+Forest 004 402 42.00 16,884.00 11.35 4,563
+Lakeview 006 308 42.00 12,936.00 11.35 3,496
+Meadow Lake 010 433 42.00 18,186.00 11.35 4,915
+Neill 011 329 42.00 13,818.00 11.35 3,734
+Noble 017 254 42.00 10,668.00 11.35 2,883
+Northport 019 435 42.00 18,270.00 11.35 4,937
+SEA @ Olson 008 433 42.00 18,186.00 11.35 4,915
+Sonnesyn 022 264 42.00 11,088.00 11.35 2,996
+Spanish Immersion 012 770 42.00 32,340.00 11.35 8,740
+Zachary Lane 030 380 42.00 15,960.00 11.35 4,313
+Total 10,091 $605,379 $50,008
+2 - Expenditure # 5
+
+Expenditures - 5 Year History
+Average Annual
+Cost
+Category 2020-21 2021-22 2022-23 2023-24 2024-25 *2025-26
+Communications $ 100,660.36 $ 388,921.16 $ 350,918.87 $ 184,142.33 $ 175,451.89 $ 200,000.00 $ 240,018.92
+Postage $ 78,962.40 $ 71,683.55 $ 71,228.60 $ 45,494.28 $ 82,305.67 $ 90,921.00 $ 69,934.90
+Utilities (garbage) $ 170,940.33 $ 227,379.24 $ 270,881.22 $ 253,638.84 $ 317,454.61 $ 350,913.00 $ 248,058.85
+Electricity $ 1,790,329.09 $ 2,145,133.78 $ 2,281,305.60 $ 2,274,460.34 $ 2,087,405.26 $ 2,612,400.00 $ 2,115,726.81
+Water/Sewer $ 461,269.19 $ 497,276.73 $ 543,375.20 $ 577,842.63 $ 587,065.78 $ 703,900.00 $ 533,365.91
+Heating $ 515,129.92 $ 920,951.21 $ 1,075,537.34 $ 66,761.19 $ 848,239.46 $ 1,141,300.00 $ 685,323.82
+Fuel / Gasoline $ (63,974.05) $ 533,156.90 $ 151,202.66 $ 663,341.85 $ 567,492.58 $ 702,500.00 $ 370,243.99
+Property/Liab Ins $ 455,585.69 $ 516,290.00 $ 608,711.24 $ 755,301.55 $ 879,737.69 $ 882,091.00 $ 643,125.23
+Work Comp $ 100,660.36 $ 388,921.16 $ 350,918.87 $ 184,142.33 $ 175,451.89 $ 200,000.00 $ 233,349.10
+Total 3,329,280 4,840,188 4,931,013 4,591,346 5,287,395 6,393,104
+2 - Expenditure #6 - #14
+10/28/2025
+
+Expenditure - 5 Year Trend
+Average
+Annual
+Category 2019-20 2020-21 % 2021-22 % 2022-23 % 2023-24 % 2024-25 % Increase
+Communications 144,058 100,660 -30.13% 388,921 286.37% 350,919 -9.77% 184,142 -47.53% 175,452 -4.72% 38.84%
+Postage 72,050 78,962 9.59% 71,684 -9.22% 71,229 -0.63% 45,494 -36.13% 82,306 80.91% 8.90%
+Utilities (garbage) 217,455 170,940 -21.39% 227,379 33.02% 270,881 19.13% 253,639 -6.37% 317,455 25.16% 9.91%
+Electricity 1,484,634 1,790,329 20.59% 2,145,134 19.82% 2,281,306 6.35% 2,274,460 -0.30% 2,087,405 -8.22% 7.65%
+Water/Sewer 424,570 461,269 8.64% 497,277 7.81% 543,375 9.27% 577,843 6.34% 587,066 1.60% 6.73%
+Heating 559,431 515,130 -7.92% 920,951 78.78% 1,075,537 16.79% 66,761 -93.79% 848,239 1170.56% 232.88%
+Fuel / Gasoline 33,804 -63,974 -289.25% 533,157 -933.40% 151,203 -71.64% 663,342 338.71% 567,493 -14.45% -194.01%
+Property/Liab Ins 449,878 455,586 1.27% 516,290 13.32% 608,711 17.90% 755,302 24.08% 879,738 16.48% 14.61%
+Work Comp 144,058 100,660 -30.13% 388,921 286.37% 350,919 -9.77% 184,142 -47.53% 175,452 -4.72% 38.84%
+Total 3,529,937 3,609,563 2.26% 5,689,714 57.63% 5,704,080 0.25% 5,005,125 -12.25% 5,720,605 14.29%
+2 - Expenditure #6 - #14
+
+Number | District (A) (B) (c) (D} (E) (F) (G)
+Adjusted Special Categorical Gross Cross- | Adj. Gen Rev Adj. Net Per WADM
+PU Education Revenue Subsidy (B-C) for Special Cross-Subsidy
+Expenditure Education (D-E)
+
+273 | Edina Public 24,977,369 20,904,877 4,072,492 767,790 3,304,702 353.36
+276 | Minnetonka Public 2852.10 26,415,552 20,236,294 6,179,259 831,615 5,347,644 432.93
+277 | Westonka Public 12,852.10 6,571,796 4,669,367 1,902,429 286,873 1,615,555 616.89
+278 | Orono Public 2.628.88 5,651,641 4,064,351 1,587,290 114,359 | 1,472,931 460.41
+279 | Osseo Public ae 64,087,468 45,125,719 18,961,749 3,708,506 15,253,243 674.81
+280 | Richfield Public 22,603.81 16,185,753 11,240,032 4,945,721 905,149 4,040,572 915.39
+281 | Robbinsdale Public - 39,702,911 24,461,216 15,241,695 2,879,070 12,362,626 1,064.64
+282 | St. Anthony-New Brighton BS12.08 3,983,072 3,005,120 977,952 151,551 826,401 410.07
+283 | St. Louis Park Public 2.01828 14,198,206 9,670,492 4,527,714 582,290 3,945,424 831.81
+284 | Wayzata Public AASAL 28,556,616 20,717,064 7,839,552 1,079,680 6,759,872 496.21
+286 | Brooklyn Center - 6,210,551 5,413,852 796,699 550,519 246,180 103.05
+294 | Houston Public 2388.00 4,645,340 4,031,163 614,177 478,485 135,692 62.64
+297 | Spring Grove 2.166.30 466,490 393,561 72,930 11,768 61,162 158.76
+299 | Caledonia Public - 1,745,587 1,223,732 521,854 43,653 478,202 605.79
+300 | La Crescent-Hokah mee' 2,783,133 2,448,431 334,702 85,394 249,307 226.10
+306 | Laporte Public a 1,004,049 806,976 197,074 66,401 130,672 333.17
+308 | Nevis Public 302.28 1,139,312 919,870 219,442 38,848 180,595 282.77
+309 | Park Rapids Public 888.82 4,499,439 3,248,930 1,250,509 243,099 1,007,411 $78.00
+314 | Braham Public -- 1,721,490 1,232,096 489,394 60,163 429,231 505.85
+316 | Greenway Public -- 4,256,137 3,676,854 579,283 143,540 435,744 403.68
+317 | Deer River Public -_ 3,556,289 2,713,334 842,954 147,041 695,914 784.04
+
+Special Education Cross-Subsidies FY 2024
+
+22
+
+10/24/25, 8:34 AM
+
+1. Estimate Premiums
+All Fields Required
+
+Who do you want to estimate premiums for?
+
+Changing this input will automatically update elements of the form.
+
+© Entire Workforce
+
+O anindividual
+
+How many employees do you have?
+
+Your employee count is the highest number of employees reported on a single wage detail report last year.
+
+Learn more about your employee count;
+
+2,142
+
+What was your employee payroll for the last 12 months?
+
+If any employee wages are above the OASDI Limit; , this calculator will provide an overestimate for premiums.
+
+$ 120,587,829
+
+Calculate Reset
+
+Premiums Successfully
+Calculated
+
+https://mn.gov/deed/paidleave/employers/premiums/
+
+Premium rate and contributions / Minnesota Paid Leave
+
+Estimate Premiums
+
+2. Select Premium Frequency
+
+Move the slider to see how your estimated costs change. Your costs will automatically update.
+
+Weekly Bi-Weekly Monthly
+
+c =O
+
+Semi-Monthly Quarterly Annually
+
+Employer Contributions
+
+Family Leave $162,793.57
+=
+Medical Leave $367,792.88
+i
+Total Employer Contributions $530,586.45
+
+Contribution Breakdowns
+
+Employee + Employer
+Total Contributions
+
+Employee Contributions
+
+Family Leave $162,793.57
+
+Family Leave $325,587.14
+Medical Leave $367,792.88
+
+Medical Leave $735,585.76
+Total Employee Contributions Total
+
+$530,586.45 $1,061,172.90
+
+How was this calculated?
+
+Your estimate is calculated by multiplying your total payroll by the
+0.88% premium rate. That amount is split between Family and Medical
+Leave, and shared between the employer and employee.
+
+Have Questions?
+
+2 - Expenditure # 3
+214
+
+10/24/25, 8:34 AM Premium rate and contributions / Minnesota Paid Leave
+
+We're here to help answer the questions you have.
+Visit our FAQ section ;,
+
+Premiums Provided By This Calculator Are Unofficial
+
+Premium calculations provided by this calculator are unofficial and are only intended to provide an estimate for premium contributions.
+
+How this calculation works:
+
+To determine the total contribution, the payroll total entered above is multiplied by the premium rate of
+0.88%. This value is then divided to give the total contribution amount for an employer's reported employee count by week, month, quarter, or year. The calculator displays the total contribution owed by the employer for their reported employee count, and the total contributed by all of their employees.
+
+This calculator assumes premium contributions are split 50% between employers and employees.
+Employers may choose to cover up to 100% of the total premium for employees, but may not collect more than 50% from employees.
+
+Small employers will pay a reduced premium rate under the Paid Leave law. This calculator finds the average employee wage and compares it to the criteria for the small employer rate: the number of employees must be 30 or fewer, and the average employee wage must be less than 150% of the statewide average weekly wage. If an employer qualifies, the reduced premium rate is applied. The maximum contribution from employees in this case is the same as an employee of a large employer.
+
+More about Paid Leave premiums
+
+Premium rates are set to ensure the Paid Leave program is able to cover the cost of benefits and can best serve its users. The Paid Leave premium rate of 0.88 percent for 2026 covers the premium for medical leave (0.61
+percent), for your own medical care, and family leave (0.27 percent), to care for others.
+
+2026 Contribution Rates for Minnesota Paid Leave
+Total Premium Rate 0.88%
+Max. Employee Contribution Rate 0.44%
+Max. Weekly Benefit $1,423
+Min. Employer Contribution Rate 0.44%
+Min. Small Employer Contribution Rate 0.22%
+
+Employers must pay at least 50 percent of the total premium and can deduct the remainder from employee pay. Employers may also choose to pay up to 100 percent of the premium for their employees. Small employers pay a reduced premium rate. The maximum contribution from employees in this case is the same as an employee of a large employer.
+
+2 - Expenditure # 3
+
+https://mn.gov/deed/paidleave/employers/premiums/ 3/4

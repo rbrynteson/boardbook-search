@@ -1,0 +1,16 @@
+Assumption Parameters
+Assumed Formula Increase: FY24 without VPK 2% 3% 4% 5%
+Est. Decline enrollment (WADM) +/- (467) (467) (467) (467)
+Est. Aid Impact +/- (3,279,324) (2,466,804) (1,654,283) (853,538)
+Compensatory +/- 6,152,653 6,152,653 6,152,653 6,152,653
+Referendum and Non Restrictive levy +/- 3,360,349 3,360,349 3,360,349 3,360,349
+FY24 Proj Total Revene +/- 6,233,678 7,046,198 7,858,719 8,659,464
+Assumed Formula Increase: FY24 with VPK 2% 3% 4% 5%
+Est. Decline enrollment (WADM) +/- (292) (292) (292) (292)
+Est. Aid Impact +/- (2,352,612) (1,531,270) (709,929) 99,509
+Compensatory +/- 6,152,653 6,152,653 6,152,653 6,152,653
+Referendum and Non Restrictive levy +/- 3,360,349 3,360,349 3,360,349 3,360,349
+FY24 Proj Total Revene +/- 7,160,098 7,981,440 8,802,781 9,612,219
+Average Steps and Lanes for FY24: 1.53% 1.53% 1.53% 1.53% 1.53%
+Total Labor Assumption: 1.53% 2.00% 2.50% 3.00%
+FY24 Total Proj Labor +/- 604,719 1,197,058 1,827,206 2,457,354

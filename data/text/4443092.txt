@@ -1,0 +1,430 @@
+Transportation
+Insourcing Analysis
+Robbinsdale Area Public Schools
+May 1, 2023
+
+Scope of Work
+● Preliminary start-up and data collection
+● Develop a financial model for current operations
+● Develop a comparison model for Owned Transportation Operations
+○ Driving Staff
+○ Bus Procurement
+○ Facilities
+○ Maintenance and Repair
+○ Office Staff
+○ Fuel
+○ Insurance
+○ Start-up Costs
+● Presentation of results
+2 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Model Description
+Contents
+● Evaluate cost by category
+Model Description
+○ Each cost related to the operation is isolated and analyzed in one or more
+Budget Review 4
+hypothetical scenarios
+Driver Labor 5
+○ Costs added up to establish estimate for operating and capital costs associated
+Bus Procurement 7
+with insourcing
+Facilities 11
+Maintenance 12
+● Compare this to closest possible side-by-side within current
+Office Staffing 13
+operations
+Fuel & Insurance 14
+○ Costs associated with transportation can be compared, or removed from
+Summer & Trips 15
+comparison if they do not relate to the segment of service being considered
+Start up 16
+○ General education, special education, athletics, summer school, type-III
+Summary 17
+3 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Budget Review
+Contents
+● General education to-from school estimated annual total for Durham to-from school contract
+Model Description 3
+○ $4,684,000 64 routes
+Budget Review
+● Special education (not Type-III) estimated annual total for Durham to-from school contract
+Driver Labor 5
+○ $2,014,000 40 routes
+Bus Procurement 7
+● Type-III estimated annual total for contracts (4 providers)
+Facilities 11
+○ $5,713,370 75 routes
+Maintenance 12
+○ Changes more frequently throughout the year compared to other segments
+Office Staffing 13
+● Trips
+Fuel & Insurance 14
+○ $225,000 estimated for 23-24 school year
+Summer & Trips 15
+● Summer School
+○ $340,860 estimated for summer 2023
+Start up 16
+● RAS other costs - will continue under contract or in-house operation
+Summary 17
+○ $391,378 for current district salaries and benefits
+○ $510,000 for fuel
+○ $123,000 for vehicle repairs and supplies
+■ Durham covers up to $2,000 per vehicle, RAS covers the rest
+○ $181,000 for other - office equipment, software, memberships, facility utilities
+4 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+CDL Driver Labor - Inputs
+Contents
+● Regular Education
+○ 64 Routes
+Model Description 3
+○ 10% planning factor for substitutes - 6 additional drivers as substitute coverage
+Budget Review 4
+○ 70 total CDL licensed staff
+Driver Labor
+● Special Education
+Bus Procurement 7
+○ 40 Routes
+Facilities 11
+○ 4 substitute drivers
+Maintenance 12
+○ 40 Paras/aides
+Office Staffing 13
+● Per bargaining agreement - drivers must receive 8 hours per day
+Fuel & Insurance 14
+● Per bargaining agreement - driver hourly rate begins at $21.78
+Summer & Trips 15
+○ Neighboring districts starting wage averages $26 per hour, some exceeding $30
+Start up 16
+○ Not all guarantee 8 hours daily
+Summary 17
+5 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Driver Labor - Results
+Contents
+● Regular Education
+○ Estimated labor costs to cover 2022-23 school year routes - $2,992,388
+Model Description 3
+○ Average of $42,750 per additional bus route staffing
+Budget Review 4
+Driver Labor
+● Special Education
+Bus Procurement 7
+○ Estimated labor costs to cover 2022-23 school year routes - $2,541,113
+Facilities 11
+○ Average of $63,500 per additional bus route, driver, and aide staffing
+Maintenance 12
+● Type-III
+Office Staffing 13
+○ Estimated labor costs to cover 2022-23 school year routes - $3,850,425
+Fuel & Insurance 14
+○ Average of $51,339 per additional Type-III bus route, driver, and aide staffing
+Summer & Trips 15
+● Trips
+Start up 16
+○ Estimated labor costs to cover 2022-23 school year routes - $64,500
+Summary 17
+● Summer School
+○ Estimated labor costs to cover 2022-23 school year routes - $170,350
+6 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Bus Procurement
+Contents
+● RAS owns 66 buses - 15 mini and 51 full size (71-74 pass.)
+○ Average age is 13 years old, nothing newer than 2012
+Model Description 3
+○ Likely all need to be replaced in the next several years, not much salvageable value
+Budget Review 4
+○ Need 73 full-size buses at a 10% spare ratio
+Driver Labor 5
+○ Special education routes require 15 buses for current operation
+Bus Procurement
+○ Expect 18-24 months for new bus delivery
+Facilities 11
+● Home to school full size buses
+Maintenance 12
+○ New bus = $130,000
+Office Staffing 13
+○ Used bus average (model years 2015-2022) = $80,000
+Fuel & Insurance 14
+○ 40% new/60% used
+Summer & Trips 15
+■ Cash = $7,860,000
+■ Lease to own 5-year finance = $1,731,000 annually
+Start up 16
+○ 60% new/40% used
+Summary 17
+■ Cash = $8,030,000
+■ Lease 5-year finance = $1,766,000 annually
+○ 80% new/20% used
+■ Cash = $8,760,000
+■ Lease 5-year finance = $1,926,000 annually
+7 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Bus Procurement
+Contents
+● Special education buses
+○ New bus = $110,000
+Model Description 3
+○ Used bus average (model years 2015-2022) = $70,000
+Budget Review 4
+○ 40% new/60% used
+Driver Labor 5
+■ Cash = $33,720,000
+Bus Procurement
+■ Lease to own 5-year finance = $819,250 annually
+Facilities 11
+● Type-III vehicles
+Maintenance 12
+○ New vehicle average = $45,000
+Office Staffing 13
+○ Mixture of SUV, mini-van, sprinter van
+Fuel & Insurance 14
+○ 83 vehicles
+Summer & Trips 15
+■ Lease to own 5-year finance = $2,442,350 annually
+Start up 16
+Summary 17
+8| Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Bus Procurement
+● Electric buses
+Contents
+○ New bus = $400,000
+○ Grants available to cover purchase price, or portion of purchase price
+Model Description 3
+○ Operating cost - industry standard is 60% of traditional bus
+Budget Review 4
+■ This figure applies to charging as opposed to fueling, as well as for repair costs
+Driver Labor 5
+○ Approach should be incremental, as infrastructure allows
+Bus Procurement
+■ Charger can be up to $15,000 per unit for installation
+Facilities 11
+○ Break even
+■ Using the 15 year average lifespan for a vehicle, the operating cost for EV is $68,550 less
+Maintenance 12
+than diesel during this timeframe
+Office Staffing 13
+■ This does not make up for the substantially higher price tag however, it would take over 50
+Fuel & Insurance 14
+years to make up purchase price using a 60% operating cost value
+Summer & Trips 15
+■ EV buses are 300% more expensive than diesel counterparts, whereas personal vehicles are at similar price points, or slightly more
+Start up 16
+■ To break even during vehicles' realistic operating life (15 years), grants would have to bring
+Summary 17
+purchase cost to $200,000
+● Other fuel types
+○ Natural gas (cng), propane
+○ Both of the above likely to be $160,000 for a new school bus, grants also available
+○ Fuel is significantly cheaper and cleaner, savings of about 50% compared to diesel
+9 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Bus Procurement
+Contents
+● Depreciation as an operating expense
+Model Description 3
+○ Initial bus purchase is a significant capital expense
+Budget Review 4
+○ Fleet will immediately require replacement in first few years, especially if buying
+Driver Labor 5
+used equipment
+Bus Procurement
+○ Purchasing all new vehicles will cause a replacement bottleneck in 8 years or so
+Facilities 11
+● Depreciation is calculated to be $393,174 for general education fleet
+Maintenance 12
+○ This is the operating cost to be compared to existing service model
+Office Staffing 13
+Fuel & Insurance 14
+○ Uses the 60% new/40% used scenario
+Summer & Trips 15
+○ Uses diesel vehicles for calculation
+Start up 16
+■ For consideration as fleet makeup changes to include alternative fuel
+Summary 17
+vehicles - higher vehicle costs result in higher rates of depreciation
+● $171,428 for special education fleet
+● $300,000 for Type-III fleet
+10 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Facilities
+Contents
+● Existing facility is in poor condition
+Model Description 3
+○ Inadequate space to park buses and personal vehicles
+Budget Review 4
+○ Inadequate garage bays to bring buses inside for parking/repairs
+Driver Labor 5
+○ Inadequate office space - break room, offices for non-driving staff
+Bus Procurement 7
+Facilities
+● Contractor is making it work
+Maintenance 12
+● Significant capital expenditure and planning must occur
+Office Staffing 13
+Fuel & Insurance 14
+○ CESO recommends this be placed on a facilities plan if decision to
+Summer & Trips 15
+self-operate transportation
+Start up 16
+● For operating expense comparison - existing facilities budget
+Summary 17
+expenditure is continued as-is for this analysis
+● Other RAS properties do not have adequate approval to park, idle, and drive buses in and out of facilities per local ordinances and zoning
+11 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Maintenance and Repair
+Contents
+● General education fleet consisting of 73 buses represents 256 VEU
+○ Associated maintenance technician ratio is suggested 2.5 FTE Model Description 3
+○ Estimated staffing costs - $188,300 Budget Review 4
+Driver Labor 5
+○ Estimated repair and parts - $138,000
+Bus Procurement 7
+○ Estimated technology (gps, camera, routing) - $204,400
+Facilities 11
+● Special education fleet consisting of 44 buses represents 154 VEU
+Maintenance
+○ Associated maintenance technician ratio is suggested 1.5 FTE
+Office Staffing 13
+○ Estimated staffing costs - $113,000
+Fuel & Insurance 14
+○ Estimated repair and parts - $83,000
+Summer & Trips 15
+○ Estimated technology (gps, camera, routing) - $123,200
+Start up 16
+● Type-III fleet consisting of 83 small vehicles and vans represents 125 VEU
+Summary 17
+○ Associated maintenance technician ratio is suggested 1.25 FTE
+○ Estimated staffing costs - $94,000
+○ Estimated repair and parts - $67,400
+○ Estimated technology (gps, camera, routing) - $199,200
+12 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Office Staffing
+Contents
+● Presently operations are managed by a director and two support personnel
+Model Description 3
+● Recommendation to add staff responsible for routing, dispatching, driver
+Budget Review 4
+supervision, and training
+Driver Labor 5
+○ Position descriptions can vary and include multiple responsibilities
+Bus Procurement 7
+○ Routers/Dispatchers, Drivers/Trainers, etc...
+Facilities 11
+○ General education requires approximately two of each - routers, dispatchers, field
+Maintenance 12
+supervisor or leaders, driver trainers
+Office Staffing
+○ Special education will requires one of each
+Summer & Trips 14
+○ Type-III would require two routers, two dispatchers, one trainer and one supervisor
+Fuel & Insurance 15
+● Based on comparable salaries for the region:
+Start up 16
+○ $1,016,000 for general education staffing
+Summary 17
+○ $338,000 for special education staffing
+○ $851,000 for type III staffing
+● Current management staff not included in side-by-side because their positions would remain under outsourced vs. insourced model
+13 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Fuel & Insurance
+Contents
+Fuel
+Model Description 3
+● Currently a $510,000 spend on fuel which is in agreement with vendor
+Budget Review 4
+● Based on our worksheet - average daily and annual mileage, miles per gallon, cost
+Driver Labor 5
+per gallon - our estimate was very close to this as well and can fluctuate based on
+Bus Procurement 7
+commercial fuel rates
+Facilities 11
+Maintenance 12
+● Fuel or charging for alternative/electric vehicles will be approximately 60% of the
+Office Staffing 13
+cost for the number of buses utilizing said fuel type
+Fuel & Insurance
+● Entire fleet of CNG, propane, electric vehicles would bring fuel to approximately
+Summer & Trips 15
+$306,000 annually
+Start up 16
+Insurance
+Summary 17
+● Estimated to be $160,000 for general education
+● Estimated to be $100,000 for special education
+○ Add $2,000-$3,000 annually for additional routes
+14 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Summer School & Trips
+Contents
+● Using the fleet and driving staff needed for the other segments of the operation,
+RAS can easily operate summer school, field trips, and athletics using its resources
+Model Description 3
+Budget Review 4
+● The cost estimates are based upon:
+Driver Labor 5
+○ Incremental repair costs associated with the buses being operated for
+Bus Procurement 7
+additional miles
+Facilities 11
+○ Fuel associated with the mileage required to operate all summer school
+Maintenance 12
+routes and trips
+Office Staffing 13
+Fuel & Insurance 14
+○ Drivers working their 8-hour days during the summer, and an average of 4
+Summer & Trips hours per trip
+Start up 16
+● Results in an estimated $297,000 to operate these trips as an RAS fleet, compared
+Summary 17
+to $565,860 paid to Durham
+14 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Start-up Costs
+Contents
+● HR related to advertising positions, hiring, training, testing
+○ HR resources allocated - $20,000
+Model Description 3
+○ Advertising - $20,000
+Budget Review 4
+○ Sign-on bonuses ($2,000) - $146,000
+Driver Labor 5
+■ Likely would continue as retention bonuses
+Bus Procurement 7
+● Additional office equipment - desk, chair, radio, other tech
+Facilities 11
+○ Estimated to be $5,000 per office employee - $45,000
+Maintenance 12
+○ 2 routers, trainers, dispatchers, supervisors, 1 mechanic supervisor
+Office Staffing 13
+● Third party training, drug testing, licensing
+Fuel & Insurance 14
+○ Third party training resources, testing resources - $60,000
+Summer & Trips 15
+● Orientation pay
+Start up
+○ $5,000
+Summary 17
+● Numbers above were associated with initial analysis related to general education -
+add 115% for 80 drivers and aides associated with special education - $340,400
+● For Type-III hiring 75 drivers and approximately 37 aides, so 160% more than the original estimate for general education, or $473,600
+15 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Summary
+* the estimates above represent operating cost, and do not include upfront capital investment such as fleet purchases and facility improvements
+16 | Robbinsdale Area Public Schools - Insourcing Analysis Follow-up | May 1, 2023
+
+Thank you
+Mike Archer
+Director, Transportation Projects
+Phone: 610-451-9361
+Email: mike.archer@theceso.com
+Web: www.theceso.com
+Robbinsdale Area School District - Insourcing Analysis | March 6, 2023

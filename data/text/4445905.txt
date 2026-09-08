@@ -1,0 +1,30 @@
+Robbinsdale Area Schools
+Independent School District 281
+4148 Winnetka Ave N.
+New Hope, MN 55427
+763-504-8000 | rdale.org
+Education Identity and Access Management Board Resolution
+The Minnesota Department of Education (MDE), Professional Educator Licensing Standards Board
+(PELSB), and Office of Higher Education (OHE) require annual designation of an Identified Official with
+Authority (IOwA) for each local educational agency that uses the Education Identity and Access
+Management (EDIAM) system. The IOwA is responsible for authorizing, reviewing, and recertifying user access for their local educational agency in accordance with the State of Minnesota Enterprise Identity and Access Management Standard, which states that all user access rights to Minnesota state systems must be reviewed and recertified at least annually. The IOwA will authorize user access to State of
+Minnesota Education secure systems in accordance with the user's assigned job duties, and will revoke that user's access when it is no longer needed to perform their job duties.
+Your school board or equivalent governing board must designate an IOwA to authorize user access to
+State of Minnesota Education secure websites for your organization. This EDIAM board resolution must be completed and submitted to the Minnesota Department of Education annually, as well as any time there is a change in the assignment of the Identified Official with Authority.
+It is strongly recommended that only one person at the local educational agency or organization
+(the superintendent or exec. director) is designated as the IOwA. The IOwA will grant the IOwA
+Proxy role(s).
+Designation of the Identified Official with Authority for Education Identity and Access
+Management
+Organization Name: Robbinsdale Public School District 0281-01
+6-Digit Organization Number: 0281-01
+Superintendent or Executive Director Name: Dr. Teri Staloch Title: Superintendent
+Will act as the IOwA? __X__ Yes _____ No
+Identify below the individual(s) who will act as the IOwA Proxy for your organization.
+The Superintendent or Exec. Director recommends the Board authorize the below named individual(s) to act an Identified Official with Authority (IOwA) Proxy for this organization:
+Print Name: Dr. Robert McDowell Title: Assistant Superintendent
+Board Member Signature:
+Name: ______________________________________________ Date: _______________________
+Dr. Greta Evans-Becker, School Board Chair
+Once the EDIAM Board Resolution is completed, scan and email it to: useraccess.mde@state.mn.us
+Believe. Belong. Become.

@@ -1,0 +1,79 @@
+Demographer's Enrollment Information - 2025
+Calculating survival rates for projections should avoid the Pandemic year and often the year following the Pandemic year is also distorted by a high return of students. In Robbinsdale's case, it was also a year of net out migration. Therefore, the average for the past three years looks like one reasonable option for projected survival rates. Because net in migration increased in the past two years, another reasonable option is the average for the past two years, which will result in more net in migration.
+PROJECTED SURVIVAL RATES
+Low High
+Past Three Years Past Two Years
+Grade
+K to 1 0.999 1.007
+1 to 2 0.997 1.010
+2 to 3 0.996 1.003
+3 to 4 0.995 0.994
+4 to 5 0.968 0.966
+5 to 6 0.977 1.002
+6 to 7 1.034 1.037
+7 to 8 0.982 0.989
+8 to 9 1.108 1.113
+9 to 10 0.999 1.009
+10 to 11 0.981 0.987
+11 to 12 1.123 1.128
+Excludes Early Childhood
+The differences between these two survival rates can be seen in the projections below. By using the low kindergarten assumption, the number of kindergarten students is the same in the two projections, so the differences are solely the result of the survival rates.
+In ten years, there is a 401-student difference between the low and high migration assumptions. The difference at K-5 is 70 students or about 10 students per grade. At Grades 6-8, the difference is 109
+students or about 36 students per grade and at Grades 9-12, the difference is 220 students or 55
+students per grade. The projected survival rates (in the table above) clearly show why this occurs.
+SUMMARY OF EFFECTS OF SURVIVAL RATES IN TEN YEARS WITH LOW KINDERGARTEN ASSUMPTION
+Survival Rates Total K-5 6-8 9-12
+Past 3 Years 8,886 3,847 1,946 3,094
+Past 2 Years 9,287 3,917 2,055 3,314
+Because the reasonable options are limited, the average of the past three years will be the low migration assumption and the average of the past two years will be the high migration assumption for enrollment projections.
+3 A - Enrollment
+
+Demographer's Enrollment Information - 2025
+Four cohort projections are shown on the next table. In ten years, there is a 571-student difference between the lowest projection and the highest projection. The kindergarten assumptions account for a 165 to 170 student difference in ten years while the migration assumptions account for a 401 to 406 student difference. These numbers show that the migration assumptions account for more of the difference among the projections than the kindergarten assumptions. Both assumptions are important but selecting the "best" projection requires carefully considering the migration assumptions.
+The lowest projection is based on the low kindergarten and low migration assumptions. In this projection, enrollment decreases by 1,367 students or -13.3 percent by 2034-35. In five years, enrollment will be 820 students or -8.0 percent lower than today.
+The highest projection is based on the high kindergarten and high migration assumptions. In ten years, enrollment decreases by 796 students or -7.8 percent. In five years, enrollment decreases by 456 students or -4.4 percent.
+K-12 ENROLLMENT PROJECTIONS
+Low K High K Low K High K
+Year Low Mig Low Mig High Mig High Mig
+2024-25 10,253 10,253 10,253 10,253
+2025-26 10,000 10,017 10,065 10,082
+2026-27 9,755 9,790 9,880 9,915
+2027-28 9,649 9,701 9,830 9,884
+2028-29 9,518 9,588 9,748 9,819
+2029-30 9,433 9,520 9,709 9,797
+2030-31 9,341 9,443 9,655 9,759
+2031-32 9,233 9,350 9,585 9,705
+2032-33 9,088 9,221 9,452 9,589
+2033-34 9,029 9,177 9,413 9,566
+2034-35 8,886 9,051 9,287 9,457
+Excludes Early Childhood
+In between the highest and lowest projections are two other projections. In 2034-35, these two projections differ by 236 students. As a group, the four projections reflect a range of possibilities with all four projections showing enrollment decreasing in ten years.
+The ten-year projections reflect the following components of enrollment change. The
+Robbinsdale Area Schools will continue to experience natural decrease with both kindergarten assumptions. Natural decrease occurred every year in the past ten years with this past year showing a natural decrease of 244 students. (Natural decrease results from the incoming
+Kindergarten being smaller than the previous year's Grade 12.) In the next ten years, natural decrease will average 259 to 286 students per year in the low kindergarten projections and 242
+to 269 students in the high kindergarten projections.
+3 A - Enrollment
+
+Demographer's Enrollment Information - 2025
+Total net migration will be positive over the ten years. This is the same pattern seen in the past three years. The low migration assumption averages a net in migration of 122 students per year in the next ten years while the high migration assumption averages 189 to 190 students per year. Net migration averaged 195 students in the past two years.
+ENROLLMENT PROJECTIONS
+K-5 6-8 9-12 Total
+2024-25 4,419 2,138 3,696 10,253
+2029-30
+Low K/Low Mig 4,081 2,124 3,228 9,433
+High K/Low Mig 4,168 2,124 3,228 9,520
+Low K/High Mig 4,157 2,200 3,351 9,709
+High K/High Mig 4,245 2,200 3,351 9,797
+2034-35
+Low K/Low Mig 3,847 1,946 3,094 8,886
+High K/Low Mig 3,944 1,996 3,112 9,051
+Low K/High Mig 3,917 2,055 3,314 9,287
+High K/High Mig 4,016 2,108 3,334 9,457
+Excludes Early Childhood
+Looking at the projections based on the elementary, middle, and high school grades is instructive. In the first five years, K-5 enrollment is from 174 to 338 students lower than today. In ten years, K-5 enrollment ranges from 403 to 572 students lower than today. For the first five years, the kindergarten students have already been born.
+Middle school (Grades 6-8) enrollment decreases by 14 students or is 62 students larger than in
+2024-25. In ten years, middle school enrollment declines and is 30 to 192 students lower than today. Middle school enrollment is not affected by the kindergarten projections until the second five projection years.
+In the first five projection years, high school enrollment is 345 to 468 students lower than today. In the second five projection years, high school enrollment declines ranging from 362 to
+602 students lower than today. In the second five projection years, the kindergarten assumptions began to affect high school enrollment. Grades 9-12 projections are almost totally a result of the migration assumptions because the kindergarten assumptions have only a small effect on the high school projections. In 2034-35, the 2024-25 kindergarten will be in
+Grade 10, which means that all the grades below Grade 10 are products of the projection assumptions.
+3 A - Enrollment

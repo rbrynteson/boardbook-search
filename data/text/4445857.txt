@@ -1,0 +1,35 @@
+ROBBINSDALE AREA SCHOOLS #281
+JOURNAL ENTRY FORM
+
+Document Purpose: Use this form to correct coding errors on cash receipts (deposits) and purchases (POs, Checks, Credit card payments).
+
+ACCOUNT CODE DEBIT (DR) CREDIT (CR)
+
+; Increase Expenditure Decrease Expenditure
+
+FD T ORG PRO CRS FIN OBJ or Decrease Revenue or Increase Revenue
+1} 02 |R} 005 | 770 | 000 | 707 | 649 40.95
+2| 01 }E] 005 | 810 | 000 | 000 | 910 40.95
+3] 02 {A} 101 | 00 40.95
+4] 01 JA} 101 | 00 40.95
+5
+6
+7
+8
+9
+10
+41
+12
+13
+14 -
+15 E
+16 E
+
+TOTAL 81.90 81.90
+Description: - Fund transfer to food service for cost of food purchased for staff during kitchen sewage
+
+backup.
+Request [Katie Wahl, Director of Nutrition Services
+Name & Title
+App roval Name & Title
+Signature Date

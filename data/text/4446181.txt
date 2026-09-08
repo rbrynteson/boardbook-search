@@ -1,0 +1,152 @@
+Demographer's Enrollment Information - 2025
+The post-Pandemic capture rates for the past four years average 7.16 percent. While there is no evidence that the capture rate will return to pre-Pandemic levels, it is wise to assume that the capture rate could increase; therefore, the average of the past six years (7.34) will also be considered. The average of the past four years (7.16 percent) will be used for the low kindergarten assumption. For a high kindergarten assumption, the average of the past six years (7.34 percent) will be used.
+ROBBINSDALE'S KINDERGARTEN
+AS A PERCENT OF THE SUBURBAN HENNEPIN COUNTY KINDERGARTEN POOL
+Suburban Hennepin County
+Pool
+Birth Years Percentage Kindergarten Year
+2008; 2009 10,081 9.21% 2014-15
+2009; 2010 9,908 9.27% 2015-16
+2010; 2011 9,881 8.75% 2016-17
+2011; 2012 10,162 8.32% 2017-18
+2012; 2013 10,411 8.29% 2018-19
+2013; 2014 10,513 8.51% 2019-20
+2014; 2015 10,596 6.90% 2020-21
+2015; 2016 10,475 7.57% 2021-22
+2016; 2017 10,434 6.76% 2022-23
+2017; 2018 10,251 6.92% 2023-24
+2018; 2019 9,988 7.37% 2024-25
+2019; 2020 9,662 2025-26
+2020; 2021 9,697 2026-27
+2021; 2022 9,699 2027-28
+2022; 2023 9,251 2028-29
+2023; 2024 9,141 2029-30
+PROJECTED MINNESOTA O-YEAR OLDS
+Year Projected Number
+2019 Actual 66,033
+2019 70,373
+2020 Actual 63,451
+2020 70,325
+2021 Actual 64,398
+2021 70,274
+2022 Actual 64,032
+2022 64,897
+2023 Actual 61,727
+2023 65,396
+2024 Actual* 62,036
+2024 65,895
+2025 66,195
+2026 66,352
+2027 66,509
+2028 66,666
+2029 66,823
+2030 66,890
+3 A - Enrollment
+
+Demographer's Enrollment Information - 2025
+In the past seventeen years, Suburban Hennepin County resident births fluctuated but increased from
+14.11 percent of Minnesota resident live births in 2008 to 14.81 percent in 2024. During this period, the percentages ranged from a low of 14.11 in 2008 to a high of 15.23 in 2017. Suburban Hennepin
+County's kindergarten pool is based on the 2024 Hennepin County population projections made by the
+Minnesota State Demography Center. The projections show the kindergarten pool decreasing in size.
+SUBURBAN HENNEPIN COUNTY
+KINDERGARTEN POOL
+2024-25 9,988
+2025-26 9,662
+2026-27 9,697
+2027-28 9,699
+2028-29 9,251
+2029-30 9,141
+2030-31 9,116
+2031-32 9,068
+2032-33 9,045
+2033-34 9,018
+2034-35 8,985
+Pool based on actual births bolded
+KINDERGARTEN PROJECTIONS
+@7.16% 7.34@%
+2024-25 736 736
+2025-26 692 709
+2026-27 694 712
+2027-28 694 712
+2028-29 662 679
+2029-30 654 671
+2030-31 653 669
+2031-32 649 666
+2032-33 648 664
+2033-34 646 662
+2034-35 643 659
+Total 6,635 6,803
+3 A - Enrollment
+
+Demographer's Enrollment Information - 2025
+Net Migration Assumptions
+The method of calculating migration does not distinguish between physical movement across a district's boundaries and education choices, such as transferring from a nonpublic school to a public school, transferring to a charter school or open enrolling in another district's public schools. Further, students who move into or out of a school district but never enroll in the district's public schools are not reflected in the migration numbers in this report.
+The next two tables show net migration in raw numbers. The next table shows net migration for every grade transition. Overall, net migration is usually positive (six out of the past ten years), the result, in part, of the increasing number of nonresident students. The Pandemic year (2019 to 2020) saw net out migration as would be expected but the following year also saw net out migration. The past three years saw net in migration, which included a net inflow at Grade 7. There is a consistent net inflow of students from Grade 8 to Grade 9, the beginning of high school. The loss of students between Grade 10
+and Grade 11 is typical in Minnesota. The large net in migration between Grade 11 and Grade 12 reflects
+ALC students.
+NET MIGRATION
+YEAR TO YEAR
+14 to 15 to 16 to 17 to 18 to 19 to 20 to 21 to 22 to 23 to
+15 16 17 18 19 20 21 22 23 24
+K to 1 0 -25 -18 -15 -9 -61 2 -13 8 2
+1 to 2 25 -21 -18 15 -24 -64 -28 -21 -18 30
+2 to 3 -9 2 -31 -5 -39 -49 -45 -14 -8 12
+3 to 4 65 87 14 12 -29 -27 -37 -3 -15 5
+4 to 5 -8 -24 -38 -9 -18 -43 -68 -20 -24 -29
+5 to 6 176 103 -61 -37 -24 -72 -69 -52 6 -4
+6 to 7 128 -106 -49 -3 -2 -36 -19 20 32 19
+7 to 8 68 -22 -17 -1 -23 -64 -30 -23 -9 -8
+8 to 9 46 -11 27 34 74 54 82 84 76 92
+9 to 10 -10 -27 -1 -21 -8 0 -11 -19 10 5
+10 to 11 -86 -25 -34 -8 -28 -31 -23 -27 -18 -7
+11 to 12 134 136 93 133 115 169 143 110 86 147
+Total 529 67 -133 95 -15 -224 -103 22 126 264
+Percent 4.3 0.5 -1.1 0.8 -0.1 -1.9 -0.9 0.2 1.2 2.6
+Excludes Early Childhood
+3 A - Enrollment
+
+Demographer's Enrollment Information - 2025
+The next table summarizes net migration by aggregating Grades K-5 for the elementary grades,
+Grades 6-8 for the middle school grades and Grades 9-12 for the high school grades. Now a pattern emerges. Net in migration is a high school phenomenon in part because of the ALC. The elementary grades often experience net out migration as do the middle school grades.
+NET MIGRATION
+YEAR TO YEAR
+14 to 15 15 to 16 16 to 17 17 to 18 18 to 19 19 to 20 20 to 21 21 to 22 22 to 23 23 to 24
+K-5 73 19 -91 -2 -119 -244 -176 -71 -57 20
+6-8 372 -25 -127 -41 -49 -172 -118 -55 29 7
+9-12 84 73 85 138 153 192 191 148 86 147
+Total 529 67 -133 95 -15 -224 -103 22 126 264
+Excludes Early Childhood
+Net migration numbers when compared to the number of students in a grade result in the percentage of students retained, that is, survival rates. Survival rates are an effective way to analyze the number of students retained, added, or lost each year at each grade. For example, 1.000 indicates no change or 100 percent of the grade progressed to the next highest grade. Any number over 1.000
+reflects the percentage increase while a number below 1.000 reflects the percentage decrease. For example, 0.98 indicates a 2 percent decrease.
+SURVIVAL RATES
+YEAR TO YEAR
+14 to 15 to 16 to 17 to 18 to 19 to 20 to 21 to 22 to 23 to
+15 16 17 18 19 20 21 22 23 24
+K to 1
+1.000 0.973 0.979 0.982 0.990 0.932 1.003 0.984 1.011 1.003
+1 to 2
+1.027 0.977 0.980 1.018 0.971 0.925 0.966 0.971 0.977 1.042
+2 to 3
+0.991 1.002 0.966 0.994 0.955 0.939 0.943 0.983 0.989 1.016
+3 to 4
+1.072 1.092 1.015 1.014 0.967 0.967 0.951 0.996 0.981 1.007
+4 to 5
+0.991 0.975 0.963 0.991 0.980 0.949 0.915 0.972 0.968 0.963
+5 to 6
+1.189 1.119 0.935 0.963 0.975 0.917 0.914 0.929 1.009 0.994
+6 to 7
+1.153 0.904 0.949 0.997 0.998 0.961 0.976 1.027 1.047 1.027
+7 to 8
+1.075 0.977 0.983 0.999 0.974 0.933 0.966 0.970 0.988 0.989
+8 to 9
+1.050 0.989 1.029 1.035 1.081 1.063 1.092 1.098 1.101 1.124
+9 to 10
+0.989 0.972 0.999 0.978 0.992 1.000 0.988 0.980 1.011 1.006
+10 to
+0.912 0.973 0.964 0.992 0.971 0.969 0.977 0.970 0.981 0.993
+11
+11 to
+1.138 1.153 1.102 1.148 1.121 1.183 1.146 1.114 1.098 1.157
+12
+Excludes Early Childhood
+3 A - Enrollment

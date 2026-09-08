@@ -1,0 +1,21 @@
+Forest boundary available students 615
+Cooper Credit Recovery
+Forest Elementary
+Lakeview Elementary
+Zachary Lane Elementary
+The FAIR School - Crystal
+FAIR School Pilgrim Lane
+Robbinsdale Middle
+Plymouth Middle
+Armstrong Credit Rec
+Sonnesyn Elementary
+10/14/2025, 7:42:02 PM 1:43,334
+0 0.25 0.5 1 mi
+Filter Students for Map result Surrounding District Boundaries
+High
+0 0.4 0.8 1.6 km
+Robbinsdale Schools
+Sources: Esri, TomTom, Garmin, FAO, NOAA, USGS, (c) OpenStreetMap
+District Boundary
+Middle contributors, and the GIS User Community, Sources: Esri, TomTom, Garmin,
+Elementary

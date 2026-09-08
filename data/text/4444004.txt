@@ -1,0 +1,153 @@
+To: School Board and Marti Voight, Interim Superintendent
+From: Cheryl Ulik, Director of Research, Evaluation and Assessment
+Date: February 20, 2024
+Re: Enrollment: In District vs Out of District
+The tables below provide a breakdown of district enrollment based on if the student lives in or out of the district. It is based on an enrollment file pulled on January 25, 2024. Since enrollment is constantly changing, the counts and percentages would vary slightly if they were based on a different enrollment date. The tables are split by Elementary (K-5), Middle School (grades 6-8) and
+High School (grades 9-12). Within each level enrollment counts and percentages are provided by school and several demographic variables.
+In District/Out of District by Elementary School
+In District Out of District
+% Count % Count Count
+School FAIR Pilgrim Lane 81% 326 19% 78 404
+Forest Elementary 87% 397 13% 58 455
+Lakeview Elementary 81% 293 19% 67 360
+Meadow Lake 93% 468 7% 35 503
+Elementary
+Neill Elementary 85% 304 15% 52 356
+Noble Elementary 75% 215 25% 72 287
+Northport Elementary 90% 417 10% 46 463
+Robbinsdale Spanish 82% 608 18% 133 741
+Immersion
+Robbinsdale Virtual 63% 5 38% 3 8
+Academy K-5
+School of Engineering 85% 380 15% 65 445
+and Arts
+Sonnesyn Elementary 86% 259 14% 43 302
+Zachary Lane 91% 375 9% 38 413
+Elementary
+Total 85% 4047 15% 690 4737
+In District/Out of District by Elementary School and Special Education
+In District Out of District
+% Count % Count Count
+Special Ed General 85% 3382 15% 584 3966
+Education
+Special Education 86% 665 14% 106 771
+Total 85% 4047 15% 690 4737
+
+In District/Out of District by Elementary School and Race/Ethnicity
+In District Out of District
+% Count % Count Count
+Federal American Indian/Native 86% 24 14% 4 28
+Race/Ethnicit Hawaiian y
+Asian 86% 203 14% 32 235
+Black/African American 83% 1171 17% 244 1415
+Hispanic/Latino 82% 701 18% 157 858
+Two or More Races 83% 494 17% 101 595
+White 91% 1454 9% 152 1606
+Total 85% 4047 15% 690 4737
+In District/Out of District by Elementary School and EL Status
+In District Out of District
+% Count % Count Count
+ELL English Learner 87% 725 13% 106 831
+English Speaker 85% 3322 15% 584 3906
+Total 85% 4047 15% 690 4737
+In District/Out of District by Elementary School and Free/Reduced Lunch Status
+In District Out of District
+% Count % Count Count
+Free/Reduced Free/Reduced 83% 2387 17% 492 2879
+Lunch
+Lunch
+Regular Lunch 89% 1660 11% 198 1858
+Total 85% 4047 15% 690 4737
+In District/Out of District by Middle School
+In District Out of District
+% Count % Count Count
+School Name FAIR School - Crystal 80% 303 20% 77 380
+Plymouth Middle 88% 693 12% 91 784
+School
+Robbinsdale Middle 82% 517 18% 112 629
+School
+Robbinsdale Virtual 77% 34 23% 10 44
+Academy
+Sandburg Middle 79% 263 21% 71 334
+School
+Total 83% 1810 17% 361 2171
+
+In District/Out of District by Middle School and Special Education
+In District Out of District
+% Count % Count Count
+Special Ed General 83% 1524 17% 309 1833
+Education
+Special Education 85% 286 15% 52 338
+Total 83% 1810 17% 361 2171
+In District/Out of District by Middle School and Race/Ethnicity
+In District Out of District
+% Count % Count Count
+Federal American Indian/Native 83% 10 17% 2 12
+Race/Ethnicit Hawaiian y
+Asian 84% 110 16% 21 131
+Black/African American 74% 487 26% 171 658
+Hispanic/Latino 84% 338 16% 66 404
+Two or More Races 77% 179 23% 53 232
+White 93% 686 7% 48 734
+Total 83% 1810 17% 361 2171
+In District/Out of District by Middle School and EL Status
+In District Out of District
+% Count % Count Count
+ELL English Learner 86% 257 14% 41 298
+English Speaker 83% 1553 17% 320 1873
+Total 83% 1810 17% 361 2171
+In District/Out of District by Middle School and Free/Reduced Lunch Status
+In District Out of District
+% Count % Count Count
+Free/Reduced Free/Reduced 78% 985 22% 276 1261
+Lunch
+Lunch
+Regular Lunch 91% 825 9% 85 910
+Total 83% 1810 17% 361 2171
+
+In District/Out of District by High School
+In District Out of District
+% Count % Count Count
+School Name Robbinsdale Academy 71% 208 29% 83 291
+Robbinsdale Armstrong 84% 1457 16% 286 1743
+High School
+Robbinsdale Cooper 79% 1115 21% 303 1418
+High School
+Robbinsdale Transition 83% 43 17% 9 52
+Center
+Robbinsdale Virtual 72% 135 28% 52 187
+Academy
+Total 80% 2958 20% 733 3691
+In District/Out of District by High School and Special Education
+In District Out of District
+% Count % Count Count
+Special Ed General 81% 2532 19% 600 3132
+Education
+Special Education 76% 426 24% 133 559
+Total 80% 2958 20% 733 3691
+In District/Out of District by High School and Race/Ethnicity
+In District Out of District
+% Count % Count Count
+Federal American Indian/Native 90% 26 10% 3 29
+Race/Ethnicit Hawaiian y
+Asian 69% 173 31% 78 251
+Black/African American 72% 845 28% 325 1170
+Hispanic/Latino 81% 559 19% 129 688
+Two or More Races 76% 286 24% 92 378
+White 91% 1069 9% 106 1175
+Total 80% 2958 20% 733 3691
+In District/Out of District by High School and EL Status
+In District Out of District
+% Count % Count Count
+ELL English Learner 83% 359 17% 76 435
+English Speaker 80% 2599 20% 657 3256
+Total 80% 2958 20% 733 3691
+
+In District/Out of District by High School and Free/Reduced Lunch Status
+In District Out of District
+% Count % Count Count
+Free/Reduced Free/Reduced 74% 1567 26% 552 2119
+Lunch
+Lunch
+Regular Lunch 88% 1391 12% 181 1572
+Total 80% 2958 20% 733 3691

@@ -1,0 +1,27 @@
+Supply Budget Allocation
+Basic
+Allocation Basic ARTS
+School Enrollment Rate Allocation Allocation ARTS
+Cooper 050 1,497 84.00 125,748.00
+Armstrong 053 1,722 84.00 144,648.00
+Early Learning 013
+Highview / RTC 200 310 84.00 26,040.00
+RTC 180
+Robbinsdale Vitural Academy 289 37 84.00 3,108.00
+Plymouth 040 772 57.00 44,004.00
+Robbinsdale 043 597 57.00 34,029.00
+Sandburg 045 326 57.00 18,582.00
+FAIR - Crystal 401 424 57.00 24,168.00
+FAIR - Pilgrim Lane 020 398 42.00 16,716.00 11.35 4,517
+Forest 004 402 42.00 16,884.00 11.35 4,563
+Lakeview 006 308 42.00 12,936.00 11.35 3,496
+Meadow Lake 010 433 42.00 18,186.00 11.35 4,915
+Neill 011 329 42.00 13,818.00 11.35 3,734
+Noble 017 254 42.00 10,668.00 11.35 2,883
+Northport 019 435 42.00 18,270.00 11.35 4,937
+SEA @ Olson 008 433 42.00 18,186.00 11.35 4,915
+Sonnesyn 022 264 42.00 11,088.00 11.35 2,996
+Spanish Immersion 012 770 42.00 32,340.00 11.35 8,740
+Zachary Lane 030 380 42.00 15,960.00 11.35 4,313
+Total 10,091 $605,379 $50,008
+2 - Expenditure # 5

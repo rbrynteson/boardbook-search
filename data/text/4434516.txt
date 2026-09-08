@@ -1,0 +1,506 @@
+Management Report for
+Independent School District No. 281
+New Hope, Minnesota
+June 30, 2023
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+PRINCIPALS
+Thomas A. Karnowski, CPA
+Paul A. Radosevich, CPA
+William J. Lauer, CPA
+James H. Eichten, CPA
+Aaron J. Nielsen, CPA
+C E R T I F I E D
+P U B L I C
+Victoria L. Holinka, CPA/CMA
+A C C O U N T A N T S
+Jaclyn M. Huegel, CPA
+Kalen T. Karnowski, CPA
+To the School Board and Management of
+Independent School District No. 281
+New Hope, Minnesota
+We have prepared this management report in conjunction with our audit of Independent School District
+No. 281, Robbinsdale Area Schools' (the District) financial statements for the year ended June 30, 2023.
+We have organized this report into the following sections:
+• Audit Summary
+• Funding Public Education in Minnesota
+• Financial Trends of Your District
+• Accounting and Auditing Updates
+We would be pleased to further discuss any of the information contained in this report or any other concerns that you would like us to address. We would also like to express our thanks for the courtesy and assistance extended to us during the course of our audit.
+The purpose of this report is solely to provide those charged with governance of the District, management, and those with responsibility for oversight of the District's financial reporting process comments resulting from our audit and information relevant to school district financing in Minnesota. Accordingly, this report is not suitable for any other purpose.
+Minneapolis, Minnesota
+September 24, 2024
+M a l l o y, M o n t a g u e , K a r n o w s k i , R a d o s e v i c h & C o . , P. A .
+5 3 5 3 Wa y z a t a B o u l e v a r d • S u i t e 4 1 0 • M i n n e a p o l i s , M N 5 5 4 1 6 • P h o n e : 9 5 2 - 5 4 5 - 0 4 2 4 • F a x : 9 5 2 - 5 4 5 - 0 5 6 9 • w w w. m m k r. c o m
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+AUDIT SUMMARY
+The following is a summary of our audit work, key conclusions, and other information that we consider important or that is required to be communicated to the School Board, administration, or those charged with governance of the District.
+OUR RESPONSIBILITY UNDER AUDITING STANDARDS GENERALLY ACCEPTED IN THE UNITED
+STATES OF AMERICA, GOVERNMENT AUDITING STANDARDS, AND TITLE 2 U.S. CODE OF FEDERAL
+REGULATIONS PART 200, UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND
+AUDIT REQUIREMENTS FOR FEDERAL AWARDS (UNIFORM GUIDANCE)
+We have audited the financial statements of the governmental activities, each major fund, and the aggregate remaining fund information of the District as of and for the year ended June 30, 2023. Professional standards require that we provide you with information about our responsibilities under auditing standards generally accepted in the United States of America, Government Auditing Standards, and the Uniform
+Guidance, as well as certain information related to the planned scope and timing of our audit. We have communicated such information to you verbally and in our audit engagement letter. Professional standards also require that we communicate to you the following information related to our audit.
+PLANNED SCOPE AND TIMING OF THE AUDIT
+We performed the audit according to the planned scope previously discussed and coordinated in order to obtain sufficient audit evidence. Completion of the District's audit was delayed, due primarily to the turnover of several key positions within the District's finance department.
+AUDIT OPINION AND FINDINGS
+Based on our audit of the District's financial statements for the year ended June 30, 2023:
+• We have issued unmodified opinions on the District's basic financial statements.
+• We reported one deficiency in the District's internal control over financial reporting that we considered to be a material weakness:
+o For the year ended June 30, 2023, the District's internal controls over financial reporting were not adequate to ensure that the District's financial records and year-end closing process were completed in a timely manner. As a result, the District was unable to comply with state and federal deadlines for the submission of audited financial data and annual financial statements.
+• The results of our testing disclosed no instances of noncompliance required to be reported under
+Government Auditing Standards.
+• We reported that the Schedule of Expenditures of Federal Awards is fairly stated, in all material respects, in relation to the basic financial statements.
+-1-
+
+• The results of our tests indicate that the District has complied, in all material respects, with the types of compliance requirements that could have a direct and material effect on each of its major federal programs. We did however, note one incidence of reportable noncompliance that applied to all federal programs awarded under the Uniform Guidance:
+o 2CFR Part 200, Subpart F, § 200.512(a)(1) requires the District's audited Schedule of
+Expenditures Federal Awards (SEFA) and federal reporting package to be submitted to the federal audit clearinghouse within the earlier of 30 calendar days after the receipt of the auditor's report(s), or 9 months after the end of the audit period. The District's audited
+SEFA and federal reporting package for the fiscal year ended June 30, 2023, were not submitted to the federal audit clearinghouse within 9 months after the end of the audit period.
+• We reported one deficiency in the District's internal controls over compliance that we considered to be a significant deficiency with the types of compliance requirements that could have a direct and material effect on each of its major federal programs:
+o The District's internal control system for documenting employee time supporting salaries charged to the Title I program for teachers assigned to the program as a single cost objective, requires the completion of semi-annual certifications approved by the employees' supervisor. For three of five Title I teacher salaries tested, this documentation was either missing, incomplete, or lacking documentation of approval.
+• We reported two findings based on our testing of the District's compliance with Minnesota laws and regulations:
+o Minnesota Statutes § 6.65, 123B.77, Subd. 3 requires that the District submit audited fund balance, revenue, and expenditure data to the Minnesota Department of Education (MDE)
+annually by November 30, and audited financial statements by December 31. The fund balance, revenue, and expenditure data for the fiscal year ended June 30, 2023, that was submitted to the MDE by the following November 30 was inaccurate due to the process not being complete, which resulted in several material adjustments to the data after the deadline. Further, the District did not meet the deadline for submitting audited financial statements to the MDE for the fiscal year ended June 30, 2023.
+o Minnesota Statutes § 118A.04, Subd. 9 requires that annually, prior to completing an initial investment transaction with each broker, districts provide to that broker a written statement of investment restrictions and that the broker acknowledge receipt of the investment restrictions and agree to handle a district's account in accordance with the restrictions. The
+District did not obtain such certifications from its investment brokers for the year ended
+June 30, 2023.
+FOLLOW-UP ON PRIOR YEAR FINDINGS AND RECOMMENDATIONS
+As a part of our audit of the District's financial statements for the year ended June 30, 2023, we performed procedures to follow-up on any findings and recommendations that resulted from our prior year audit. We reported the following finding that was corrected by the District in the current year:
+• 2022-001 - Material weakness in internal controls over financial reporting; material audit adjustment. There was no similar finding noted in fiscal 2023.
+-2-
+
+SIGNIFICANT ACCOUNTING POLICIES
+Management is responsible for the selection and use of appropriate accounting policies. The significant accounting policies used by the District are described in Note 1 of the notes to basic financial statements.
+No new accounting policies were adopted and the application of existing policies was not changed during the fiscal year ended June 30, 2023.
+We noted no transactions entered into by the District during the year for which there is a lack of authoritative guidance or consensus. All significant transactions have been recognized in the financial statements in the proper period.
+ACCOUNTING ESTIMATES AND MANAGEMENT JUDGMENTS
+Accounting estimates are an integral part of the financial statements prepared by management and are based on management's knowledge and experience about past and current events and assumptions about future events. Certain accounting estimates are particularly sensitive because of their significance to the financial statements and because of the possibility that future events affecting them may differ significantly from those expected. The most sensitive estimates affecting the financial statements were:
+General education revenue and certain other revenues are computed by applying an allowance per student to the number of students served by the District. Student attendance is accumulated in a state-wide database-MARSS. Because of the complexity of student accounting and because of certain enrollment options, student information is input by other school districts and the MARSS data for the current fiscal year is not finalized until after the District has closed its financial records. General education revenue and certain other revenues are computed using preliminary information on the number of students served in the resident district and also utilizing some estimates, particularly in the area of enrollment options.
+Special education state aid includes an adjustment related to tuition billings to and from other school districts for special education services, which are computed using formulas derived by the MDE.
+Because of the timing of the calculations, this adjustment for the current fiscal year is not finalized until after the District has closed its financial records. The impact of this adjustment on the receivable and revenue recorded for state special education aid is calculated using preliminary information available to the District.
+The District has recorded a liability in the Statement of Net Position for severance benefits payable for which it is probable employees will be compensated. The "vesting method" used by the District to calculate this liability is based on assumptions involving the probability of employees becoming eligible to receive the benefits (vesting), the potential use of accumulated sick leave prior to termination, and the age at which such employees are likely to retire.
+The District has recorded activity for other post-employment benefits (OPEB) and pension benefits.
+These obligations are calculated using actuarial methodologies, primarily described in GASB
+Statement Nos. 68 and 75. These actuarial calculations include significant assumptions, including projected changes, healthcare insurance costs, investment returns, retirement ages, proportionate share, and employee turnover.
+The depreciation/amortization of capital assets involves estimates pertaining to useful lives.
+The District's self-insured activities require recording a liability for claims incurred, but not yet reported, which are based on estimates.
+We evaluated the key factors and assumptions used by management to develop the estimates discussed on the previous page in determining that they are reasonable in relation to the financial statements taken as a whole.
+-3-
+
+Certain financial statement disclosures are particularly sensitive because of their significance to financial statement users. The disclosures included in the notes to the basic financial statements related to OPEB and pension benefits are particularly sensitive, due to the materiality of the liabilities, and the large and complex estimates involved in determining the disclosures.
+The financial statement disclosures are neutral, consistent, and clear.
+DIFFICULTIES ENCOUNTERED IN PERFORMING THE AUDIT
+We encountered no significant difficulties in dealing with management in performing and completing our audit.
+CORRECTED AND UNCORRECTED MISSTATEMENTS
+Professional standards require us to accumulate all known and likely misstatements identified during the audit, other than those that are clearly trivial, and communicate them to the appropriate level of management. Management has corrected all such misstatements. In addition, none of the misstatements detected as a result of audit procedures and corrected by management were material, either individually or in the aggregate, to each opinion unit's financial statements taken as a whole.
+DISAGREEMENTS WITH MANAGEMENT
+For purposes of this letter, a disagreement with management is a financial accounting, reporting, or auditing matter, whether or not resolved to our satisfaction, that could be significant to the financial statements or the auditor's report. We are pleased to report that no such disagreements arose during the course of our audit.
+MANAGEMENT REPRESENTATIONS
+We have requested certain representations from management that are included in the management representation letter dated September 24, 2024.
+MANAGEMENT CONSULTATIONS WITH OTHER INDEPENDENT ACCOUNTANTS
+In some cases, management may decide to consult with other accountants about auditing and accounting matters, similar to obtaining a "second opinion" on certain situations. If a consultation involves application of an accounting principle to the District's financial statements or a determination of the type of auditor's opinion that may be expressed on those statements, our professional standards require the consulting accountant to check with us to determine that the consultant has all the relevant facts. To our knowledge, there were no such consultations with other accountants.
+OTHER AUDIT FINDINGS OR ISSUES
+We generally discuss a variety of matters, including the application of accounting principles and auditing standards with management each year prior to retention as the District's auditors. However, these discussions occurred in the normal course of our professional relationship and our responses were not a condition to our retention.
+-4-
+
+OTHER MATTERS
+We applied certain limited procedures to the management's discussion and analysis and the pension and
+OPEB-related required supplementary information (RSI) that supplement the basic financial statements.
+Our procedures consisted of inquiries of management regarding the methods of preparing the information and comparing the information for consistency with management's responses to our inquiries, the basic financial statements, and other knowledge we obtained during our audit of the basic financial statements.
+We did not audit the RSI and do not express an opinion or provide any assurance on the RSI.
+We were engaged to report on the supplementary information accompanying the financial statements, and the separately issued Schedule of Expenditures of Federal Awards and Uniform Financial Accounting and
+Reporting Standards (UFARS) Compliance Table, which are not RSI. With respect to this supplementary information, we made certain inquiries of management and evaluated the form, content, and methods of preparing the information to determine that the information complies with accounting principles generally accepted in the United States of America, the method of preparing it has not changed from the prior period, and the information is appropriate and complete in relation to our audit of the financial statements. We compared and reconciled the supplementary information to the underlying accounting records used to prepare the financial statements or to the financial statements themselves.
+We were not engaged to report on the introductory and statistical sections, which accompany the financial statements, but are not RSI. Such information has not been subjected to the auditing procedures applied in the audit of the basic financial statements and, accordingly, we do not express an opinion or provide any assurance on it.
+-5-
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+FINANCIAL TRENDS IN PUBLIC EDUCATION IN MINNESOTA
+This section provides some state-wide funding and financial trends in public education in Minnesota.
+BASIC GENERAL EDUCATION REVENUE
+The largest single funding source for Minnesota school districts is basic general education aid. Each year, the Legislature sets a basic formula allowance. Total basic general education revenue is calculated by multiplying the formula allowance by the number of pupil units for which a district is entitled to aid. Pupil units are calculated using a legislatively determined weighting system applied to average daily membership
+(ADM). Over the years, various modifications have been made to this calculation, including changes in weighting and special consideration for declining enrollment districts.
+The table below presents a summary of the formula allowance for the past decade and as approved for the next two fiscal years. The 2023 Legislature approved a per pupil increase of $275 for fiscal 2024 and $143
+for fiscal 2025. The amount of the formula allowance and the percentage change from year-to-year excludes temporary funding changes, the "roll-in" of aids that were previously funded separately, and changes that may vary dependent on actions taken by individual districts. The $529 increase in 2015 was offset by changes to pupil weightings and the general education aid formula that resulted in an increase equivalent to approximately $105, or 2.00 percent, state-wide.
+Formula Allowance
+Fiscal Year Percent
+Ended June 30, Amount Increase
+2014 $ 5,302 1.50 %
+2015
+$ 5,831 2.00 %
+2016 $ 5,948 2.00 %
+2017
+$ 6,067 2.00 %
+2018 $ 6,188 2.00 %
+2019
+$ 6,312 2.00 %
+2020 $ 6,438 2.00 %
+2021
+$ 6,567 2.00 %
+2022 $ 6,728 2.45 %
+2023
+$ 6,863 2.00 %
+2024 $ 7,138 4.00 %
+2025
+$ 7,281 2.00 %
+For fiscal 2026 and beyond, the actual increase will be equal to the Consumer Price Index-Urban (CPI-U), with a floor of 2.00 percent and a cap of 3.00 percent. CPI-U is determined based upon the prior two fourth-quarter totals. The inclusion of inflationary increases to this formula does not prevent future legislative increases from being approved.
+-6-
+
+STATE-WIDE SCHOOL DISTRICT FINANCIAL HEALTH
+One of the most common and comparable statistics used to evaluate school district financial health is the unrestricted operating fund balance as a percentage of operating expenditures.
+State-Wide Unrestricted Operating Fund Balance as a Percentage of Operating Expenditures
+24%
+22%
+20%
+18%
+16%
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+-
+(2%)
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+State-Wide -
+21.2% 20.6% 20.7% 20.3% 20.0% 19.9% 21.3% 23.0% 22.2%
+ISD No. 281
+14.5% 14.3% 12.2% 7.1% (0.2%) 1.1% 2.0% 7.4% 7.5% 6.6%
+Note: State-wide information is not available for fiscal 2023.
+The calculation above reflects only the unrestricted fund balance of the General Fund, and the corresponding expenditures, which is the same method the state uses for the calculation of statutory operating debt. We have also included the comparable percentages for your district.
+The average unrestricted fund balance as a percentage of operating expenditures maintained by Minnesota school districts decreased gradually from 21.2 percent at the end of fiscal 2014 to 19.9 percent at the end of fiscal 2019, a period of relative stability in the state's economic condition and school funding. This ratio began rising again during the fiscal years impacted by the COVID-19 pandemic, increasing to 23.0 percent at the end of fiscal 2021. In 2022, the state-wide ratio decreased to 22.2 percent as districts returned to more traditional learning models and program operations with the relaxation of pandemic restrictions.
+The District's unrestricted operating fund balance as a percentage of operating expenditures was
+6.6 percent at the end of the current year, as compared to 7.5 percent at June 30, 2022.
+Having an appropriate fund balance is an important factor in assessing the District's financial health because a government, like any organization, requires a certain amount of equity to operate. It is important to review fund balance levels on an ongoing basis to ensure a sufficient equity reserve is available to support programs and cash flow of the District.
+-7-
+
+The table below shows a comparison of governmental fund revenue per ADM received by Minnesota school districts and your district. Revenues for all governmental funds are included, except for the Capital
+Projects - Building Construction and Post-Employment Benefits Debt Service Funds. Other financing sources, such as proceeds from sales of capital assets, insurance recoveries, bond sales, loans, and interfund transfers, are also excluded.
+Governmental Funds Revenue per Student (ADM) Served
+ISD No. 281 -
+State-Wide Metro Area Robbinsdale Area Schools
+2021 2022 2021 2022 2021 2022 2023
+General Fund
+Property taxes $ 2,576 $ 2,645 $ 3,411 $ 3,506 $ 3,813 $ 4,015 $ 4,094
+Other local sources 438 571 323 446 336 370 442
+State 10,514 10,504 10,517 10,536 11,062 10,791 11,080
+Federal 992 1,335 956 1,397 974 1,544 2,127
+Total General Fund 14,520 15,055 15,207 15,885 16,185 16,720 17,743
+Special revenue funds
+Food Service 576 803 568 770 642 855 725
+Community Service 612 731 684 836 883 936 1,023
+Debt Service Fund 1,512 1,508 1,549 1,537 1,672 1,558 1,780
+Total revenue $ 17,220 $ 18,097 $ 18,008 $ 19,028 $ 19,382 $ 20,069 $ 21,271
+ADM served per MDE School District Profiles Report (current year estimated) 11,434 11,196 10,830
+Note: Excludes the Capital Projects - Building Construction and Post-Employment Benefits Debt Service Funds.
+Source of state-wide and metro area data: School District Profiles Report published by the MDE
+ADM used in the table above is based on enrollments consistent with those used in the MDE School District
+Profiles Report, which include extended time ADM, and may differ from ADM reported in other tables.
+Changes in enrollment also impact comparisons in the table above and on the next page when revenue and expenditures are based on fixed costs, such as debt levies and principal and interest on outstanding indebtedness.
+The mix of local and state revenues vary from year-to-year, primarily based on funding formulas and the state's financial condition. The mix of revenue components from district to district varies, due to factors such as the strength of property values, mix of property types, operating and bond referendums, enrollment trends, density of population, types of programs offered, and countless other criteria.
+The District earned approximately $230.4 million in the governmental funds reflected above in fiscal 2023, an increase of $5.7 million (2.5 percent) from the prior year. Total revenue per ADM served increased by
+$1,202, with declining enrollment.
+General Fund revenue increased by $5.0 million, or $1,023 per ADM, with declining enrollment. The majority of this increase was in federal sources, which increased by $5.7 million, due to increased use of available federal COVID-19 relief funding. The decrease in food service revenue was due to the District returning to operating under the traditional child nutrition program in fiscal 2023, which has lower federal meal reimbursement rates than the pandemic-era program it operated under in the previous year.
+Community service revenues continue to grow with post-COVID-19 increases in program participation.
+-8-
+
+The following table reflects similar comparative data available from the MDE for all governmental fund expenditures, excluding the Capital Projects - Building Construction and Post-Employment Benefits Debt
+Service Funds. Other financing uses, such as bond refundings and transfers, are also excluded.
+Governmental Funds Expenditures per Student (ADM) Served
+ISD No. 281 -
+State-Wide Metro Area Robbinsdale Area Schools
+2021 2022 2021 2022 2021 2022 2023
+General Fund
+Administration and district support $ 1,184 $ 1,249 $ 1,205 $ 1,300 $ 1,301 $ 1,377 $ 1,381
+Elementary and secondary regular instruction 6,198 6,494 6,527 6,838 6,752 7,116 7,835
+Vocational education instruction 197 210 179 191 120 120 118
+Special education instruction 2,626 2,724 2,792 2,883 2,892 2,854 2,892
+Instructional support services 812 816 917 939 1,155 1,134 1,378
+Pupil support services 1,228 1,429 1,285 1,558 1,104 2,195 2,316
+Sites and buildings and other 1,083 1,113 1,052 1,076 1,460 1,589 1,794
+Total General Fund - noncapital 13,328 14,035 13,957 14,785 14,784 16,385 17,714
+General Fund capital expenditures 793 876 815 897 466 224 600
+Total General Fund 14,121 14,911 14,772 15,682 15,250 16,609 18,314
+Special revenue funds
+Food Service 532 670 522 659 548 681 676
+Community Service 610 689 682 774 837 819 974
+Debt Service Fund 1,576 1,599 1,609 1,561 1,678 1,642 1,780
+Total expenditures $ 16,839 $ 17,869 $ 17,585 $ 18,676 $ 18,313 $ 19,751 $ 21,744
+ADM served per MDE School District Profiles Report (current year estimated) 11,434 11,196 10,830
+Note: Excludes the Capital Projects - Building Construction and Post-Employment Benefits Debt Service Funds.
+Source of state-wide and metro area data: School District Profiles Report published by the MDE
+Expenditure patterns also vary from district to district for various reasons. Factors affecting the comparison include the growth cycle or maturity of the District, average employee experience, availability of funding, population density, and even methods of allocating costs.
+The District spent $235.5 million in the governmental funds reflected above in fiscal 2023, an increase of
+$14.3 million (6.5 percent) from the prior year. On a per student basis, this represents an increase of $1,993, with declining enrollment. General Fund expenditures increased $1,705 per student, with the largest increases in elementary and secondary regular instruction ($719 per ADM), instructional support services
+($244 per ADM), sites and buildings and other ($205 per ADM), and capital expenditures ($376 per ADM).
+The $155 per ADM increase in community service spending is consistent with the discussion on the previous page for revenues with increased program participation in the current year.
+SUMMARY
+The COVID-19 pandemic caused numerous financial and operational challenges for districts in recent years; creating instability in student populations, requiring numerous shifts in the delivery of educational services, and resulted in substantial new and unfamiliar federal revenue streams, to name a few. Challenges remain, with tight labor markets, inflationary increases, and the end of many federal pandemic-related funding programs. District school boards, administrators, and employees continue to manage these issues, as districts strive to provide a safe and effective learning experience for their students.
+-9-
+
+FINANCIAL TRENDS OF YOUR DISTRICT
+GENERAL FUND FINANCIAL POSITION
+The following graph displays the District's General Fund trends of financial position and changes in the volume of financial activity. Unrestricted fund balance and cash balance are two indicators of financial health.
+General Fund Financial Position
+Year Ended June 30,
+$30,000,000
+$27,500,000
+$25,000,000
+$22,500,000
+$20,000,000
+$17,500,000
+$15,000,000
+$12,500,000
+$10,000,000
+$7,500,000
+$5,000,000
+$2,500,000
+$-
+$(2,500,000)
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Cash and Investments (Net of Borrowing) Unrestricted Fund Balance (Excluding Restricted Deficits)
+The District ended fiscal year 2023 with a General Fund cash balance, net of interfund borrowing, of
+$21,912,579, a decrease of $7,095,515 from the previous year. The decline in cash was mainly due to the timing of state aid and federal grant revenue receipts, as receivables from other governmental units at year-end were $8,437,962 higher than last year.
+Total fund balance at year-end was $18,290,062, a decrease of $2,244,891 from current year operations, as compared to a budgeted increase of $523,993. Year-end unrestricted fund balances, as shown above
+(consisting of assigned and unassigned fund balances), totaled $7,379,090 at year-end, an increase of
+$2,320,809 from the previous year.
+Legislatively-approved changes in the metering of state aid payments to school districts and in the tax shift significantly impacted cash and investment balances in certain years presented in the graph above.
+-10-
+
+The following table presents the components of the General Fund balance for the past five years:
+June 30,
+2019 2020 2021 2022 2023
+Nonspendable fund balances $ 264,546 $ 713,515 $ 1,218,616 $ 1,687,909 $ 1,054,268
+Restricted fund balances (1) 4,579,465 5,397,172 8,493,612 9,147,685 9,857,244
+Unrestricted fund balances
+Assigned 1,210,419 1,507,829 1,882,535 6,960,051 1,734,895
+Unassigned - 622,412 7,502,120 2,739,848 5,644,195
+Total fund balance $ 6,054,430 $ 8,240,928 $ 19,096,883 $ 20,535,493 $ 18,290,602
+Unrestricted fund balances as a percentage of expenditures 0.7% 1.2% 5.4% 5.2% 3.7%
+Unassigned fund balances as a percentage of expenditures - 0.3% 4.3% 1.5% 2.8%
+(1) Includes any deficits in restricted fund balance accounts allowed to accumulate deficits under UFARS, which are part of unassigned fund balance on the accounting principles generally accepted in the United States of
+America-based financial statements.
+The table above reflects the total General Fund unrestricted fund balance and percentages, which differs from those used in the previous discussion of state-wide fund balances, which are based on a state formula.
+The resources represented by this fund balance are critical to a district's ability to maintain adequate cash flow throughout the year, to retain its programs, and to cushion against the impact of unexpected costs or funding shortfalls.
+The School Board has formally adopted a fund balance policy regarding the minimum unassigned fund balance for the General Fund. The policy establishes that the District will strive to maintain a minimum unassigned General Fund balance of 6.5 percent of the annual projected expenditures. At June 30, 2023, the unassigned fund balance of the General Fund represented 3.0 percent of budgeted expenditures for the year, which was below the minimum goal established by policy.
+At June 30, 2023, unrestricted fund balance in the General Fund represented 3.7 percent of actual annual expenditures, as shown in the graph above, which represents approximately two weeks of operations, assuming level spending throughout the year.
+-11-
+
+AVERAGE DAILY MEMBERSHIP (ADM) AND PUPIL UNITS
+The following graph presents the District's adjusted ADM and pupil units served for the past 10 years:
+Adjusted ADM and Pupil Units Served
+16,000
+14,000
+12,000
+10,000
+8,000
+14,198
+13,784
+6,000
+13,569
+13,466 13,453
+13,372
+13,291
+12,626
+12,524
+12,422
+12,284 12,314 12,309
+12,237 12,199
+12,132
+11,818
+11,393
+11,099
+10,758
+4,000
+2,000
+-
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+ADM Pupil Units
+The following graph shows the rate of change in ADM served by the District from year to year, along with the change in the resulting pupil units:
+Change in ADM and Pupil Units Served
+3.0%
+2.0%
+1.0%
+-
+(1.0%)
+(2.0%)
+(3.0%)
+(4.0%)
+(5.0%)
+(6.0%)
+(7.0%)
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+ADM Pupil Units
+The change in pupil units for 2015 includes the effect of legislative reductions to pupil units.
+ADM is a measure of students attending class, which is then converted to pupil units (the base for determining revenue) using a statutory formula. Not only is the original budget based on ADM estimates, the final audited financial statements are based on updated, but still estimated, ADM since the counts are not finalized until around January of the following year. When viewing revenue budget variances, one needs to consider these ADM changes, the impact of the prior year final adjustments which affect this year's revenue, and also the final adjustments caused by open enrollment gains and losses.
+The District served an estimated adjusted ADM of 10,758 in 2023, a decrease of 341 from the previous year. The resulting number of pupil units served by the District for fiscal 2023 was 11,818, a decrease of
+381 (3.1 percent) from the prior year.
+-12-
+
+GENERAL FUND REVENUE
+The following graph summarizes the District's General Fund revenue sources for 2023 compared to budget and the previous year:
+General Fund Revenue
+$135,000,000
+$120,000,000
+$105,000,000
+$90,000,000
+$75,000,000
+$60,000,000
+$45,000,000
+$30,000,000
+$15,000,000
+$-
+Property Taxes State Sources Federal Sources Other
+Budget
+$44,213,068 $123,185,809 $17,151,204 $4,611,267
+Actual $44,342,363 $119,997,787 $23,032,904 $4,789,079
+Prior Year
+$44,953,558 $120,820,882 $17,289,540 $4,144,817
+Total General Fund revenues were $192,162,133 for the year ended June 30, 2023, which was $3,000,785
+(1.6 percent) over the final budget, and $4,953,336 (2.6 percent) more than the prior year.
+The budget variance was mainly due to federal revenues, which exceeded budget by $5,881,700, due to greater use of available pandemic relief funding than anticipated. This was partially offset by state revenue sources ending the year $3,188,022 under budget, mainly in general education state aid, due to declining enrollment.
+The overall increase in General Fund revenue was also primarily attributable to federal revenue sources, which were $5,743,364 higher than last year with the increased use of available pandemic relief funding.
+Revenue from "other" local sources, as shown above, also increased by $644,262 from the prior year, due to improve investment income. These increases were partially offset by declines in property tax revenue
+($611,195), due to a decrease in the adopted levy, and state sources ($823,095), which decreased from declining enrollment.
+The graph above reflects the concentration of state sources (62.4 percent), followed by property taxes
+(23.1 percent) used to finance General Fund operations.
+-13-
+
+GENERAL FUND EXPENDITURES
+The following graph presents the District's General Fund expenditures for 2023 compared to budget and the previous year:
+General Fund Expenditures
+$120,000,000
+$110,000,000
+$100,000,000
+$90,000,000
+$80,000,000
+$70,000,000
+$60,000,000
+$50,000,000
+$40,000,000
+$30,000,000
+$20,000,000
+$10,000,000
+$-
+Employee Purchased Supplies and
+Salaries Capital Other
+Benefits Services Materials
+Budget
+$111,680,942 $34,124,258 $23,845,782 $8,618,322 $5,247,218 $5,140,833
+Actual $114,572,783 $36,013,050 $29,671,668 $8,910,340 $6,498,394 $2,682,501
+Prior Year $111,801,943 $34,271,228 $26,521,801 $6,788,150 $2,505,715 $4,067,451
+Total General Fund expenditures were $198,348,736 for the year ended June 30, 2023, which was
+$9,691,381 (5.1 percent) over the final budget and $12,392,448 (6.7 percent) more than the prior year.
+Salary and employee benefits, which accounted for 75.9 percent of General Fund spending, were
+$4,512,662 (3.1 percent) more than the prior year and $4,780,633 (3.3 percent) over budget.
+Expenditures exceeded budget in most categories shown above. Salaries and benefits exceeded budget mainly in the instructional support and pupil support program areas. Purchased services were $5,825,886
+over budget, mainly in the elementary and secondary instruction and pupil support services (including transportation) program areas. Capital expenditures were also $1,251,176 higher than budget, due to a new
+$3.8 million building space lease agreement, for which the full value of the lease is reported as an expenditure in the year the agreement is executed, along with an equal and offsetting other financing source.
+The expenditure increases from the prior year were also spread across most categories shown above, with the largest increases in the elementary and secondary regular instruction ($5,533,218), instructional support services ($2,242,432), and sites and buildings ($5,211,459) program areas. The increase in the sites and buildings program area was primarily due to the new building space lease discussed above.
+-14-
+
+OTHER FUNDS OF THE DISTRICT
+The following graph shows what is referred to as the other operating funds. The remaining nonoperating funds are only included in narrative form below, since their level of fund balance can fluctuate significantly, due to such things as issuing and spending the proceeds of refunding or building bonds and, therefore, the trend of fund balance levels is not necessarily a key indicator of financial health. It does not mean that these funds cannot experience financial trouble or that their fund balances are unimportant.
+Other Operating Funds
+Total Fund Balances
+$5,000,000
+$4,500,000
+$4,000,000
+$3,500,000
+$3,000,000
+$2,500,000
+$2,000,000
+$1,500,000
+$1,000,000
+$500,000
+$-
+Food Service Special Revenue Community Service Special Revenue
+2019
+$1,014,401 $1,432,849
+2020 $1,102,274 $1,006,548
+2021 $2,177,912 $1,535,374
+2022 $4,120,440 $2,840,488
+2023 $4,655,237 $3,374,489
+Food Service Special Revenue Fund
+The District's Food Service Special Revenue Fund ended the year with an increase in fund balance of
+$534,797 in 2023, compared to a budgeted increase of $931,878. Revenue was $198,706 under budget, mainly due to lower direct meal sales than anticipated. Expenditures were over budget by $199,650, mainly in personnel costs. The Food Service Special Revenue Fund had a year-end fund balance of $4,655,237, representing 63.6 percent of annual expenditures, which totaled $7,321,168. Programming changes financing school meal programs also contributed to the variances in revenues and expenditures compared to budget.
+This operation has maintained a healthy fund balance for several years and has also been able to assist in funding a portion of several capital improvements to food service facilities in recent years. The District should continue reviewing upcoming capital needs of the operation and incorporate that information in establishing an optimal level of fund balance that is also within state and federal fund balance limits.
+Community Service Special Revenue Fund
+The District's Community Service Special Revenue Fund ended the year with an increase in fund balance of $534,001, compared to a budgeted increase of $189,816. Revenues were $422,479 over budget, while expenditures were over budget by $78,294. The Community Service Special Revenue Fund had a year-end fund balance of $3,374,489, representing 32.0 percent of annual expenditures, which totaled $10,545,958.
+The Community Service Special Revenue Fund, like the Food Service Special Revenue Fund, needs to be self-sustaining. In addition to cost controls, financial analysis of the costs of providing programs, including overhead, is important. Fees and tuition charges should be sufficient to cover these costs, as well as potential funding shortfalls from state, federal, or property tax sources.
+-15-
+
+Capital Projects - Building Construction Fund
+This fund reported a fund balance decrease of $2,373,018 in fiscal 2023, compared to a budgeted decrease of $3,700,000. The District issued general obligation facilities maintenance bonds with a par value of
+$18,060,000 during fiscal 2023 to finance its ongoing long-term facilities maintenance program. The budget variance was mainly due to timing of the related construction projects. The ending fund balance for fiscal 2023 was $9,503,879, which is available for future capital improvements of various types.
+Debt Service Fund
+The funding of debt service is controlled in accordance with each outstanding debt issue's financing plan, and the resources of the Debt Service Fund are dedicated to the payment of outstanding debt obligations of the District. As of June 30, 2023, the District has $1,969,690 available for future debt service.
+Internal Service Funds
+The District maintains two internal service funds established to finance the costs of its self-insured dental benefits and health benefits.
+At June 30, 2023, the Self-Insured Dental Benefits Internal Service Fund had a net position of $1,345,919
+available to pay future dental benefits for the participating members of the District, including estimated claims payable of $23,886 accrued at year-end. The cost of these benefits for fiscal 2023 was $1,302,617.
+At June 30, 2023, the Self-Insured Health Benefits Internal Service Fund had a deficit net position of
+$1,215,263, an improvement of $639,100 from the previous year, including estimated claims payable of
+$2,438,003 accrued at year-end.
+Employee Benefit Trust Fund
+The District's Employee Benefit Trust Fund ended the year with cash and investments (net of interfund payables) and a net position of $13.0 million available to pay future OPEB. The assets in this fund represent the proceeds from the District's 2009 Taxable OPEB Bonds, which were contributed to an irrevocable trust the District established to finance its OPEB liabilities, and can only be used to pay future OPEB costs, which were estimated to be approximately $7.5 million at year-end.
+-16-
+
+GOVERNMENT-WIDE FINANCIAL STATEMENTS
+The District's financial statements include fund-based information that focuses on budgetary compliance, and the sufficiency of the District's current assets to finance its current liabilities. The governmental reporting model also requires the inclusion of two government-wide financial statements designed to present a clear picture of the District as a single, unified entity. These government-wide financial statements provide information on the total cost of delivering educational services, including capital assets and long-term liabilities.
+Theoretically, net position represents district resources available for providing services after its debts are settled. However, those resources are not always in expendable form, or there may be restrictions on how some of those resources can be used. Therefore, this statement divides net position into three components: net investment in capital assets, restricted, and unrestricted. The following table presents a summarized reconciliation of the District's governmental fund balances to net position, and the separate components of net position for the last two years:
+June 30,
+2023 2022 Change
+Net position - governmental activities
+Total fund balances - governmental funds $ 37,793,897 $ 41,415,082 $ (3,621,185)
+Total capital assets, net of depreciation/amortization 304,251,616 303,825,003 426,613
+OPEB asset, net of deferments 5,879,713 5,615,407 264,306
+Bonds, COPs, financed purchases, and leases (214,286,318) (209,392,887) (4,893,431)
+PERA and TRA pensions, net of deferments (129,334,266) (162,105,824) 32,771,558
+Other adjustments (5,449,451) (6,889,768) 1,440,317
+Total net position - governmental activities $ (1,144,809) $ (27,532,987) $ 26,388,178
+Net position
+Net investment in capital assets $ 102,505,704 $ 111,931,629 $ (9,425,925)
+Restricted 19,107,831 17,685,336 1,422,495
+Unrestricted (122,758,344) (157,149,952) 34,391,608
+Total net position $ (1,144,809) $ (27,532,987) $ 26,388,178
+Some of the District's fund balances translate into restricted net position by virtue of external restrictions
+(statutory restrictions) or by the nature of the fund they are in (e.g., Food Service Special Revenue Fund balance can only be spent for Food Service program costs). The unrestricted net position category consists mainly of the General Fund unrestricted fund balances, offset against noncapital long-term obligations, such as vacation payable, severance payable, net pension, and net OPEB liabilities.
+Total net position increased by $26,388,178 during fiscal 2023. The District's net investment in capital assets decreased $9,425,925 this year. The change in this category of net position typically depends on the relationship between the rate at which the District is adding additional capital assets, the rate capital assets are being depreciated, and how that compares to the rate at which the District is repaying the debt issued to purchase or construct those assets.
+Increases in net position restricted for food service, community service, and other state funding restrictions contributed to an overall increase in restricted net position. The improvement in unrestricted net position was mainly due to changes in the District's proportionate share of the Public Employees Retirement
+Association (PERA) and the Teachers Retirement Association (TRA) pension plan liabilities and related deferments.
+-17-
+
+ACCOUNTING AND AUDITING UPDATES
+The following is a summary of Governmental Accounting Standards Board (GASB) standards expected to be implemented in the next few years.
+GASB STATEMENT NO. 100, ACCOUNTING CHANGES AND ERROR CORRECTIONS - AN AMENDMENT OF
+GASB STATEMENT NO. 62
+The primary objective of this statement is to enhance accounting and financial reporting requirements for accounting changes and error corrections to provide more understandable, reliable, relevant, consistent, and comparable information for making decisions or assessing accountability.
+The requirements of this statement will improve the clarity of the accounting and financial reporting requirements for accounting changes and error corrections, which will result in greater consistency in application in practice. In turn, more understandable, reliable, relevant, consistent, and comparable information will be provided to financial statement users for making decisions or assessing accountability.
+In addition, the display and note disclosure requirements will result in more consistent, decision useful, understandable, and comprehensive information for users about accounting changes and error corrections.
+The requirements of this statement are effective for accounting changes and error corrections made in fiscal years beginning after June 15, 2023, and all reporting periods thereafter. Earlier application is encouraged.
+GASB STATEMENT NO. 101, COMPENSATED ABSENCES
+The objective of this statement is to better meet the information needs of financial statement users by updating the recognition and measurement guidance for compensated absences. That objective is achieved by aligning the recognition and measurement guidance under a unified model and by amending certain previously required disclosures.
+This statement requires that liabilities for compensated absences be recognized for (1) leave that has not been used and (2) leave that has been used, but not yet paid in cash or settled through noncash means. A
+liability should be recognized for leave that has not been used if (a) the leave is attributable to services already rendered, (b) the leave accumulates, and (c) the leave is more likely than not to be used for time off or otherwise paid in cash or settled through noncash means. Leave is attributable to services already rendered when an employee has performed the services required to earn the leave. Leave that accumulates is carried forward from the reporting period in which it is earned to a future reporting period during which it may be used for time off or otherwise paid or settled.
+This statement requires that a liability for certain types of compensated absences-including parental leave, military leave, and jury duty leave-not be recognized until the leave commences. This statement also requires that a liability for specific types of compensated absences not be recognized until the leave is used.
+This statement also establishes guidance for measuring a liability for leave that has not been used, generally using an employee's pay rate as of the date of the financial statements. A liability for leave that has been used, but not yet paid or settled should be measured at the amount of the cash payment or noncash settlement to be made. Certain salary-related payments that are directly and incrementally associated with payments for leave also should be included in the measurement of the liabilities.
+With respect to financial statements prepared using the current financial resources measurement focus, this statement requires that expenditures be recognized for the amount that normally would be liquidated with expendable available financial resources.
+The requirements of this statement are effective for fiscal years beginning after December 15, 2023, and all reporting periods thereafter. Earlier application is encouraged.
+-18-
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+THIS PAGE INTENTIONALLY LEFT BLANK

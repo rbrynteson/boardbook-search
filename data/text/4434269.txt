@@ -1,0 +1,451 @@
+ROBBINSDALE AREA
+SCHOOLS ISD#281
+ENROLLMENT PROJECTIONS
+Hazel H. Reinhardt
+February 25, 2025
+
+COVID-19 AFFECTS
+⚫ Affects of Pandemic
+⚫ Robbinsdale Area Schools
+⚫ Kindergarten capture rate fell and has not returned to pre-Pandemic levels
+⚫ Students shifted to other education options
+⚫ Home school numbers increased
+⚫ Open enrollment out and charter school enrollment increased but may not be Pandemic related
+
+CHANGE IN OTHER
+EDUCATION OPTIONS
+Year Nonpublic Home School Open Out Charters
+2014-15 1,379 273 1,620 961
+2019-20 1,279 291 1,932 1,530
+2020-21 1,223 371 2,043 1,520
+2024-25 716 305 2,219 1,827
+
+PROJECTION ENVIRONMENT
+⚫ Low fertility
+⚫ Fertility below replacement (2.11 children per woman at the end of childbearing). Minnesota at 1.75 in 2022 and falling
+⚫ Number of births decreasing in U.S. and Minnesota
+⚫ Fertility varies by race/ethnicity; urban/rural
+⚫ Population aging
+⚫ Housing mix different; more apartments, condos, and townhomes. Unit types with few school age children per unit
+⚫ Smaller percentage of households have children
+
+PROJECTION ENVIRONMENT
+⚫ Less mobility
+⚫ U.S. fewer than 10 percent (8.4 percent) moved last year
+⚫ Was 20 per cent per year since WWII
+⚫ Mobility creates demand for housing
+⚫ Immigration from abroad slowed
+⚫ Minnesota was very dependent on immigration for population growth in the past 25 years
+⚫ Minnesota population back to pattern of net out migration
+⚫ Losing young adults-affects number of births
+⚫ Slow population growth
+⚫ Competition for students increasing in Minnesota
+
+KEY FINDINGS
+⚫ From 2014-15 to 2024-25
+⚫ Robbinsdale Area Schools K-12 enrollment decreased by 1,916
+students or -15.7 percent
+⚫ "Perfect Enrollment Storm"
+⚫ The district's resident school age population decreased by 1,529
+or -10.1 percent
+⚫ Increased competition for students
+⚫ Robbinsdale Area Schools had a net loss of 2,307 students to other public options in 2024-25
+⚫ Robbinsdale Area Schools' market share declined from 70.0
+percent to 62.5 percent
+⚫ Resident K-12 enrollment decreased by 2,092 students or -19.7
+percent
+⚫ Nonresidents make up 17.0 percent of total enrollment in 2024-25
+
+KEY FINDINGS
+⚫ Hennepin and Suburban Hennepin County births decreased from 2008 to 2024
+⚫ Robbinsdale Area Schools experienced natural decrease every year in the past 10 years, which depresses enrollment growth
+⚫ Robbinsdale Area Schools experienced net in migration 6 out of the past 10 years. Net in migration in past 3 years
+
+EDUCATION CHOICES
+2023-24
+Minnesota Robbinsdale Area
+Schools
+Nonpublic settings 10.5% 10.1%
+Traditional schools 7.5% 7.9%
+Home schools 3.0% 2.2%
+Public Options
+Open enrollment 9.3%
+In 16.6%
+Out 14.3%
+Charter schools 7.2% 13.2%
+Capture Rate 72.6% 62.5%
+
+K-12 ENROLLMENT
+Year Total Resident Nonresident
+2014-15 12,169 10,601 1,568
+2015-16 12,499 10,611 1,888
+2016-17 12,326 10,328 1,998
+2017-18 12,014 10,068 1,946
+2018-19 11,968 9,965 2,003
+2019-20 11,814 9,910 1,904
+2020-21 11,257 9,355 1,902
+2021-22 10,855 9,069 1,786
+2022-23 10,453 8,793 1,660
+2023-24 10,213 8,508 1,705
+2024-25 10,253 8,509 1,744
+
+COMPONENTS OF
+K-12 ENROLLMENT CHANGE
+Total Natural Net
+Fall to Fall Increase/Decrease Migration
+# %
+2014 to 2015 330 2.7% -199 529
+2015 to 2016 -173 -1.4% -240 67
+2016 to 2017 -312 -2.5% -179 -133
+2017 to 2018 -46 -0.4% -141 95
+2018 to 2019 -154 -1.3% -139 -15
+2019 to 2020 -557 -4.7% -333 -224
+2020 to 2021 -402 -3.6% -299 -103
+2021 to 2022 -402 -3.7% -424 22
+2022 to 2023 -240 -2.3% -366 126
+2023 to 2024 40 0.4% -224 264
+Total -1,916 --- -2,544 628
+
+K-12 ENROLLMENT
+2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 2022-23 2023-24 2024-25
+Grade
+928 918 865 845 863 895 731 793 705 709 736
+K
+1 917 928 893 847 830 854 834 733 780 713 711
+2 954 942 907 875 862 806 790 806 711 762 743
+3 904 945 944 876 870 823 757 745 791 703 774
+4 870 969 1,032 958 888 841 796 720 741 776 708
+5 932 862 945 994 949 870 798 728 700 717 747
+6 839 1,108 965 884 957 925 798 729 676 706 713
+7 901 967 1,002 916 881 955 889 779 748 708 725
+8 916 969 945 985 915 858 891 859 756 739 700
+9 946 962 958 972 1,019 989 912 973 943 832 831
+10 974 936 935 957 951 1,011 989 901 953 953 837
+11 971 888 911 901 949 923 980 966 874 935 946
+12 1,117 1,105 1,024 1,004 1,034 1,064 1,092 1,123 1,075 960 1,082
+Total 12,169 12,499 12,326 12,014 11,968 11,814 11,257 10,855 10,453 10,213 10,253
+
+COHORT SURVIVAL METHOD
+PROJECTIONS
+⚫ Cohort Survival Method
+⚫ Both simple and complex
+⚫ Ages each grade by moving it to the next higher grade in the following year
+⚫ Requires making
+⚫ Kindergarten projections
+⚫ Resident births are a proxy
+⚫ Assumptions about net migration or the survival rates from grade to grade
+
+DISTRICT PROJECTIONS
+⚫ Assumptions underlying these projections
+⚫ The decline in resident births in Minnesota, Hennepin
+County and Suburban Hennepin County will have an effect
+⚫ Suburban Hennepin County's share of Minnesota resident births is not likely to increase significantly
+⚫ Robbinsdale Area Schools' share of Suburban Hennepin
+County resident births not likely to increase
+⚫ Competition remains at its current percentages
+
+DECLINE IN RESIDENT LIVE BIRTHS
+⚫ 2008-2024
+⚫ -14.3% Minnesota
+⚫ -10.0% Suburban Hennepin County
+⚫ WHY?
+⚫ Decline in fertility rates
+⚫ Aging of the population
+
+RESIDENT LIVE BIRTHS
+Suburban
+Year Minnesota Hennepin County Hennepin County
+2008 72,382 16,566 10,212
+2009 70,617 16,344 10,017
+2010 68,407 15,955 9,854
+2011 68,416 15,943 9,894
+2012 68,783 16,345 10,294
+2013 69,183 16,584 10,468
+2014 69,916 16,770 10,536
+2015 69,835 16,829 10,626
+2016 69,746 16,485 10,400
+2017 68,603 16,333 10,451
+2018 67,348 15,844 10,152
+2019 66,033 15,430 9,908
+2020 63,451 14,835 9,541
+2021 64,444 14,722 9,773
+2022 64,032 14,474 9,663
+2023 61,727 13,841 9,048
+2024* 62,036 14,178 9,186
+
+PROJECTED MINNESOTA
+0-YEAR OLDS
+Year Projected Number Adjusted Number
+2021 70,274
+2021 Actual 64,444
+2022 64,897
+2022 Actual 64,032
+2023 65,396
+2023 Actual 61,727
+2024 65,895
+2024 Actual* 62,036
+2025 66,195
+2026 66,352
+2027 66,509
+2028 66,666
+2029 66,823
+2030 66,890
+
+KINDERGARTEN PROJECTIONS
+⚫ Projected births (0-year-olds) statewide are very flat
+⚫ Hennepin County and Suburban Hennepin County also likely to be flat
+
+KINDERGARTEN AS A PERCENTAGE OF THE SUBURBAN COUNTY
+KINDERGARTEN POOL
+Birth Years Pool Percentage Kindergarten Year
+2008; 2009 10,081 9.21% 2014-15
+2009; 2010 9,908 9.27% 2015-16
+2010; 2011 9,881 8.75% 2016-17
+2011; 2012 10,162 8.32% 2017-18
+2012; 2013 10,411 8.29% 2018-19
+2013; 2014 10,513 8.51% 2019-20
+2014; 2015 10,596 6.90% 2020-21
+2015; 2016 10,475 7.57% 2021-22
+2016; 2017 10,434 6.76% 2022-23
+2017; 2018 10,251 6.92% 2023-24
+2018; 2019 9,988 7.37% 2024-25
+2019; 2020 9,662 2025-26
+2020; 2021 9,697 2026-27
+2021; 2022 9,699 2027-28
+2022; 2023 9,251 2028-29
+2023; 2024 9,141 2029-30
+
+KINDERGARTEN PROJECTIONS
+⚫ Kindergarten assumptions
+⚫ Kindergarten/birth ratios
+⚫ Low is 7.16% (average of the past four years)
+⚫ High is 7.34% (average of the past six years)
+⚫ Longer-term-2029-30 through 2034-35
+⚫ In past 16 years, Suburban Hennepin County resident births fluctuated but increased from 14.11% of Minnesota resident births to 14.81% of Minnesota resident births
+⚫ Hennepin County births based on 2024 population projections by the Minnesota State Demographic Center for
+Hennepin County
+
+SUBURBAN HENNEPIN COUNTY
+KINDERGARTEN POOL
+Year Pool
+2024-25 9,988
+2025-26 9,662
+2026-27 9,697
+2027-28 9,699
+2028-29 9,251
+2029-30 9,141
+2030-31 9,116
+2031-32 9,068
+2032-33 9,045
+2033-34 9,018
+2034-35 8,985
+Bold based on actual births
+
+KINDERGARTEN PROJECTIONS
+⚫ In the next ten years, the projected number of kindergarten students is lower than in the past ten years
+
+KINDERGARTEN PROJECTIONS
+Year @7.16% @7.34%
+2024-25 736 736
+2025-26 692 709
+2026-27 694 712
+2027-28 694 712
+2028-29 662 679
+2029-30 654 671
+2030-31 653 669
+2031-32 649 666
+2032-33 648 664
+2033-34 646 662
+2034-35 643 659
+Total 6,635 6,803
+Past ten years 8,060 Kindergarten students
+
+NET MIGRATION
+⚫ Net migration has mostly been positive, especially in the past three years
+⚫ There is a consistent net inflow of students at Grade 9
+and in the past three years in Grade 7
+⚫ Loss of students after Grade 10 is typical in Minnesota
+⚫ Inflow at Grade 12 reflects ALC
+
+NET MIGRATION
+YEAR TO YEAR
+14 to 15 15 to 16 16 to 17 17 to 18 18 to 19 19 to 20 20 to 21 21 to 22 22 to 23 23 to 24
+Grade
+K-5
+73 19 -91 -2 -119 -244 -176 -71 -57 20
+6-8
+372 -25 -127 -41 -49 -172 -118 -55 29 7
+9-12
+84 73 85 138 153 192 191 148 154 237
+Total
+529 67 -133 95 -15 -224 -103 22 126 264
+
+NET MIGRATION
+YEAR TO YEAR
+14 to 15 15 to 16 16 to 17 17 to 18 18 to 19 19 to 20 20 to 21 21 to 22 22 to 23 23 to 24
+Grade
+K to 1
+0 -25 -18 -15 -9 -61 2 -13 8 2
+1 to 2
+25 -21 -18 15 -24 -64 -28 -21 -18 30
+2 to 3
+-9 2 -31 -5 -39 -49 -45 -14 -8 12
+3 to 4
+65 87 14 12 -29 -27 -37 -3 -15 5
+4 to 5
+-8 -24 -38 -9 -18 -43 -68 -20 -24 -29
+5 to 6
+176 103 -61 -37 -24 -72 -69 -52 6 -4
+6 to 7
+128 -106 -49 -3 -2 -36 -19 20 32 19
+7 to 8
+68 -22 -17 -1 -23 -64 -30 -23 -9 -8
+8 to 9
+46 -11 27 34 74 54 82 84 76 92
+9 to 10
+-10 -27 -1 -21 -8 0 -11 -19 10 5
+10 to 11
+-86 -25 -34 -8 -28 -31 -23 -27 -18 -7
+11 to 12
+134 136 93 133 115 169 143 110 86 147
+Total
+529 67 -133 95 -15 -224 -103 22 126 264
+
+PROJECTED SURVIVAL RATES
+Low High
+Grade Past Three Years Past Two Years
+K to 1 0.999 1.007
+1 to 2 0.997 1.010
+2 to 3 0.996 1.003
+3 to 4 0.995 0.994
+4 to 5 0.968 0.966
+5 to 6 0.977 1.002
+6 to 7 1.034 1.037
+7 to 8 0.982 0.989
+8 to 9 1.108 1.113
+9 to 10 0.999 1.009
+10 to 11 0.981 0.987
+11 to 12 1.123 1.128
+
+EFFECT OF SURVIVAL RATES IN TEN
+YEARS WITH LOW K ASSUMPTION
+Survival Rates Total K-5 6-8 9-12
+Past 3 Years 8,886 6,847 1,946 3,094
+Past 2 Years 9,287 3,917 2,055 3,314
+
+EFFECT OF SURVIVAL RATES
+IN TEN YEARS
+⚫ Difference in survival rates
+⚫ 401 students in total enrollment
+⚫ 70 students K-5 or about 10 students per grade
+⚫ 109 students 6-8 or about 36 students per grade
+⚫ 220 students 9-12 or about 55 students per grade
+
+K-12 ENROLLMENT PROJECTIONS
+⚫ In ten years (2032-33)
+⚫ K-12 enrollment projected to decrease
+⚫ 2023-24 = 10,253
+⚫ 2033-34
+⚫ 8,886 to 9,457 or -13.3% to -7.8%
+⚫ Most of the difference is the result of the migration assumptions, which mainly increases high school enrollment
+
+K-12 ENROLLMENT PROJECTIONS
+Low K High K Low K High K
+Year Low Mig Low Mig High Mig High Mig
+2024-25 10253 10,253 10,253 10,253
+2025-26 10,000 10,017 10,065 10,082
+2026-27 9,755 9,790 9,880 9,915
+2027-28 9,649 9,701 9,830 9,884
+2028-29 9,518 9,588 9,748 9,819
+2029-30 9,433 9,520 9,709 9,797
+2030-31 9,341 9,443 9,655 9,759
+2031-32 9,233 9,350 9,585 9,705
+2032-33 9,088 9,221 9,452 9,589
+2033-34 9,029 9,177 9,413 9,566
+2034-35 8,886 9,051 9,287 9,457
+
+K-12 ENROLLMENT PROJECTIONS
+K-5 6-8 9-12 Total
+2024-25 4,419 2,138 3,696 10,253
+2029-30
+Low K/Low Mig
+4,081 2,124 3,228 9,433
+High K/Low Mig
+4,168 2,124 3,228 9,520
+Low K/ High Mig
+4,157 2,200 3,351 9,709
+High K/High Mig
+4,245 2,200 3,351 9,797
+2034-35
+Low K/Low Mig
+3,847 1,946 3,094 8,886
+High K/Low Mig
+3,944 1,996 3,112 9,051
+Low K/ High Mig
+3,917 2,055 3,314 9,287
+High K/High Mig
+4,016 2,108 3,334 9,457
+
+CHANGE IN ENROLLMENT
+⚫ 2025-2029
+⚫ K-5 decreases 174 to 338 from 2024-25 enrollment
+⚫ 6-8 decrease 14 or increases 62 from 2024-25 enrollment
+⚫ 9-12 decreases 345 to 468 from 2024-25 enrollment
+⚫ 2034-35
+⚫ K-5 decreases 403 to 572 from 2024-25 enrollment
+⚫ 6-8 decreases 30 to 192 from 2024-25 enrollment
+⚫ 9-12 decreases 362 to 602 from 2024-25 enrollment
+
+K-12 ENROLLMENT PROJECTIONS
+What could make these district wide projections
+⚫ Too high
+⚫ Projected kindergarten is too high (county kindergarten pool too large; Robbinsdale's capture rate decreases)
+⚫ Fewer nonresident students enroll in the Robbinsdale Area
+Schools and/or more residents leave the district for their education
+⚫ Too low
+⚫ Projected kindergarten is too low (county kindergarten pool too small; Robbinsdale's capture rate increases)
+⚫ More nonresident students enroll in the Robbinsdale Area
+Schools and/or more residents stay in the district for their education
+
+WHAT ABOUT HOUSING?
+⚫ Relationship between housing and K-12 enrollment is complex
+⚫ Unit type affects school age child per unit yield
+⚫ Single-family detached units have the highest student yield per unit
+⚫ Newer single-family detached units yield more students per unit than older single-family detached units
+⚫ As single-family detached units sell, student yield usually increases in the new units. In older units, yield is likely to decrease
+⚫ Market value of single-family detached units affect yield.
+Moderately to higher priced units have higher per unit yield
+⚫ Senior units-no students
+
+YIELD PER UNIT TYPE
+⚫ Results of studies in four states-Minnesota,
+Wisconsin, Illinois, and Colorado
+⚫ Single family detached K-12 yield varies by school district and by attendance area within school districts
+⚫ Townhome yield is very consistent across all school districts across states-0.22
+⚫ Apartments yield is very consistent across all school districts across states-0.11 to 0.15
+⚫ Condominiums yield almost no school age children-0.02 to 0.05
+
+NEW HOUSING VERSUS
+ENROLLMENT
+⚫ 2020-2024, 632 additional housing units in the district but only 71 were single-family detached units
+⚫ District's school age population declined
+⚫ Other factors at play
+⚫ Decline in births
+⚫ More empty nesters
+⚫ New residents with no school age children
+
+NEW HOUSING VERSUS
+ENROLLMENT
+⚫ 2025-2029, 842 to 890 projected housing units but only 58-61 are single-family detached
+⚫ Estimated school age population over five years
+⚫ Townhomes-less than 50
+⚫ Apartments-less than 60
+⚫ Single-family detached-30 to 40
+⚫ However, these projected students do not automatically translate into additional students
+⚫ New housing units will not stop enrollment decline
+
+THANK YOU
+
+_h___---- rt
+
+THANK YOU

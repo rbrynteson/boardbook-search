@@ -1,0 +1,26 @@
+3 G - Special Education
+Estimated State Fiscal Year (SFY) 2025 and 2026 Special Education Aid Updated 4/9/25 #REF!
+District District Type District Name no data no data
+281 1 ROBBINSDALE PUBLIC SCHOOL DISTRICT no data no data
+Line # Calculation description of calculation Actual SFY 2021 Actual SFY 2022 Actual SFY 2023 Actual SFY 2024 Estimate SFY 2025 Estimate SFY 2026 Source/Info
+1 n/a Final SFY Hold Harmless $ 10,234,664.07 $ 10,234,664.07 $ 10,234,664.07 $ 10,234,664.07 $ 10,234,664.07 $ 10,234,664.07 Line 70, Special Education Comprehensive Aid Reports
+2 1 * PG/MAA Factor Prog Growth (PG) / Min Aid Adjust (MAA) Factor amount per year $ 2,556,227.85 $ 3,093,445.31 $ 3,626,569.69 $ 4,153,296.57 $ 4,671,263.15 $ 5,178,064.68 Please see the "SPED Instructions" tab for details
+3 n/a Final SFY 2016 Adjusted Average Daily Membership (ADM) 12,625.83 12,625.83 12,625.83 12,625.83 12,625.83 12,625.83 Line 71, Special Education Comprehensive Aid Reports
+4 n/a Current Year Adjusted ADM (projected) 11,392.59 11,098.59 10,757.89 10,588.85 10,588.85 10,588.85 Line 71A, Special Education Comprehensive Aid Reports
+5 n/a Override Projected Adjusted ADM n/a
+6 4-or-5/3 Adjusted ADM Ratio 90.23% 87.90% 85.21% 83.87% 83.87% 83.87% Line 71B, Special Education Comprehensive Aid Reports
+7 (1+2)*6 Adjusted Hold Harmless - Original Calculation $ 11,541,221.78 $ 11,715,408.15 $ 11,811,157.28 $ 12,067,182.59 $ 12,501,601.16 $ 12,926,655.60 Line 71D, Special Education Comprehensive Aid Reports
+8 n/a Adjusted Hold Harmless - 2019 Legislation $ 23,356,141.82 $ 23,541,513.02 $ 22,472,090.61 $ 26,500,573.17 $ 29,781,616.27 $ 33,751,335.57 Line 71D4, Special Education Comprehensive Aid Reports
+9 n/a Adjusted Hold Harmless (Lesser of Line 7 or 8) $ 11,541,221.78 $ 11,715,408.15 $ 11,811,157.28 $ 12,067,182.59 $ 12,501,601.16 $ 12,926,655.60 Line 71D5, Special Education Comprehensive Aid Reports
+17 n/a New Formula Gross Aid $ 21,946,163.27 $ 20,934,816.93 $ 23,707,134.45 $ 24,945,110.38 $ 28,921,317.14 $ 32,122,328.13 Line 64, Special Education Comprehensive Aid Reports
+Line 65, SFY 2023 Spec Ed Comp Aid Report plus 5% increase for
+18 n/a Tuition Billing Adjustment $ (4,823,238.16) $ (5,928,256.95) $ (6,712,228.07) $ (6,994,950.64) $ (7,344,698.17) $ (7,711,933.08) each subsequent year
+19 n/a Override Tuition Billing (TB) Adjustment n/a
+20 17+18-or-19 New Formula Net Aid $ 17,122,925.11 $ 15,006,559.98 $ 16,994,906.38 $ 17,950,159.74 $ 21,576,618.97 $ 24,410,395.05 Line 66, Special Education Comprehensive Aid Reports
+21 If 20 < 9, 9, 20 Estimated Initial Gross Special Education Aid $ 17,122,925.11 $ 15,006,559.98 $ 16,994,906.38 $ 17,950,159.74 $ 21,576,618.97 $ 24,410,395.05 Line 75, Special Education Comprehensive Aid Reports
+22 If 20 < 9, 9, 20 Hold Harmless, Growth Limit, or New Formula? New Formula New Formula New Formula New Formula New Formula New Formula If 20 < 9, 9. Otherwise = 20.
+23 n/a Estimated Cross Subsidy Aid $ 882,322.97 $ 882,322.97 $ 1,175,718.03 $ 7,536,848.54 $ 9,142,000.28 $ 9,056,889.40 Line 75F, Special Education Comprehensive Aid Reports
+24 n/a Estimated Homeless Transportation Aid N/A N/A N/A $ - $ - $ - Line 75H, Special Education Comprehensive Aid Reports
+25 21+23+24 Estimated Total Gross Special Education Aid (w/o Proration) $ 18,005,248.08 $ 15,888,882.95 $ 18,170,624.41 $ 25,487,008.28 $ 30,718,619.25 $ 33,467,284.45 Line 76, Special Education Comprehensive Aid Reports
+26 n/a Proration Factor 100% 100% 100% 100% 95.75% 100% Line 77, Special Education Comprehensive Aid Reports
+27 25*26 Total Estimated Net Special Education Aid $ 18,005,248.08 $ 15,888,882.95 $ 18,170,624.41 $ 25,487,008.28 $ 29,413,077.93 $ 33,467,284.45 Line 78, Special Education Comprehensive Aid Reports end of worksheet

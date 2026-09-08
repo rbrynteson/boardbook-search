@@ -1,0 +1,23 @@
+3 G - Special Education Expenditure
+Projected SFY 2025 and SFY 2026 Expenditures Updated 4/9/25 #REF!
+Dist. No. Dist. Type District Name no data
+281 1 ROBBINSDALE PUBLIC SCHOOL DISTRICT no data
+Line # no data this columndescription of calculation Actual SFY 2020 Actual SFY 2021 Actual SFY 2022 Actual SFY 2023 Actual SFY 2024 Estimate SFY 2025 Estimate SFY 2026 Source/Info
+1 n/a Special Education Program Expenditures $ 30,070,483.36 $ 30,653,867.23 $ 29,389,621.44 $ 28,471,550.90 $ 31,659,056.49 $ 32,225,927.09 $ 32,802,947.78 Line 16, Special Education Comprehensive Aid Reports
+2 n/a Override Special Education Program Expenditures n/a
+Transportation Expenditures (Finance Codes 723, 728, Bus
+3 n/a Depreciation) $ 4,264,500.86 $ 2,579,078.59 $ 6,228,538.51 $ 8,060,111.71 $ 9,956,697.82 $ 12,956,869.13 $ 16,861,057.81 Line 60, Special Education Comprehensive Aid Reports
+4 n/a Override Transportation Expenditures n/a
+5 FIN 728-only Transportation Expenditures $ 1,331,538.52 $ 435,887.88 $ 2,208,697.11 $ 927,316.12 $ 1,920,086.80 $ 3,440,575.64 $ 6,165,117.49 Line 59, Special Education Comprehensive Aid Reports
+6 Override FIN 728-only Transportation Expenditures
+Total Special Education Program and Transportation
+7 Expenditures $ 34,334,984.22 $ 33,232,945.82 $ 35,618,159.95 $ 36,531,662.61 $ 41,615,754.31 $ 45,182,796.22 $ 49,664,005.59 n/a
+8 n/a Gen Ed Defray (used to calculate aid SFY 2020 & later) $ 2,472,832.76 $ 2,388,046.07 $ 2,326,716.14 $ 2,407,555.00 $ 2,888,321.21 $ 3,022,337.69 $ 3,162,572.47 Line 48, Special Education Comprehensive Aid Reports
+9 n/a Special Education Program Increase/Decrease Percent 3.07% 1.94% -4.12% -3.12% 11.20% 1.79% 1.79% Average Actual Five-Year Increase/Decrease
+10 n/a Transportation Increase/Decrease Percent -4.26% -39.52% 141.50% 29.41% 23.53% 30.13% 30.13% Average Actual Five-Year Increase/Decrease
+11 FIN 728-only Transportation Increase/Decrease 7.45% -67.26% 406.71% -58.02% 107.06% 79.19% 79.19% Average Actual Five-Year Increase/Decrease
+12 n.a Gen Ed Defray Increase/Increase Percent 5.75% -3.43% -2.57% 3.47% 19.97% 4.64% 4.64% Average Actual Five-Year Increase/Decrease
+13 n/a Aid to Special Education Expense Ratio 58.80% 59.88% 59.47% 59.30% 59.90% 59.47% 59.47% Average Actual Five-Year Increase/Decrease
+Uses actual expenditures from prior year SFY (i.e,. SFY 2024 to estimate next year's gross aid (i.e., SFY 2025), found on line 17 on the "SPED Aid" tab
+14 n/a Next Year's New Formula Gross Aid $ 21,946,163.27 $ 20,934,816.93 $ 23,707,134.45 $ 24,945,110.38 $ 28,921,317.14 $ 32,122,328.13 $ 36,369,683.56
+end of worksheet

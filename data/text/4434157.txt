@@ -1,0 +1,29 @@
+Proposal for new UCaaS Phone System
+In January of this year, the Technology Department embarked on an evaluation process to address the need for updating the district's aging phone system. This evaluation aimed to explore two primary options: updating the end-of-life components of the existing system or transitioning to a cloud-based Unified Communications as a Service (UCaaS) solution. The goal was to modernize and centralize district communications, encompassing voice, text, fax, and video within a single platform. Given recent issues with our physical phone handsets and the broader need for enhanced communication capabilities, I strongly recommend adopting the RingCentral
+UCaaS platform.
+Cost Analysis:
+● The cost estimate to update our current NEC phone components is $574,226.15.
+● Alternatively, transitioning to the RingCentral UCaaS system will cost $453,734.30
+The rationale for Choosing RingCentral:
+The primary motivation behind this recommendation is not solely based on cost but on the substantial benefits that the RingCentral UCaaS platform offers our organization. Here are some key reasons:
+1. Comprehensive Communication: RingCentral provides an all-in-one solution that seamlessly integrates voice, text, video, and fax communications. This consolidation simplifies communication for both our staff and end-users, enhancing efficiency.
+2. Flexibility and Mobility: With RingCentral, teachers, and staff gain the flexibility to communicate using district-assigned phone numbers from anywhere, at any time, using district-owned devices. This increased mobility is essential in today's fast-paced educational environment.
+3. Lower Total Cost of Ownership: While cost is a consideration, RingCentral offers the lowest total cost of ownership over five years compared to other options we evaluated.
+4. Ease of Implementation: RingCentral's implementation process is streamlined and user-friendly, ensuring minimal disruptions during the transition.
+1
+
+Alternative Options Considered:
+We explored alternative solutions during our evaluation, including Zoom, Dialpad, and an upgraded NEC system. However, these alternatives presented certain limitations. For instance,
+Zoom required third-party applications for fax capabilities, which would introduce complexity and potentially hinder our communication efficiency.
+Proposal for phone system upgrade
+NEC Current* Ring Central Zoom Dialpad NEC Blue**
+Year 1 Cost $574,226.15 $453,734.30 $668,911.12 $631,443.60 $365,22.94
+Total 5-year
+$983,106.15 $1,437,518.30 $1,482,291.60 $1,579,002.00 $1,357,844.70
+Cost
+➢ Budgeted and funded by the Technology Levy
+➢ Work will be completed over the 2023 winter break
+Given the benefits outlined above and the cost analysis, adopting the RingCentral UCaaS platform for our district's communication needs is recommended. This system will position the District for future growth and adaptability in the ever-evolving landscape of education and communication with staff, students, families, and the entire Robbinsdale Area Schools community.
+*Current on-premise phone system with basic calling features
+**NEC's new UCaaS is not fully developed and lacks E911, missing taxes & compliance fees. Robbinsdale would be one of their first big clients, so this solution would not be recommended
+2
