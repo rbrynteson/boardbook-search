@@ -1,0 +1,29 @@
+Excel Spreadsheet Model - MDE Copy January 20, 2026
+District #281 Robbinsdale
+SPECIAL OPERATING PLAN SUMMARY
+GENERAL FUND 01
+FY 2025 FY 2026 FY 2027 FY 2028 FY 2029
+Unreserved Revenues Base Year Budget Yr
+Base revenue = Prior Year Revenue 158,863,929 161,808,904 163,562,285 164,320,376
+General Ed Revenue change due to enrollment change (2,858,938) (2,933,288) (2,142,657) (1,743,443)
+General Ed Revenue change due to basic formula allowance change 2,308,613 2,492,337 2,311,243 2,189,283
+Decreasing enrollment revenue - This is $0 if increasing enrollment 768,045 811,509 609,243 508,753
+Referendum Revenue change 181,033 221,271 (519,738) (7,370)
+Other revenue changes 2,546,223 1,161,551 500,000 150,000
+Total Unreserved Revenues 158,863,929 161,808,904 163,562,285 164,320,376 165,417,599
+(Revenue % change - year to year) 1.85% 1.08% 0.46% 0.67%
+Unreserved Expenditures
+Base = Prior year total unreserved expenditures 165,563,126 166,827,126 163,469,426 164,314,702
+Change in Unreserved Expenditures 1,264,000 (3,357,700) 845,276 380,238
+Total unreserved expenditures 165,563,126 166,827,126 163,469,426 164,314,702 164,694,940
+Plus: Career and Tech for SOD calc 0
+% Change in Total Unreserved Expenditures 0.76% -2.01% 0.52% 0.23%
+Obj 891 and 910 3,012,092
+Revenue Over/(Under) Expenditures (9,711,290) (5,018,222) 92,859 5,674 722,659
+Prior Year Ending Fund Unreserved Balance 189,632 (9,521,658) (14,539,879) (14,447,021) (14,441,347)
+Unreserved fund balance ($) (numerator for SOD Calc) (9,521,658) (14,539,879) (14,447,021) (14,441,347) (13,718,688)
+Unreserved fund balance (%) -5.75% -8.72% -8.84% -8.79% -8.33%
+Per Compliance Report -5.75
+Per Compliance Report (9,521,659)
+Difference 1
+SOD expenditures

@@ -1,0 +1,115 @@
+name: Update index and deploy
+
+# Scheduled incremental update: pick up new meetings and documents, rebuild
+# site.db, and publish the static site to GitHub Pages.
+#
+# The extracted text cache under data/ is committed back to the repository so
+# that each run only fetches what is genuinely new, and so anyone can rebuild
+# the database from a clean checkout without re-scraping BoardBook.
+
+on:
+  schedule:
+    # 06:20 UTC every Monday (just after the weekend, before the work week).
+    - cron: '20 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      full:
+        description: 'Ignore the incremental cache and re-extract everything'
+        type: boolean
+        default: false
+      max_seconds:
+        description: 'Wall-clock budget for the scrape step (seconds)'
+        type: string
+        default: '10800'
+
+permissions:
+  contents: write   # commit the refreshed text cache
+  pages: write
+  id-token: write
+
+concurrency:
+  group: boardbook-index
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install OCR tooling
+        # A large share of approved minutes are scanned images with no text
+        # layer. poppler-utils rasterises those pages; tesseract reads them.
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-eng
+
+      - run: npm ci
+
+      - name: Scrape BoardBook
+        env:
+          BOARDBOOK_OCR: '1'
+          # Identify the bot clearly and point back at this repository.
+          BOARDBOOK_USER_AGENT: >-
+            BoardBookSearchBot/0.1 (+https://github.com/${{ github.repository }};
+            public records indexing)
+          MAX_SECONDS: ${{ inputs.max_seconds || '10800' }}
+          FULL: ${{ inputs.full }}
+        run: |
+          # Build the argument list in the shell rather than interpolating
+          # conditionals into a line-continuation, where an empty expansion
+          # leaves a dangling backslash.
+          args=( "--max-seconds=$MAX_SECONDS" )
+          [ "$FULL" = 'true' ] && args+=( --full )
+          echo "scrape args: ${args[*]}"
+          node src/cli/scrape.js "${args[@]}"
+
+      - name: Build search database
+        run: npm run build
+
+      - name: Report index statistics
+        run: node src/cli/stats.js
+
+      - name: Commit refreshed text cache
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/state.json data/meetings.json data/text
+          if git diff --cached --quiet; then
+            echo 'No index changes to commit.'
+          else
+            git commit -m "chore: refresh BoardBook index ($(date -u +%Y-%m-%d))"
+            # The scheduled job can race a push to main; rebase rather than fail.
+            git pull --rebase --autostash origin ${{ github.ref_name }}
+            git push
+          fi
+
+      - name: Assemble site
+        run: |
+          mkdir -p dist
+          cp -r site/. dist/
+          cp data/site.db dist/site.db
+          ls -lh dist
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

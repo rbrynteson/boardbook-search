@@ -1,0 +1,21 @@
+To: School Board and Dr. Teri Staloch, Superintendent
+From: Joel VerDuin, Ed.D., Sr. Director of Technology
+Date: April 15, 2026
+Re: Arctic Wolf Managed Detection and Response Renewal
+Overview
+The purpose of this memo is to provide additional information related to the subscription renewal for Arctic Wolf, our managed detection and response (MDR) service.
+MDR Services
+An MDR solution is a comprehensive set of tools and services designed to provide monitoring, analysis, response and containment to threat activity 24 hours per day. It is usually staffed by an external company that works in partnership with the school district to reduce threat possibilities, monitor systems, and provide expertise and advice on responding to unusual activity.
+Arctic Wolf And Robbinsdale Area Schools
+The information below provides details about our use and history with an MDR service.
+● The MDR service from Arctic Wolf was initially purchased in spring of 2023 to begin use in the 2023-2024 school year.
+● Our service includes threat detection on all workstations and servers, logfile monitoring from critical internal systems and cloud-hosted platforms, cybersecurity training for all staff on a monthly basis, monthly security meetings, and detection and response on a 24 x 7
+basis.
+● The use of an MDR solution is recommended by both cybersecurity insurance companies as well as cybersecurity frameworks used to determine the health of an organization's efforts to address security in a comprehensive manner.
+● The MDR team investigates an average of 100 incidents per month, with about 90 receiving tickets that require action on our part.
+● The cost of Arctic Wolf renewal is budgeted within the technology levy.
+● The quote is from a cooperative purchasing agreement with Sourcewell.
+● The cost difference from last year's amount represents a $343.56 dollar increase.
+Summary Points
+● By partnering with an MDR provider, we are gaining deep cybersecurity expertise, constant monitoring and analysis, threat containment capabilities, assistance in incident response, and undivided attention to anomalies that need immediate investigation.
+● These tools and services are in addition to what our internal team provides related to cybersecurity. By having an external partner working at all hours, our internal team can focus time and attention on the other support needs of our students, staff and community.

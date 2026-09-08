@@ -1,0 +1,57 @@
+Notes
+(8,795.00)
+(43,620.00)
+(52,415.00)
+Over / (Under)
+$
+$
+$
+75,000.00
+240,000.00
+315,000.00
+Budget
+$ $
+$
+66,205.00
+196,380.00
+262,585.00
+Bid
+Apparent Low Base $
+$ $
+Bid Tabulation
+Contractor
+Robbinsdale - Mechanical Package
+Thursday, February 19, 2026 @ 1:00 PM
+TMS JohnsonMMS
+Subtotal
+WorkScope
+Bid Line 1 - Wood Dust Collection Systems - 23 3514Bid Line 2 - Boilers and Accessories - 23 5200
+
+CC
+CC
+Notes
+66,205.0099,350.00
+Single Contract Base Bid
+$ $
+Bid Bond
+Bid Tabulation x
+X
+Robbinsdale - Mechanical Package
+Thursday, February 19, 2026 @ 1:00 PM
+Contractor
+Bid Line 1: Wood Dust Collection Systems - Section 23 3514TMS JohnsonSVL
+
+CC
+CC
+Notes
+237,706.00203,460.00196,380.00
+Single Contract Base Bid
+$ $ $
+Bid Bond
+Bid Tabulation
+X X
+NA
+Robbinsdale - Mechanical Package
+Thursday, February 19, 2026 @ 1:00 PM
+Contractor
+Bid Line 2: Boilers and Accessories Units - Section 23 5200RM CottonMulcahyMMS

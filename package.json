@@ -1,0 +1,26 @@
+{
+  "name": "boardbook-search",
+  "version": "0.1.0",
+  "description": "Full-text search for public BoardBook meeting documents",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scrape": "node src/cli/scrape.js",
+    "build": "node src/cli/vendor.js && node src/cli/build.js",
+    "pipeline": "node src/cli/scrape.js && npm run build",
+    "serve": "node src/cli/vendor.js && node src/cli/serve.js",
+    "stats": "node src/cli/stats.js",
+    "test": "node --test \"test/**/*.test.js\"",
+    "vendor": "node src/cli/vendor.js",
+    "postinstall": "node src/cli/vendor.js"
+  },
+  "dependencies": {
+    "@sqlite.org/sqlite-wasm": "^3.53.4-build1",
+    "better-sqlite3": "^11.7.0",
+    "cheerio": "^1.0.0",
+    "pdfjs-dist": "^4.9.155"
+  }
+}

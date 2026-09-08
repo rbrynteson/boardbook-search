@@ -1,0 +1,482 @@
+Independent School District 281
+Robbinsdale Area Schools
+Adopted: June 18, 2018
+Reviewed and Revised: April 2026
+Approved: May 4, 2026
+Reviewed and Revised: August 2026
+Approved: (enter date here)
+721 POLICY - PROCUREMENT
+I. PURPOSE
+The purpose of this policy is to ensure compliance with the requirements of the federal Uniform
+Grant Guidance regulations by establishing uniform administrative requirements, cost principles, and audit requirements for federal grant awards received by the school district. This policy also seeks to ensure compliance with Minnesota procurement laws governing school districts.
+II. DEFINITIONS
+A. "Compensation for personal services" includes all remuneration, paid currently or accrued, for services of employees rendered during the period of performance under the federal award, including, but not necessarily limited to, wages and salaries.
+Compensation for personal services may also include fringe benefits which are addressed in 2 Code of Federal Regulations, section 200.431 (Compensation - Fringe Benefits).
+B. "Competitive procurement process" means a process for procurement by sealed bids or by proposals under Minnesota Statutes, section 471.345.
+C. "Contract" means a legal instrument by which the school district purchases property or services needed to carry out the project or program under a federal award. The term, as used in 2 Code of Federal Regulations, Part 200, does not include a legal instrument, even if the school district considers it a contract, when the substance of the transaction meets the definition of a federal award or subaward.
+D. "Direct costs" are those costs that can be identified specifically with a particular final cost objective, such as a federal award, or other internally or externally funded activity, or that can be directly assigned to such activities relatively easily with a high degree of accuracy.
+E. "Equipment" means tangible personal property (including information technology systems) having a useful life of more than one year and a per-unit acquisition cost which exceeds the lesser of the capitalization level established by the school district for financial statement purposes, or $10,000.
+F. "Federal award" has the meaning, depending on the context, in either paragraph 1. or 2.
+below:
+1. a. The federal financial assistance that the school district receives directly from a federal awarding agency or indirectly from a pass-through entity, as
+
+described in 2 Code of Federal Regulations, section 200.101; or b. The cost-reimbursement contract under the federal Acquisition Regulations that the school district receives directly from a federal awarding agency or indirectly from a pass-through entity, as described in 2 Code of Federal
+Regulations, section 200.101.
+2. The instrument setting forth the terms and conditions. The instrument is the grant agreement, cooperative agreement, other agreement for assistance covered in paragraph (2) of the definition of Federal financial assistance in 2 Code of Federal
+Regulations 200.1, or the cost-reimbursement contract awarded under the federal
+Acquisition Regulations.
+3. "Federal award" does not include other contracts that a federal agency uses to buy goods or services from a contractor or a contract to operate federal-governmentowned, contractor-operated facilities.
+G. "Grants" includes:
+1. "State-administered grants" are those grants that pass through a state agency such as the Minnesota Department of Education (MDE).
+2. "Direct grants" are those grants that do not pass through another agency such as
+MDE and are awarded directly by the federal awarding agency to the grantee organization. These grants are usually discretionary grants that are awarded by the
+U.S. Department of Education (DOE) or by another federal awarding agency.
+[Note: All of the requirements outlined in this policy apply to both direct grants and state-administered grants.]
+H. "Non-federal entity" means a state, local government, Indian tribe, institution of higher education, or nonprofit organization that carries out a federal award as a recipient or subrecipient.
+I. "Post-retirement health plans" refer to costs of health insurance or health services not included in a pension plan covered by 2 Code of Federal Regulations, section 200.431(g)
+for retirees and their spouses, dependents, and survivors.
+J. "Severance pay" is a payment in addition to regular salaries and wages by the school district to workers whose employment is being terminated.
+K. "Travel costs" are the expenses for transportation, lodging, subsistence, and related items incurred by employees who are in travel status on official business of the school district.
+III. PROCUREMENT METHOD OPTIONS
+A. "Procurement by micro-purchase"
+
+The acquisition of supplies or services when the aggregate dollar amount of the procurement transaction does not exceed the micro-purchase threshold (generally $10,000, except as otherwise discussed in 48 Code of Federal Regulations, subpart 2.1 or as periodically adjusted for inflation).
+B. "Procurement by small purchase procedures"
+This procurement method may be used when the value of the procurement transaction does not exceed the federal simplified acquisition threshold and is within the state threshold of $175,000. If a small purchase procedure is used, price or rate quotations must be obtained from an adequate number of qualified sources. Unless specified by the Federal agency, the school district may exercise judgment in determining what number is adequate.
+[NOTE: Despite the federal government's increase in the dollar cap for small purchases to $250,000, Minnesota Statutes, section 471.345 limits the cap for small purchase procedures to $175,000.]
+C. "Procurement by sealed bids (formal advertising)"
+This procurement method involves a publicly solicited and a firm, fixed-price contract
+(lump sum or unit price) awarded to the responsible bidder whose bid, conforming to all the material terms and conditions of the invitation for bids, is the lowest in price.
+D. "Procurement by competitive proposals"
+This procurement method is normally conducted with more than one source submitting an offer, and either a fixed-price or cost reimbursement type contract is awarded.
+Competitive proposals are generally used when conditions are not appropriate for the use of sealed bids.
+E. "Procurement by noncompetitive proposals"
+This procurement method involves through solicitation of a proposal from only one source.
+[NOTE: Article IV. on Conflict of Interest has been moved to Article XI. to create a seamless set of Articles regarding procurement.]
+IV. GENERAL PROCUREMENT STANDARDS
+A. The school district must use its own documented procurement procedures that reflect applicable state laws, provided that the procurements conform to the applicable federal law and the standards identified in the Uniform Grant Guidance.
+B. The school district must maintain oversight to ensure that contractors perform in accordance with the terms, conditions, and specifications of their contracts or purchase orders.
+
+C. The school district's procedures must avoid acquisition of unnecessary or duplicative items. Consideration should be given to consolidating or breaking out procurements to obtain a more economical purchase. Where appropriate, an analysis will be made of lease versus purchase alternatives and any other appropriate analysis to determine the most economical approach. Breaking up a procurement into smaller components to avoid the thresholds established in this policy is prohibited.
+D. The school district must award contracts only to responsible contractors possessing the ability to perform successfully under the terms and conditions of a proposed procurement.
+Consideration will be given to such matters as contractor integrity, compliance with public policy, record of past performance, and financial and technical resources.
+E. The school district must maintain records sufficient to detail the history of procurement.
+These records will include, but are not necessarily limited to, the following: rationale for the method of procurement; selection of the contract type; contractor selection or rejection; and the basis for the contract price.
+F. The school district alone must be responsible, in accordance with good administrative practice and sound business judgment, for the settlement of all contractual and administrative issues arising out of procurements. These issues include, but are not limited to, source evaluation, protests, disputes, and claims. These standards do not relieve the school district of any contractual responsibilities under its contracts.
+G. The school district must take all necessary affirmative steps to assure that minority businesses, women's business enterprises, veteran-owned businesses, and labor surplus area firms are considered.
+H. Thresholds for Employee Purchases
+1. The superintendent and/or Chief Financial Officer, in conjunction with the school board, is responsible for overseeing the procurement process, including establishment of procedures, internal controls, quality assurance, methods of greatest economy, and compliance with all applicable laws. To be valid, all contracts must be approved by the board, except as otherwise provided in this policy. Nothing in this paragraph shall be construed to waive or supersede statutory requirements relating to public contracts, competitive bidding thresholds, or school board oversight, except as expressly permitted by law.
+2. Individual school district employees may incur expenditures in the following amounts without prior board approval so long as such expenditures are consistent with the school board-approved budget, provided that in all cases the school board retains authority to disapprove any expenditure for any reason at its sole discretion:
+a1. Any school district employee may make a purchase for use in connection with school district operations when the expenditure is less than $1,000 and is consistent with this policy's requirements.
+
+b2. In addition to the foregoing, the following school district employees may execute a purchase or procurement that requires the expenditure of up to the following amounts:
+(1.) Superintendent: Up to ($175,000)
+(2.) Chief Financial Officer: Up to ($175,000)
+3. Emergency expenditures and procurement authorization
+Notwithstanding other provisions of this policy, including the threshold authorization above, the superintendent is authorized to approve emergency expenditures when the superintendent determines that a public exigency or emergency exists that threatens the health, safety, or welfare of students, staff, or school district property and that the expenditure cannot be delayed until the next regular or special meeting of the school board without material harm to the school district.
+In an emergency, the Superintendent may authorize an expenditure in excess of the
+Superintendent's delegated purchasing authority, subject to the following conditions:
+a. The procurement shall comply with applicable state and federal law, including the use of noncompetitive procurement when permitted by law; b. The superintendent shall document the nature of the emergency, the basis for determining that immediate action was required, and the reason competitive procurement procedures were not used; c. The expenditure shall be reported to the school board for ratification at the next regular or specially called school board meeting; and d. Emergency authority under this paragraph is limited to the specific emergency circumstances and does not constitute a permanent increase in the superintendent's purchasing authority.
+V. PROCUREMENT METHODS WHEN USING STATE FUNDS
+The school district must use one of the following methods of procurement when using state funds:
+A. Procurements for $25,000 or less
+If the amount of the contract is estimated to be $25,000 or less, the contract may be made either upon quotation or in the open market, in the school district's discretion. If the contract is made upon quotation it shall be based, so far as practicable, on at least two (2)
+quotations which shall be kept on file for a period of at least one (1) year after their receipt.
+Alternatively, the school district may award a contract for construction, alteration, repair, or maintenance work to the vendor or contractor offering the best value under a request for
+
+proposals as described in Minnesota Statutes, section 16C.28, subdivision 1, paragraph
+(a), clause (2), and paragraph (c).
+Procurements for $25,000 or less also may be conducted by micro-purchase.
+B. Procurements Exceeding $25,000 but not $175,000
+1. Sealed Bids or Direct Negotiation
+If the amount of the contract is estimated to exceed $25,000 but not to exceed
+$175,000, the contract may be made either upon sealed bids or by direct negotiation, by obtaining two (2) or more quotations for the purchase or sale when possible, and without advertising for bids or otherwise complying with the requirements of competitive bidding. All quotations obtained shall be kept on file for a period of at least one (1) year after receipt thereof.
+2. Best Value Alternative
+As an alternative to the procurement method described in Subparagraph B.1 above, the school district may award a contract for construction, alteration, repair, or maintenance work to the vendor or contractor offering the best value under a request for proposals as described in Minnesota Statutes, section 16C.28, subdivision 1, paragraph (a), clause (2), and paragraph (c).
+C. Procurements Exceeding $175,000
+If the amount of the contract is estimated to exceed $175,000, sealed bids shall be solicited by public notice in the manner and subject to the requirements of the law governing school district contracts.
+D. Procurement by Sealed Bids
+Procurement by sealed bids means a process in which bids are publicly solicited and a firm fixed price contract by lump sum or unit price is awarded to the responsible bidder whose bid, conforming with all material terms and conditions of the invitation for bids, is the lowest in price. If sealed bids are used, the following requirements apply:
+1. bids must be solicited from an adequate number of qualified sources, providing bidders sufficient response time prior to the date set for opening bids;
+2. the invitation for bids, which includes any specifications and pertinent attachments, must define the items or services in order for the bidder to properly respond;
+3. all bids will be opened at the time and place prescribed in the invitation for bids, and the bids must be opened publicly;
+4. a firm fixed price contract award will be made in writing to the lowest responsive
+
+and responsible bidder. Where specified in bidding documents, factors such as discounts, transportation cost, and life cycle costs must be considered in determining which bid is lowest. Payment discounts will only be used to determine the low bid when prior experience indicates that the discounts are usually taken advantage of;
+5. any or all bids may be rejected if there is a sound documented reason; and
+6. in order for a sealed bid to be feasible, the following conditions must be present:
+a. a complete, adequate, and realistic specification or purchase description is available; b. two (2) or more responsible bidders are willing and able to compete effectively for the business; and c. the procurement lends itself to a firm fixed price contract and the selection of the successful bidder can be made principally on the price.
+E. Procurement by Proposals
+"Procurement by proposals" means a process in which either a fixed price or cost-reimbursement type contract is awarded. Proposals are generally used when conditions are not appropriate for the use of sealed bids. They are awarded in accordance with the following requirements:
+1. requests for proposals must be publicized and identify all evaluation factors and their relative importance. Proposals must be solicited from an adequate number of qualified offerors. Any response to publicized requests for proposals must be considered to the maximum extent practical;
+2. the school district must have a written method for conducting technical evaluations of the proposals received and for making selections; and
+3. contracts must be awarded to the responsible offeror whose proposal is most advantageous to the school district, with price and other factors considered.
+VI. PROCUREMENT METHODS WHEN USING FEDERAL FUNDS
+A. Procurement by Competitive Proposals
+This is a procurement method used when conditions are not appropriate for using sealed bids. This procurement method may result in either a fixed-price or cost-reimbursement contract. If this method is used, the following requirements apply:
+1. Requests for proposals require public notice, and all evaluation factors and their relative importance must be identified. Proposals must be solicited from multiple qualified entities. To the maximum extent practicable, any proposals submitted in
+
+response to the public notice must be considered;
+2. Proposals must be solicited from an adequate number of qualified sources;
+3. The school district must have a written method for conducting technical evaluations of the proposals received and for selecting recipients;
+4. Contracts must be awarded to the responsible firm whose proposal is most advantageous to the program, with price and other factors considered; and
+5. The school district may use competitive proposal procedures for qualifications-based procurement of architectural/engineering (A/E) professional services whereby competitors' qualifications are evaluated and the most qualified competitor is selected, subject to negotiation of fair and reasonable compensation.
+The method where price is not used as a selection factor can only be used in procurement of A/E professional services; it cannot be used to purchase other types of services, though A/E firms are a potential source to perform the proposed effort.
+B. Procurement by Noncompetitive Proposals
+Procurement by noncompetitive proposals may be used only when one (1) or more of the following circumstances apply:
+1. The aggregate amount of the procurement transaction does not exceed the micro-purchase threshold;
+2. The item is available only from a single source;
+3. The public exigency or emergency for the requirement will not permit a delay resulting from competitive solicitation;
+4. The DOE or MDE expressly authorizes noncompetitive proposals in response to a written request from the school district; or
+5. After solicitation of a number of sources, competition is determined inadequate.
+C. Competition
+1. All procurement transactions under the Federal award must be conducted in a manner that provides full and open competition and is consistent with the standards of 2 Code of Federal Regulations, sections 200.319 and .320.
+2. The school district must have written procedures for procurement transactions.
+These procedures must ensure that all solicitations:
+a. are made in accordance with 2 Code of Federal Regulations, section
+200.319(b);
+
+b. incorporate a clear and accurate description of the technical requirements for the material, product, or service to be procured. Such description must not, in competitive procurements, contain features which unduly restrict competition. The description may include a statement of the qualitative nature of the material, product, or service to be procured and, when necessary, must set forth those minimum essential characteristics and standards to which it must conform if it is to satisfy its intended use.
+Detailed product specifications should be avoided if at all possible. When making a clear and accurate description of the technical requirements is impractical or uneconomical, a "brand name or equivalent" description may be used as a means to define the performance or other salient requirements of procurement. The specific features of the named brand which must be met by offers must be clearly stated; and c. identify all requirements which the offerors must fulfill and all other factors to be used in evaluating bids or proposals.
+D. The school district must ensure that all prequalified lists of persons, firms, or products used in procurement transactions are current and include enough qualified sources to ensure maximum open competition. When establishing or amending prequalified lists, the school district must consider objective factors that evaluate price and cost to maximize competition. Also, the school must not preclude potential bidders from qualifying during the solicitation period.
+E. The school district is prohibited from contracting with or making subawards under
+"covered transactions" to parties that are suspended or debarred or whose principals are suspended or debarred. "Covered transactions" include procurement contracts for goods and services awarded under a grant or cooperative agreement that are expected to equal or exceed $25,000.
+F. All nonprocurement transactions entered into by a recipient (i.e., subawards to subrecipients), irrespective of award amount, are considered covered transactions, unless they are exempt as provided in 2 Code of Federal Regulations, section 180.215.
+G. Managing Property and Equipment and Safeguarding Assets
+1. Property Standards
+The school district must, at a minimum, provide the equivalent insurance coverage for real property and equipment acquired or improved with federal funds as provided to other property owned by the school district. Federally owned property need not be insured unless required by the terms and conditions of the federal award.
+The school district must adhere to the requirements concerning real property, equipment, supplies, and intangible property set forth in 2 Code of Federal
+Regulations, sections 200.311, 200.314, and 200.315.
+
+2. Managing Equipment
+Procedures for managing equipment (including replacement equipment), whether acquired in whole or in part under a federal award, until disposition takes place will, at a minimum, meet the following requirements:
+a. Property records must be maintained that include a description of the property; a serial number or other identification number; the source of the funding for the property (including the federal award identification number
+(FAIN)); who holds title; the acquisition date; the cost of the property; the percentage of the federal participation in the project costs for the federal award under which the property was acquired; the location, use, and condition of the property; and any ultimate disposition data, including the date of disposition and sale price of the property.
+b. A physical inventory of the property must be taken and the results reconciled with the property records at least once every two (2) years.
+c. A control system must be developed to ensure adequate safeguards to prevent loss, damage, or theft of the property. Any loss, damage, or theft must be investigated.
+d. Adequate maintenance procedures must be developed to keep property in good condition.
+e. If the school district is authorized or required to sell the property, proper sales procedures must be established to ensure the highest possible return.
+H. Cybersecurity
+The school district must take reasonable cybersecurity and other measures to safeguard
+1. Personally identifiable information;
+2. Information that the federal agency or pass-through entity designates as sensitive; and
+3. other information that the school district considers sensitive and is consistent with applicable federal, state, local, and tribal laws regarding privacy and responsibility over confidentiality.
+VII. FINANCIAL MANAGEMENT REQUIREMENTS
+A. Financial Management.
+The school district's financial management systems, including records documenting compliance with federal statues, regulations, and the terms and conditions of the federal
+
+award, must be sufficient to permit the preparation of reports required by general and program-specific terms and conditions; and tracking expenditures to establish that funds have been used in accordance with federal statutes, regulations, and the terms and conditions of the federal award.
+B. Payment.
+The school district must be paid in advance, provided it maintains or demonstrates the willingness to maintain both written procedures that minimize the time elapsing between the transfer of funds and disbursement between the school district and the financial management systems that meet the standards for fund control and accountability.
+Advance payments to the school district must be limited to the minimum amounts needed and be timed with actual, immediate cash requirements of the school district in carrying out the purpose of the approved program or project. The timing and amount of advance payments must be as close as is administratively feasible to the actual disbursements by the school district for direct program or project costs and the proportionate share of any allowable indirect costs. The school district must make timely payment to contractors in accordance with the contract provisions.
+C. Internal Controls.
+The school district must establish and maintain effective internal control over the federal award that provides reasonable assurance that the school district is managing the federal award in compliance with federal statutes, regulations, and the terms and conditions of the federal award. These internal controls should be in compliance with guidance in
+"Standards for Internal Control in the Federal Government," issued by the Comptroller
+General of the United States, or the "Internal Control Integrated Framework," issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+The school district must comply with federal statutes, regulations, and the terms and conditions of the federal award.
+The school district must also evaluate and monitor the school district's compliance with statutes, regulations, and the terms and conditions of the federal award.
+The school district must also take prompt action when instances of noncompliance are identified, including noncompliance identified in audit findings.
+The school district must take reasonable measures to safeguard protected personally identifiable information and other information considered sensitive consistent with applicable federal and state laws regarding privacy and obligations of confidentiality.
+VIII. ALLOWABLE USE OF FUNDS AND COST PRINCIPLES
+A. Allowable Use of Funds.
+The school district administration and board will enforce appropriate procedures and
+
+penalties for program, compliance, and accounting staff responsible for the allocation of federal grant costs based on their allowability and their conformity with federal cost principles to determine the allowability of costs.
+B. Definitions
+1. "Advance payment" means a payment that a federal awarding agency or pass-through entity makes by any appropriate payment mechanism, and payment method before the school district disburses the funds for program purposes.
+2. "Allowable cost" means a cost that complies with all legal requirements that apply to a particular federal education program, including statutes, regulations, guidance, applications, and approved grant awards.
+3. "Education Department General Administrative Regulations (EDGAR)" means a compilation of regulations that apply to federal education programs.
+These regulations contain important rules governing the administration of federal education programs and include rules affecting the allowable use of federal funds
+(including rules regarding allowable costs, the period of availability of federal awards, documentation requirements, and grants management requirements).
+4. "Omni Circular" "(also known as 2 C.F.R. Part 200s" the "Uniform
+Administrative Requirements, Cost Principles, and Audit Requirements for Federal
+Awards," or the Uniform Grant Guidance means federal cost principles that provide standards for determining whether costs may be charged to federal grants.
+C. Allowable Costs. The following items are costs that may be allowable under the 2 C.F.R.
+Part 200, subpart Es under specific conditions (review the specific part 2 Code of Federal
+Regulations 200, subpart E for allowability requirements for specific cost):
+1. Advertising and public relations
+2. Advisory councils;
+3. Audit costs and related services;
+4. Bonding costs;
+5. Compensation - personal services;
+6. Compensation - fringe benefits;
+7. Conferences;
+8. Contingency provisions;
+9. Depreciation;
+
+10. Employee, health, and welfare costs;
+11. Equipment and other capital expenditures;
+12. Gains and losses on disposition of depreciable assets;
+13. Insurance and indemnification;
+14. Intellectual property;
+15. Maintenance, and repair costs;
+16. Materials and supplies costs including costs of computing devices;
+17. Memberships, subscriptions, and professional activity costs;
+18. Organization costs;
+19. Participant costs;
+20. Plant and security costs;
+21. Pre-award costs;
+22. Professional service costs;
+23. Proposal costs;
+24. Publication and printing costs;
+25. Rearrangement and reconversion costs;
+26. Recruiting costs;
+27. Relocation costs of employees;
+28. Rental costs of building and equipment;
+29. Scholarships, student aid costs, and tuition remission;
+30 Specialized service facilities;
+31. Taxes;
+32. Telecommunication and video surveillance costs;
+33. Termination and standard closeout costs;
+
+34. Training and education costs;
+35. Transportation costs; and
+36. Travel costs.
+D. Costs Forbidden by Federal Law. 2 Code of Federal Regulations Part 200s and
+EDGAR identify certain costs that may never be paid with federal funds. The list below provides examples of such costs. If a cost is on this list, it may not be supported with federal funds unless an exception exists (review the specific part of 2 Code of Federal
+Regulations 200, subpart E for possible exceptions to unallowable costs). The fact that a cost is not on this list does not mean it is necessarily permissible. Other important restrictions apply to federal funds, such as those items detailed in the 2 Code of Federal
+Regulations Part 200s;, subpart E; thus, the following list is not exhaustive:
+1. Alcoholic beverages;
+2. Bad debts;
+3. Contingency provisions (with limited exceptions);
+4. Contributions and donations
+5. Entertainment (with limited exceptions);
+6. Fines, penalties, damages, and other settlements:
+7. Fundraising and investment management costs (with limited exceptions);
+8. General costs of government (with limited exceptions pertaining to Indian tribal governments and Councils of Government (COGs));
+9. Goods or services for personal use;
+10. Interest, (except interest specifically stated in 2 Code of Federal Regulations, section 200.44 as allowable);
+11. Lobbying;
+12. Losses on other Federal awards or contracts;
+13. Selling and marketing;
+14. Student activity costs;
+15. Religious use;
+16. The acquisition of real property (unless specifically permitted by programmatic
+
+statute or regulations, which is very rare in federal education programs);
+17. Construction (unless specifically permitted by programmatic statute or regulations, which is very rare in federal education programs); and
+18. Tuition charged or fees collected from students applied toward meeting matching, cost sharing, or maintenance of effort requirements of a program.
+E. Program Allowability
+1. Any cost paid with federal education funds must be permissible under the federal program that would support the cost.
+2. Many federal education programs detail specific required and/or allowable uses of funds for that program. Issues such as eligibility, program beneficiaries, caps or restrictions on certain types of program expenses, other program expenses, and other program specific requirements must be considered when performing the programmatic analysis.
+3. The two largest federal K-12 programs, Title I, Part A, and the Individuals with
+Disabilities Education Act (IDEA), do not contain a use of funds section delineating the allowable uses of funds under those programs. In those cases, costs must be consistent with the purposes of the program in order to be allowable.
+F. Federal Cost Principles
+The Omni Circular defines the parameters for the permissible uses of federal funds.
+While many requirements are contained in the Omni Circular, it includes five core principles that serve as an important guide for effective grant management. These core principles require all costs to be:
+1. Necessary for the proper and efficient performance or administration of the program.
+2. Reasonable. An outside observer should clearly understand why a decision to spend money on a specific cost made sense in light of the cost, needs, and requirements of the program.
+3. Allocable to the federal program that paid for the cost. A program must benefit in proportion to the amount charged to the federal program - for example, if a teacher is paid 50% with Title I funds, the teacher must work with the Title I program/
+students at least 50% of the time. Recipients also need to be able to track items or services purchased with federal funds so they can prove they were used for federal program purposes.
+4. Authorized under state and local rules. All actions carried out with federal funds must be authorized and not prohibited by state and local laws and policies.
+
+5. Adequately documented. A recipient must maintain proper documentation so as to provide evidence to monitors, auditors, or other oversight entities of how the funds were spent over the lifecycle of the grant.
+G. Program Specific Fiscal Rules
+The Omni Circular also contains specific rules on selected items of costs. Costs must comply with these rules in order to be paid with federal funds.
+1. All federal education programs have certain program specific fiscal rules that apply. Determining which rules apply depends on the program; however, rules such as supplement, not supplant, maintenance of effort, comparability, caps on certain uses of funds, etc., have an important impact when analyzing whether a particular cost is permissible.
+2. Many state-administered programs require school districts to use federal program funds to supplement the amount of state, local, and, in some cases, other federal funds they spend on education costs and not to supplant (or replace) those funds.
+Generally, the "supplement, not supplant" provision means that federal funds must be used to supplement the level of funds from non-federal sources by providing additional services, staff, programs, or materials. In other words, federal funds normally cannot be used to pay for things that would otherwise be paid for with state or local funds (and, in some cases, with other federal funds).
+3. Auditors generally presume supplanting has occurred in three (3) situations:
+a. School district uses federal funds to provide services that the school district is required to make available under other federal, state, or local laws.
+b. School district uses federal funds to provide services that the school district provided with state or local funds in the prior year.
+c. School district uses Title I, Part A, or Migrant Education Program funds to provide the same services to Title I or Migrant students that the school district provides with state or local funds to nonparticipating students.
+4. These presumptions apply differently in different federal programs and also in schoolwide program schools. Staff should be familiar with the supplement not supplant provisions applicable to their program.
+H. Approved Plans, Budgets, and Special Conditions
+1. As required by the Omni Circular, all costs must be consistent with approved program plans and budgets.
+2. Costs must also be consistent with all terms and conditions of federal awards, including any special conditions imposed on the school district's grants.
+
+I. Training
+1. The school district will provide training on the allowable use of federal funds to all staff involved in federal programs.
+2. The school district will promote coordination between all staff involved in federal programs through activities, such as routine staff meetings and training sessions.
+J. Employee Sanctions.
+Any school district employee who violates this policy will be subject to discipline, as appropriate, up to and including the termination of employment.
+K. Reduction in Aid
+If the school district makes a purchase without a procurement policy adopted by the school board or makes a purchase not in conformity with the school district's procurement policy, the Commissioner may reduce that school district's state aid in an amount equal to the purchase.
+L. Property, Financial Investments, and Contracting
+The school district is subject to and must comply with Minnesota Statutes, sections 15.054
+and 118A.01 to 118A.06 governing government property and financial investments and sections 471.38, 471.391, 471.392, and 471.425 governing municipal contracting.
+M. Mandatory Disclosures
+The school district must promptly disclose whenever, in connection with the federal award
+(including any activities or subawards thereunder), it has credible evidence of the commission of a violation of federal criminal law involving fraud, conflict of interest, bribery, or gratuity violations found in 18 United States Code or a violation of the civil
+False Claims Act (31 United States Code, sections 3729-3733).
+The disclosure must be made in writing to the DOE, MDE, and the MDE Office of
+Inspector General, (if applicable). School districts are also required to report matters related to school district integrity and performance in accordance with Appendix XII of 2
+Code of Federal Regulations, part 200. Failure to make required disclosures can result in any of the remedies described in 2 Code of Federal Regulations, section 200.339.
+IX. COMPENSATION - PERSONAL SERVICES EXPENSES AND REPORTING
+A. Compensation - Personal Services
+Costs of compensation are allowable to the extent that they satisfy the specific requirements of the Uniform Grant Guidance and that the total compensation for individual employees:
+
+1. Is reasonable for the services rendered and conforms to the established written school district policy of the school district consistently applied to both federal and non-federal activities; and
+2. Follows an appointment made in accordance with the school district's written policies and meets the requirements of federal statute, where applicable.
+Unless an arrangement is specifically authorized by a federal awarding agency, the school district must follow its written non-federal, entitywide policies and practices concerning the permissible extent of professional services that can be provided outside the school district for non-organizational compensation.
+B. Compensation - Fringe Benefits
+1. During leave.
+The costs of fringe benefits in the form of regular compensation paid to employees during periods of authorized absences from the job, such as for annual leave, family-related leave, sick leave, holidays, court leave, military leave, administrative leave, and other similar benefits, are allowable if all of the following criteria are met:
+a. They are provided under established written leave policies; b. The costs are equitably allocated to all related activities, including federal awards; and c. The accounting basis (cash or accrual) selected for costing each type of leave is consistently followed by the school district.
+2. The costs of fringe benefits in the form of employer contributions or expenses for social security; employee life, health, unemployment, and worker's compensation insurance (except as indicated in 2 C.F.R. § 200.447(d)); pension plan costs; and other similar benefits are allowable, provided such benefits are granted under established written policies. Such benefits must be allocated to federal awards and all other activities in a manner consistent with the pattern of benefits attributable to the individuals or group(s) of employees whose salaries and wages are chargeable to such federal awards and other activities and charged as direct or indirect costs in accordance with the school district's accounting practices.
+3. Actual claims paid to or on behalf of employees or former employees for workers'
+compensation, unemployment compensation, severance pay, and similar employee benefits (e.g., post-retirement health benefits) are allowable in the year of payment provided that the school district follows a consistent costing policy.
+4. Pension plan costs may be computed using a pay-as-you-go method or an acceptable actuarial cost method in accordance with the school district's written policies.
+
+5. Post-retirement costs may be computed using a pay-as-you-go method or an acceptable actuarial cost method in accordance with established school district written policies.
+6. Costs of severance pay are allowable only to the extent that, in each case, severance pay is required by law; employer-employee agreement; established policy that constitutes, in effect, an implied agreement on the school district's part; or circumstances of the particular employment.
+C. Insurance and Indemnification.
+Types and extent and cost of coverage are in accordance with the school district's policy and sound business practice.
+D. Recruiting Costs. Short-term, travel visa costs (as opposed to longer-term, immigration visas) may be directly charged to a federal award, so long as they are:
+1. Critical and necessary for the conduct of the project;
+2. Allowable under the cost principles set forth in the Uniform Grant Guidance;
+3. Consistent with the school district's cost accounting practices and school district policy; and
+4. Meeting the definition of "direct cost" in the applicable cost principles of the
+Uniform Grant Guidance.
+F. Travel Costs.
+Under 2 Code of Federal Regulations, section 200.475, travel costs include the transportation, lodging, subsistence, and related items incurred by employees who are in travel status on official business of the school district.
+Travel costs may be charged on an actual cost basis, on a per diem or mileage basis, or on a combination of the two, provided the method used is applied to an entire trip and not to selected days of the trip.
+The method used must be consistent with those normally allowed in like circumstances in the school district's other activities and in accordance with the school district's established written policies.
+Costs incurred by employees and officers for travel, including costs of lodging, other subsistence, and incidental expenses, must be considered reasonable and otherwise allowable only to the extent such costs do not exceed charges normally allowed by the school district in its regular operations as a result of the school district's written policy.
+In addition, when costs are charged directly to the federal award, documentation must
+
+justify that:
+1. Participation of the individual is necessary to the federal award; and
+2. The costs are reasonable and consistent with the school district's established written policy.
+Temporary dependent care costs above and beyond regular dependent care are allowable provided that these costs are:
+1. A direct result of the individual's travel for the federal award;
+2. Consistent with the school district's established written policy for all school district travel; and
+3. Only temporary during the travel period.
+[Note: Noncompliance. If a school district fails to comply with federal statutes, regulations, or the terms and conditions of a federal award, the DOE or MDE may impose additional conditions, as described in 2 C.F.R. § 200.208 (Specific Conditions).
+If the DOE or MDE determines that noncompliance cannot be remedied by imposing specific conditions, the DOE or MDE may take one or more of the following actions, as appropriate under the circumstances: 1) Temporarily withhold payments until the school district takes corrective action; 2) Disallow (that is, deny both use of funds and any applicable matching credit for) costs for all or part of the activity associated with the noncompliance; 3) Wholly or partly suspend or terminate the federal award; 4)
+Initiate suspension or debarment proceedings as authorized under 2 C.F.R. Part 180
+and DOE regulations (or, in the case of MDE, recommend such a proceeding be initiated by the DOE); 5) Withhold further federal awards (new awards or continuation funding) for the project or program; and/or 6) Take other remedies that may be legally available.]
+X. SUBRECIPIENT MONITORING
+[NOTE: MDE auditors have stated that subrecipient monitoring must be covered in policy.]
+A. The school district will:
+1. Verify that the subrecipient is not excluded or disqualified in accordance with 2
+Code of Federal Regulations, section 180.300. Verification methods are provided in section 180.300, which include confirming in SAM.gov that a potential subrecipient is not suspended, debarred, or otherwise excluded from receiving federal funds.
+2. Ensure that every subaward is clearly identified to the subrecipient as a subaward and includes the information provided below. A pass-through entity must provide the best available information when some of the information below is unavailable.
+A pass-through entity must provide the unavailable information when it is
+
+obtained.
+a. Required information includes:
+1) Federal award identification i. Subrecipient's name (must match the name associated with its unique entity identifier); ii. Subrecipient's unique entity identifier; iii. Federal Award Identification Number (FAIN); iv. Federal Award Date; v. Subaward Period of Performance Start and End Date; vi. Subaward Budget Period Start and End Date; vii. Amount of Federal Funds Obligated in the subaward; viii. Total Amount of Federal Funds Obligated to the subrecipient by the pass-through entity, including the current financial obligation; ix. Total Amount of the Federal Award committed to the subrecipient by the pass-through entity; x. Federal award project description, as required by the Federal
+Funding Accountability and Transparency Act (FFATA); xi. Name of the Federal agency, pass-through entity, and contact information for awarding official of the pass-through entity; xii. Assistance Listings title and number; the pass-through entity must identify the dollar amount made available under each
+Federal award and the Assistance Listings Number at the time of disbursement; xiii. Identification of whether the federal award is for research and development; and xiv. Indirect cost rate for the federal award (including if the de minimis rate is used in accordance with 2 Code of Federal
+Regulations, section 200.414).
+2) All requirements of the subaward, including requirements imposed
+
+by Federal statutes, regulations, and the terms and conditions of the
+Federal award;
+3) Any additional requirements that the pass-through entity imposes on the subrecipient for the pass-through entity to meet its responsibilities under the Federal award. This includes information and certifications (see 2 Code of Federal Regulations, section
+200.415) required for submitting financial and performance reports that the pass-through entity must provide to the federal agency;
+4) Indirect cost rate:
+5) A requirement that the subrecipient permit the pass-through entity and auditors to access the subrecipient's records and financial statements for the pass-through entity to fulfill its monitoring requirements; and
+6) Appropriate terms and conditions concerning the closeout of the subaward.
+3. Evaluate each subrecipient's fraud risk and risk of noncompliance with a subaward to determine the appropriate subrecipient monitoring described in 2 Code of
+Federal Regulations, section 200.332, paragraph (f). When evaluating a subrecipient's risk, a pass-through entity should consider the following:
+a. The subrecipient's prior experience with the same or similar subawards; b. The results of previous audits. This includes considering whether or not the subrecipient receives a Single Audit in accordance with 2 Code of Federal
+Regulations, part 200, subpart F and the extent to which the same or similar subawards have been audited as a major program; c. Whether the subrecipient has new personnel or new or substantially changed systems; and d. The extent and results of any federal agency monitoring (for example, if the subrecipient also receives federal awards directly from the federal agency).
+4. If appropriate, consider implementing specific conditions in a subaward as described in 2 Code of Federal Regulations, section 200.208 and notify the Federal agency of the specific conditions.
+5. Monitor the activities of a subrecipient as necessary to ensure that the subrecipient complies with Federal statutes, regulations, and the terms and conditions of the subaward. The pass-through entity is responsible for monitoring the overall performance of a subrecipient to ensure that the goals and objectives of the subaward are achieved. In monitoring a subrecipient, a pass-through entity must:
+
+a. Review financial and performance reports.
+b. Ensure that the subrecipient takes corrective action on all significant developments that negatively affect the subaward.
+Significant developments include Single Audit findings related to the subaward, other audit findings, site visits, and written notifications from a subrecipient of adverse conditions which will impact their ability to meet the milestones or the objectives of a subaward. When significant developments negatively impact the subaward, a subrecipient must provide the pass-through entity with information on their plan for corrective action and any assistance needed to resolve the situation.
+c. Issue a management decision for audit findings pertaining only to the
+Federal award provided to the subrecipient from the pass-through entity as required by 2 Code of Federal Regulations, section 200.521.
+d. Resolve audit findings specifically related to the subaward. However, the pass-through entity is not responsible for resolving cross-cutting audit findings that apply to the subaward and other Federal awards or subawards.
+If a subrecipient has a current Single Audit report and has not been excluded from receiving Federal funding (meaning, has not been debarred or suspended), the pass-through entity may rely on the subrecipient's cognizant agency for audit or oversight agency for audit to perform audit follow-up and make management decisions related to cross-cutting audit findings in accordance with 2 Code of Federal Regulations, section
+200.513(a)(4)(viii). Such reliance does not eliminate the responsibility of the pass-through entity to issue subawards that conform to agency and award-specific requirements, to manage risk through ongoing subaward monitoring, and to monitor the status of the findings that are specifically related to the subaward.
+6. Depending upon the pass-through entity's assessment of the risk posed by the subrecipient (as described in 2 Code of Federal Regulations, section 200.332, paragraph (c)), the following monitoring tools may be useful for the pass-through entity to ensure proper accountability and compliance with program requirements and achievement of performance goals:
+a. Providing subrecipients with training and technical assistance on program-related matters; b. Performing site visits to review the subrecipient's program operations; and c. Arranging for agreed-upon-procedures engagements as described in 2 Code of Federal Regulations, section 200.425.
+7. Verify that a subrecipient is audited as required by 2 Code of Federal Regulations, part 200, subpart F.
+
+8. Consider whether the results of a subrecipient's audit, site visits, or other monitoring necessitate adjustments to the pass-through entity's records.
+9. Consider taking enforcement action against noncompliant subrecipients as described in 2 Code of Federal Regulations, section 200.339 and in program regulations.
+XI. CONFLICT OF INTEREST
+A. Standards of Conduct
+The school district will maintain written standards of conduct covering conflict of interest and governing the actions of its employees engaged in the selection, award and administration of contracts.
+B. No employee, officer, agent, or board member may participate in the selection, award, or administration of a contract supported by a federal award if he or she has a real or apparent conflict of interest. Such a conflict of interest would arise when the employee, officer, agent, or board member, any member of his or her immediate family, his or her partner, or an organization which employs or is about to employ any of the parties indicated herein, has a financial or other interest in or a tangible personal benefit from a firm considered for a contract. The employees, officers, agents, and board members of the school district may neither solicit nor accept gratuities, favors, or anything of monetary value from contractors or parties to subcontracts. However, the school district may set standards for situations in which the financial interest is not substantial or the gift is an unsolicited item of nominal value. The standards of conduct must provide for disciplinary actions to be applied for violations of such standards by employees, officers, agents, or board members of the school district. Disciplinary actions may be undertaken pursuant to the school district's Discipline, Suspension, and Dismissal of School Employees policy.
+The school district's Conflict of Interest policies and procedures provide additional measures regarding conflicts of interest.
+[Note: The Minnesota Department of Education confirmed that the "written standards of conduct" required under 2 Code of Federal Regulations, section
+200.318(c)(1) may appear in this policy, another policy and/or in an employee handbook. School boards may decide whether to adopt this section or address written standards of conduct elsewhere.]
+C. Organizational Conflicts of Interest
+If the school district has a parent, affiliate, or subsidiary organization that is not a state, local government, or Indian tribe, the school district must maintain written standards concerning organizational conflicts of interest. Organizational conflicts of interest means that because of relationships with a parent company, affiliate, or subsidiary organization, the school district is unable or appears to be unable to be impartial in conducting a procurement action involving the related organization.
+
+D. Disclosing Conflicts of Interest
+The school district will disclose in writing any potential conflict of interest to MDE in accordance with established federal agency policies.
+Legal References: Minn. Stat. § 15.054 (Sale or Purchase of State Property; Penalty)
+Minn. Stat. § 16C.28 (Contracts; Awards)
+Minn. Stat. § 118A.01-.06 (Deposit and Investment of Local Public Funds)
+Minn. Stat. § 123B.52 (Contracts)
+Minn. Stat. § 471.345 (Uniform Municipal Contracting Law)
+Minn. Stat. § 471.38 (Claims)
+Minn. Stat. § 471.391 (Declaration Form)
+Minn. Stat. § 471.392 (Penalty)
+Minn. Stat. § 471.425 (Prompt Payment of Local Government Bills)
+18 U.S.C. (Crimes and Criminal Procedures)
+31 U.S.C. §§ 3729-3733 (False Claims)
+2 C.F.R. § 180.215 (Which Nonprocurement Transactions are Not Covered
+Transactions)
+2 C.F.R. § 180.300 (What Must I Do before I Enter Into a Covered Transaction with Another Person at the Next Lower Tier?)
+2 C.F.R. 200 Subpart E (Cost Principles)
+2 C.F.R. 200 Subpart F (Audit Requirements)
+2 C.F.R. § 200.1 (Definitions)
+2 C.F.R. § 200.101 (Applicability)
+2 C.F.R. § 200.112 (Conflict of Interest)
+2 C.F.R. § 200.113 (Mandatory Disclosures)
+2 C.F.R. § 200.205(d) (Federal Awarding Agency Review of Merit of Proposals)
+2 C.F.R. § 200.208 (Specific Conditions)
+2 C.F.R. § 200.2124 (Suspension and Debarment)
+2 C.F.R. § 200.300(b) (Statutory and National Policy Requirements)
+2 C.F.R. § 200.302 (Financial Management)
+2 C.F.R. § 200.303 (Internal Controls)
+2 C.F.R. § 200.305(b)(1) (Federal Payment)
+2 C.F.R. § 200.310 (Insurance Coverage)
+2 C.F.R. § 200.311 (Real Property)
+2 C.F.R. § 200.312 (Federally-owned and Exempt Property)
+2 C.F.R. § 200.313(d) (Equipment)
+2 C.F.R. § 200.314 (Supplies)
+2 C.F.R. § 200.315 (Intangible Property)
+2 C.F.R. § 200.318 (General Procurement Standards)
+2 C.F.R. § 200.319 (Competition)
+2 C.F.R. § 200.320 (Methods of Procurement to be Followed)
+2 C.F.R. § 200.321 (Contracting with Small and Minority Businesses, Women's
+Business Enterprises, and Labor Surplus Area Firms)
+2 C.F.R. § 200.328 (Financial Reporting)
+2 C.F.R. § 200.332 (Requirements for Pass-Through Entities)
+2 C.F.R. § 200.339 (Remedies for Noncompliance)
+2 C.F.R. § 200.403(c) (Factors Affecting Allowability of Costs)
+
+2 C.F.R. § 200.413 (Direct Costs)
+2 C.F.R. § 200.414 (Indirect Costs)
+2 C.F.R. § 200.415 (Required Certifications)
+2 C.F.R. § 200.425 (Audit Services)
+2 C.F.R. § 200.430 (Compensation - Personal Services)
+2 C.F.R. § 200.431 (Compensation - Fringe Benefits)
+2 C.F.R. § 200.447 (Insurance and Indemnification)
+2 C.F.R. § 200.463 (Recruiting Costs)
+2 C.F.R. § 200.464 (Relocation Costs of Employees)
+2 C.F.R. § 200.473 (Transportation Costs)
+2 C.F.R. § 200.474 (Travel Costs)
+2 C.F.R. § 200.513 (Responsibilities)
+2 C.F.R. § 200.521 (Management Decisions)
+45 C.F.R. § 75.2 (Definitions)
+45 C.F.R. § 75.317 (Insurance Coverage)
+45 C.F.R. § 75.320 (Equipment)
+48 C.F.R. Subpart 2.1 (Definitions)
+Cross References: MSBA/MASA Model Policy 208 (Development, Adoption, and Implementation of Policies)
+MSBA/MASA Model Policy 210 (Conflict of Interest - School Board Members)
+MSBA/MASA Model Policy 412 (Expense Reimbursement)
+MSBA/MASA Model Policy 701 (Establishment and Adoption of School District
+Budget)
+MSBA/MASA Model Policy 701.1 (Modification of School District Budget)
+MSBA/MASA Model Policy 702 (Accounting)
+MSBA/MASA Model Policy 703 (Annual Audit)
+RAS Policy 102.1 - Equity
+Resources: Minnesota Department of Education (MDE): Procurement Handbook [January 8,
+2025] (accessed 01/07/26)
+MDE: Competitive Proposal Method [April 2020] (accessed 01/07/26)
+Office of Management and Budget: OMB Guidance for Federal Financial
+Assistance (Uniform Guidance) (accessed 02/20/26)
+U.S. DOE: Education Department General Administrative Regulations (EDGAR)
+and Other Applicable Grant Regulations (accessed 01/09/26)
+U.S. DOE: Uniform Administrative Requirements, Cost Principles, and Audit
+Requirements for Federal Awards (accessed 01/09/26)

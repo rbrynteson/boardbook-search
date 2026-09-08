@@ -1,0 +1,158 @@
+Independent School District 281
+Robbinsdale Area Schools
+Reviewed, Revised: July 2025
+Approved: September 23, 2025
+Reviewed, Revised: August 2026
+Approved: (enter date here)
+722 POLICY - PUBLIC DATA AND DATA SUBJECTS REQUESTS
+I. PURPOSE
+The purpose of this policy is to comply with the requirements of the Minnesota Government Data
+Practices Act, Minn. Stat. Ch. 13 (MGDPA), and Minn. Rules Parts 1205.0100-1205.2000 in responding to requests for public data.
+II. GENERAL STATEMENT OF PROCEDURE
+A. The school district recognizes its responsibility relative to the collection, maintenance, and dissemination of public data as provided in state statutes.
+B. All requests for public data must be made in writing directed to the responsible
+Authority.
+C. The responsible authority will respond to a data request in a timely manner.
+III. DEFINITIONS
+Many of the terms used in Policy 722 are defined in the Minnesota Government Data Practices
+Act, Minn. Stat. Ch. 13.02. To the extent there are terms used in the Policy which are not defined in the Minnesota Government Data Practices Act, and/or are specific to the educational setting, they are included below:
+A. Confidential Data on Individuals
+Data made not public by statute or federal law applicable to the data and are inaccessible to the individual subject of those data.
+B. Data on Individuals
+All government data in which any individual is or can be identified as the subject of that data, unless the appearance of the name or other identifying data can be clearly demonstrated to be only incidental to the data and the data are not accessed by the name or other identifying data of any individual.
+C. Data Practices Compliance Officer
+The data practices compliance official is the designated employee of the school district to whom persons may direct questions or concerns regarding problems in obtaining access to
+
+data or other data practices problems. The responsible authority may be the data practices compliance official
+D. Government Data
+All data collected, created, received, maintained or disseminated by any government entity regardless of its physical form, storage media or conditions of use.
+E. Individual
+"Individual" means a natural person. In the case of a minor or an incapacitated person as defined in Minnesota Statutes section 524.5-102, subdivision 6, "individual" includes a parent or guardian or an individual acting as a parent or guardian in the absence of a parent or guardian, except that the responsible authority shall withhold data from parents or guardians, or individuals acting as parents or guardians in the absence of parents or guardians, upon request by the minor if the responsible authority determines that withholding the data would be in the best interest of the minor.
+F. Inspection
+"Inspection" means the visual inspection of paper and similar types of government data.
+Inspection does not include printing copies by the school district, unless printing a copy is the only method to provide for inspection of the data. For data stored in electronic form and made available in electronic form on a remote access basis to the public by the school district, inspection includes remote access to the data by the public and the ability to print copies of or download the data on the public's own computer equipment.
+G. Not Public Data
+Any government data classified by statute, federal law, or temporary classification as confidential, private, nonpublic, or protected nonpublic.
+H. Nonpublic Data
+Data not on individuals made by statute or federal law applicable to the data: (a) not accessible to the public; and (b) accessible to the subject, if any, of the data.
+I. Private Data on Individuals
+Data made by statute or federal law applicable to the data: (a) not public; and (b) accessible to the individual subject of those data.
+J. Protected Nonpublic Data
+Data not on individuals made by statute or federal law applicable to the data (a) not public and (b) not accessible to the subject of the data.
+K. Public Data
+
+All government data collected, created, received, maintained, or disseminated by the school district, unless classified by statute, temporary classification pursuant to statute, or federal law, as nonpublic or protected nonpublic; or, with respect to data on individuals, as private or confidential.
+L. Public Data Not on Individuals
+Data accessible to the public pursuant to Minnesota Statutes section 13.03.
+M. Public Data on Individuals
+Data accessible to the public in accordance with the provisions of section 13.03.
+N. Responsible Authority
+The individual designated by the school board as the individual responsible for the collection, use, and dissemination of any set of data on individuals, government data, or summary data, unless otherwise provided by state law. Until an individual is designated by the school board, the responsible authority is the superintendent.
+O. Summary Data
+Statistical records and reports derived from data on individuals but in which individuals are not identified and from which neither their identities nor any other characteristic that could uniquely identify an individual is ascertainable. Unless classified pursuant to Minnesota
+Statutes section 13.06, another statute, or federal law, summary data is public.
+IV. REQUESTS FOR PUBLIC DATA
+A. All requests for public data must be made in writing directed to the responsible authority.
+1. A request for public data must include the following information:
+a. Date the request is made; b. A clear description of the data requested; c. Identification of the form in which the data is to be provided (e.g., inspection, copying, both inspection and copying, etc.); and d. Method to contact the requestor (such as phone number, address, or email address).
+2. Unless specifically authorized by statute, the school district may not require persons to identify themselves, state a reason for, or justify a request to gain access to public government data. A person may be asked to provide certain identifying or clarifying information for the sole purpose of facilitating access to the data.
+3. The identity of the requestor is public, if provided, but cannot be required by the
+
+government entity.
+4. The responsible authority may seek clarification from the requestor if the request is not clear before providing a response to the data request.
+B. The responsible authority will respond to a data request at reasonable times and places as follows:
+1. The responsible authority will notify the requestor in writing as follows:
+a. The requested data does not exist; or b. The requested data does exist but either all or a portion of the data is not accessible to the requestor; or
+(1) If the responsible authority determines that the requested data is classified so that access to the requestor is denied, the responsible authority will inform the requestor of the determination in writing, as soon thereafter as possible, and shall cite the specific statutory section, temporary classification, or specific provision of federal law on which the determination is based.
+(2) Upon the request of a requestor who is denied access to data, the responsible authority shall certify in writing that the request has been denied and cite the specific statutory section, temporary classification, or specific provision of federal law upon which the denial was based.
+c. The requested data does exist and provide arrangements for inspection of the data, identify when the data will be available for pick-up, or indicate that the data will be sent by mail. If the requestor does not appear at the time and place established for inspection of the data or the data is not picked up within ten (10) business days after the requestor is notified, the school district will conclude that the data is no longer wanted and will consider the request closed.
+2. The school district's response time may be affected by the size and complexity of the particular request, including necessary redactions of the data, and also by the number of requests made within a particular period of time.
+3. The school district will provide an explanation of technical terminology, abbreviations, or acronyms contained in the responsive data on request.
+4. The school district is not required by the MGDPA to create or collect new data in response to a data request, or to provide responsive data in a specific form or arrangement if the school district does not keep the data in that form or arrangement.
+
+5. The school district is not required to respond to questions that are not about a particular data request or requests for data in general.
+V. REQUEST FOR SUMMARY DATA
+A. A request for the preparation of summary data shall be made in writing directed to the responsible authority.
+1. A request for the preparation of summary data must include the following information:
+a. Date the request is made; b. A clear description of the data requested; c. Identify the form in which the data is to be provided (e.g., inspection, copying, both inspection and copying, etc.); and d. Method to contact requestor (phone number, address, or email address).
+B. The responsible authority will respond within ten (10) business days of the receipt of a request to prepare summary data and inform the requestor of the following:
+1. The estimated costs of preparing the summary data, if any; and
+2. The summary data requested; or
+3. A written statement describing a time schedule for preparing the requested summary data, including reasons for any time delays; or
+4. A written statement describing the reasons why the responsible authority has determined that the requestor's access would compromise the private or confidential data.
+C. The school district may require the requestor to pre-pay all or a portion of the cost of creating the summary data before the school district begins to prepare the summary data.
+VI. DATA BY ABOUT AN INDIVIDUAL DATA SUBJECT
+A. Collection and storage of all data on individuals and the use and dissemination of private and confidential data on individuals shall be limited to that necessary for the administration and management of programs specifically authorized by the legislature or local governing body or mandated by the federal government.
+B. Private or confidential data on an individual shall not be collected, stored, used, or disseminated by the school district for any purposes other than those stated to the individual at the time of collection in accordance with Minnesota Statutes section 13.04, except as provided in Minnesota Statutes section 13.05, subdivision 4.
+
+C. Upon request to the responsible authority or designee, an individual shall be informed whether the individual is the subject of stored data on individuals, and whether it is classified as public, private or confidential. Upon further request, an individual who is the subject of stored private or public data on individuals shall be shown the data without any charge and, if desired, shall be informed of the content and meaning of that data.
+D. After an individual has been shown the private data and informed of its meaning, the data need not be disclosed to that individual for six months thereafter unless a dispute or action pursuant to this section is pending or additional data on the individual has been collected or created.
+E. The responsible authority or designee shall provide copies of the private or public data upon request by the individual subject of the data. The responsible authority or designee may require the requesting person to pay the actual costs of making and certifying the copies.
+F. The responsible authority or designee shall comply immediately, if possible, with any request made pursuant to this subdivision, or within ten days of the date of the request, excluding Saturdays, Sundays and legal holidays, if immediate compliance is not possible.
+G. An individual subject of the data may contest the accuracy or completeness of public or private data. To exercise this right, an individual shall notify in writing the responsible authority describing the nature of the disagreement. The responsible authority shall within
+30 days either: (1) correct the data found to be inaccurate or incomplete and attempt to notify past recipients of inaccurate or incomplete data, including recipients named by the individual; or (2) notify the individual that the authority believes the data to be correct.
+Data in dispute shall be disclosed only if the individual's statement of disagreement is included with the disclosed data.
+H. The determination of the responsible authority may be appealed pursuant to the provisions of the Administrative Procedure Act relating to contested cases. Upon receipt of an appeal by an individual, the commissioner shall, before issuing the order and notice of a contested case hearing required by Minnesota Statutes chapter 14, try to resolve the dispute through education, conference, conciliation, or persuasion. If the parties consent, the Commissioner of Education may refer the matter to mediation. Following these efforts, the commissioner shall dismiss the appeal or issue the order and notice of hearing.
+I. Data on individuals that have been successfully challenged by an individual must be completed, corrected, or destroyed by a government entity without regard to the requirements of Minnesota Statutes section 138.17.
+J. After completing, correcting, or destroying successfully challenged data, the school district may retain a copy of the commissioner of administration's order issued under Minnesota
+Statutes chapter 14 or, if no order were issued, a summary of the dispute between the parties that does not contain any particulars of the successfully challenged data.
+VII. REQUESTS FOR DATA BY AN INDIVIDUAL SUBJECT OF THE DATA
+
+A. All requests for individual subject data must be made in writing directed to the responsible authority.
+B. A request for individual subject data must include the following information:
+1. Statement that one is making a request as a data subject for data about the individual or about a student for whom the individual is the parent or guardian;
+2. Date the request is made;
+3. A clear description of the data requested;
+4. Proof that the individual is the data subject or the data subject's parent or guardian;
+5. Identification of the form in which the data is to be provided (e.g., inspection, copying, both inspection and copying, etc.); and
+6. Method to contact the requestor (such as phone number, address, or email address).
+C. The identity of the requestor of private data is private.
+D. The responsible authority may seek clarification from the requestor if the request is not clear before providing a response to the data request.
+E. Policy 515 (Protection and Privacy of Pupil Records) addresses requests of students or their parents for educational records and data
+VIII. COSTS
+A. Public Data
+1. The school district will charge for copies provided as follows:
+a. 100 or fewer pages of black and white, letter or legal sized paper copies will be charged at 25 cents for a one-sided copy or 50 cents for a two-sided copy.
+b. More than 100 pages or copies on other materials are charged based upon the actual cost of searching for and retrieving the data and making the copies or electronically sending the data, unless the cost is specifically set by statute or rule.
+(1) The actual cost of making copies includes employee time, the cost of the materials onto which the data is copied (paper, CD, DVD, etc.), and mailing costs (if any).
+(2) Also, if the school district does not have the capacity to make the copies, e.g., photographs, the actual cost paid by the school district
+
+to an outside vendor will be charged.
+2. All charges must be paid for in cash or check in advance of receiving the copies.
+B. Summary Data
+1. Any costs incurred in the preparation of summary data shall be paid by the requestor prior to preparing or supplying the summary data.
+2. The school district may assess costs associated with the preparation of summary data as follows:
+a. The cost of materials, including paper, the cost of the labor required to prepare the copies, any schedule of standard copying charges established by the school district, any special costs necessary to produce such copies from a machine-based recordkeeping system, including computers and microfilm systems; b. The school district may consider the reasonable value of the summary data prepared and, where appropriate, reduce the costs assessed to the requestor.
+C. Data Belonging to an Individual Subject
+1. The responsible authority or designee may require the requesting person to pay the actual costs of making and certifying the copies.
+The responsible authority shall not charge the data subject any fee in those instances where the data subject only desires to view private data.
+The responsible authority or designee may require the requesting person to pay the actual costs of making and certifying the copies. Based on the factors set forth in
+Minnesota Rule 1205.0300, subpart 4, the school district determines that a reasonable fee would be the charges set forth in section VIII.A of this policy that apply to requests for data by the public.
+2. The school district may not charge a fee to search for or to retrieve educational records of a child with a disability by the child's parent or guardian or by the child upon the child reaching the age of majority.
+IX. SAFE AT HOME PARTICIPANTS AND DATA PRIVACY
+Prohibition of Discrimination
+The school district must not, on the basis of an individual's status as an Address Confidentiality
+Program participant where a reasonable person, considering all the circumstances, would conclude that the refusal, different terms or requirements, or other action was motivated by the individual's status as a program participant rather than by a legitimate, nondiscriminatory business purpose, safety or operational concern, or a requirement of federal or state law:
+
+A. refuse to provide education services to an individual;
+B. provide services to an individual on different terms or with different requirements than an individual who is not a program participant; or
+C. otherwise discriminate against an individual.
+X. ANNUAL REVIEW AND POSTING
+A. The responsible authority shall prepare a written data access policy and a written policy for the rights of data subjects (including specific procedures the school district uses for access by the data subject to public or private data on individuals). The responsible authority shall update the policies no later than August 1 of each year, and at any other time as necessary to reflect changes in personnel, procedures, or other circumstances that impact the public's ability to access data.
+B. Copies of the policies shall be easily available to the public by distributing free copies to the public or by posting the policies in a conspicuous place within the school district that is easily accessible to the public or by posting them on the school district's website.
+Data Practices Contacts Responsible Authority:
+Amy O'Hern, Executive Director Human Resources
+Education Service Center | 4148 Winnetka Ave N, New Hope, MN 55427
+763-504-8014 | amy_ohern@rdale.org
+Legal References: Minn. Stat. Ch. 13 (Minnesota Government Data Practices Act)
+Minn. Stat. § 13.01 (Government Data)
+Minn. Stat. § 13.02 (Definitions)
+Minn. Stat. § 13.025 (Government Entity Obligation)
+Minn. Stat. § 13.03 (Access to Government Data)
+Minn. Stat. § 13.04 (Rights of Subjects to Data)
+Minn. Stat. § 13.05 (Duties of Responsible Authority)
+Minn. Stat. § 13.32 (Educational Data)
+Minn. Rules Part 1205.0300 (Access to Public Data)
+Minn. Rules Part 1205.0400 (Access to Private Data)
+Cross References: MSBA/MASA Model Policy 406 (Public and Private Personnel Data)
+MSBA/MASA Model Policy 515 (Protection and Privacy of Pupil Records)

@@ -1,0 +1,23 @@
+name: CI
+
+# Fast checks that do not touch the live BoardBook site: the parsers are
+# exercised against committed HTML fixtures instead.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['data/**', 'docs/**', '**.md']
+  pull_request:
+    paths-ignore: ['data/**']
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm test

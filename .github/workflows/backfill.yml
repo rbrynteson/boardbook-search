@@ -1,0 +1,94 @@
+name: Backfill archive
+
+# The first pass over a full BoardBook archive takes many hours: ISD 281 alone
+# has ~1,100 meetings going back to 2010, and the scraper deliberately waits
+# between requests. This workflow does that work in bounded, resumable chunks.
+#
+# Run it manually, repeatedly. Each run picks up where the last one stopped
+# (data/state.json records what has already been extracted) and commits the
+# text it managed to gather. Re-run until the summary reports nothing new.
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_seconds:
+        description: 'Wall-clock budget for this chunk (seconds; keep under ~19000)'
+        type: string
+        default: '18000'
+      attachments_since:
+        description: 'Only fetch attachment PDFs for meetings on/after this date (YYYY-MM-DD). Blank uses config/org.json.'
+        type: string
+        default: ''
+      months:
+        description: 'Only consider meetings from the last N months. Blank means the whole archive. Use e.g. 6 for a smoke test.'
+        type: string
+        default: ''
+      skip_documents:
+        description: 'Metadata only: index agenda items and skip all PDF downloads'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: boardbook-index
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install OCR tooling
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-eng
+
+      - run: npm ci
+
+      - name: Scrape chunk
+        env:
+          BOARDBOOK_OCR: '1'
+          BOARDBOOK_USER_AGENT: >-
+            BoardBookSearchBot/0.1 (+https://github.com/${{ github.repository }};
+            public records indexing)
+          BOARDBOOK_ATTACHMENTS_SINCE: ${{ inputs.attachments_since }}
+          MAX_SECONDS: ${{ inputs.max_seconds }}
+          MONTHS: ${{ inputs.months }}
+          SKIP_DOCUMENTS: ${{ inputs.skip_documents }}
+        run: |
+          # Assemble arguments in the shell: interpolating conditionals into a
+          # line-continuation leaves a dangling backslash when one is empty.
+          args=( "--max-seconds=$MAX_SECONDS" )
+          [ -n "$MONTHS" ] && args+=( "--months=$MONTHS" )
+          [ "$SKIP_DOCUMENTS" = 'true' ] && args+=( --skip-documents )
+          echo "scrape args: ${args[*]}"
+          node src/cli/scrape.js "${args[@]}"
+
+      - name: Build and report
+        run: |
+          npm run build
+          node src/cli/stats.js
+
+      - name: Commit progress
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/state.json data/meetings.json data/text
+          if git diff --cached --quiet; then
+            echo '::notice::No new documents. The backfill looks complete.'
+          else
+            git commit -m "chore: backfill chunk ($(date -u +%Y-%m-%dT%H:%M))"
+            git pull --rebase --autostash origin ${{ github.ref_name }}
+            git push
+            echo '::notice::Chunk committed. Run this workflow again to continue.'
+          fi

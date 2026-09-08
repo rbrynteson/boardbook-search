@@ -1,0 +1,96 @@
+Thank you for choosing CDW. We have received your quote.
+Hardware Software Services IT Solutions Brands Research Hub
+QUOTE CONFIRMATION
+Pricing and Availability Notice
+Due to ongoing supply chain challenges, some hardware manufacturers cannot guarantee product availability or pricing until the product is shipped. While we make every effort to honor quoted pricing, if a hardware manufacturer increases its price to CDW after a quote is issued or order is accepted, we may need to update your quoted price to reflect that change irrespective of any timeframes or validity periods set forth in the quote, including up to the date of shipment. In the event of a price adjustment, we will notify you prior to shipment. Any price adjustment would only occur if the hardware manufacturer increases its pricing to CDW.
+JOEL MEHRING,
+Thank you for considering CDW•G for your technology needs. The details of your quote are below. If you are an eProcurement or single sign on customer, please log into your system to access the CDW site. You can search for your quote to retrieve and transfer back into your system for processing.
+For all other customers, click below to convert your quote to an order.
+This quote is subject to CDW's Third Party Cloud Services Order Form Terms and Conditions set forth at https://www.cdwg.com/content/cdwg/en/terms-conditions/third-party-cloud-services-order-form-term s-and-conditions-.html
+Convert Quote to Order
+QUOTE # QUOTE DATE QUOTE REFERENCE
+CUSTOMER # GRAND TOTAL
+PTNW726 2/19/2026 TERM: 2026-07-01 - 1491590 $294,027.11
+2027-06-30
+QUOTE DETAILS
+ITEM QTY CDW# UNIT PRICE EXT. PRICE
+Arctic Wolf Managed Detection and Response - remote 600 6797818 $17.96 $10,776.00
+monitoring
+Mfg. Part#: AW-MDR-LTDUSER
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923 CDWG-Software (121923)
+Arctic Wolf MDR G Suite User License 5100 5765821 $8.85 $45,135.00
+Mfg. Part#: AW-MDR-GSU
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923 CDWG-Software (121923)
+Arctic Wolf Platform Base Platform - remote monitoring 1 7040196 $0.01 $0.01
+Mfg. Part#: AW-PLATFORM-BASE
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923 CDWG-Software (121923)
+ARCTIC WOLF MGD AWARENESS CLD 1200 6551659 $13.47 $16,164.00
+Mfg. Part#: AW-MSAT-MA
+Electronic distribution - NO MEDIA
+
+QUOTE DETAILS (CONT.)
+Contract: Sourcewell 121923 CDWG-Software (121923)
+Arctic Wolf 1000 Series 4x10G Sensor 2 6415126 $5,255.00 $10,510.00
+Mfg. Part#: AW-MDR-10XX-S-10GF
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923 CDWG-Software (121923)
+Arctic Wolf MDR Log Retention 1558 6124471 $5.66 $8,818.28
+Mfg. Part#: AW-MDR-1YR
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923 CDWG-Software (121923)
+Arctic Wolf Managed Risk CSPM Azure License 1 6259938 $5.90 $5.90
+Mfg. Part#: AW-MR-AZR-CSPM
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923 CDWG-Software (121923)
+Arctic Wolf Total User License - Gold 1500 7971933 $130.05 $195,075.00
+Mfg. Part#: AW-TOTAL-USER-GOLD
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923 CDWG-Software (121923)
+Arctic Wolf Total Server License - Gold 58 7971934 $130.05 $7,542.90
+Mfg. Part#: AW-TOTAL-SERVER-GOLD
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923 CDWG-Software (121923)
+Arctic Wolf Security Operations Warranty Total - 3 Year 1 7970671 $0.01 $0.01
+Mfg. Part#: AW-WARRANTY-1500
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923-CDWG Tech Catalog (121923)
+ARCTIC WOLF 36MO COMMITTED TERM 1 9030795 $0.01 $0.01
+Mfg. Part#: AW-36MO-COMMIT
+Electronic distribution - NO MEDIA
+Contract: Sourcewell 121923-CDWG Tech Catalog (121923)
+These services are considered Third Party Services, and this purchase is subject to CDW's Third Party Cloud Services Terms and Conditions, unless you have a written agreement with CDW covering your purchase of products and services, in which case this purchase is subject to such other written agreement.
+The third-party Service Provider will provide these services directly to you pursuant to the Service Provider's standard terms and conditions or such other terms as agreed upon directly between you and the Service Provider. The Service Provider, not CDW, will be responsible to you for delivery and performance of these services. Except as otherwise set forth in the Service Provider's agreement, these services are non-cancellable, and all fees are non-refundable.
+SUBTOTAL $294,027.11
+
+SHIPPING $0.00
+SALES TAX $0.00
+$294,027.11
+GRAND TOTAL
+PURCHASER BILLING INFO DELIVER TO
+Billing Address: Shipping Address:
+ROBBINSDALE INDEP SCHOOL
+ROBBINSDALE PUBLIC SCHOOLS
+EDUCATION SERVI
+ESC - JOEL MEHRING
+4148 WINNETKA AVE N 4148 WINNETKA AVE N
+NEW HOPE, MN 55427-1288
+NEW HOPE, MN 55427-1288
+Phone: (763) 504-8052
+Shipping Method: ELECTRONIC DISTRIBUTION
+Payment Terms: NET 30 Days-Govt/Ed
+Please remit payments to:
+CDW Government
+75 Remittance Drive
+Suite 1515
+Chicago, IL 60675-1515
+Sales Contact Info
+Mayank Srivastava | (866) 626-8519 | mayasri@cdw.com
+Need Help?
+My Account Support Call 800.800.4239
+About Us | Privacy Policy | Terms and Conditions
+This order is subject to CDW's Terms and Conditions of Sales and Service Projects at http://www.cdwg.com/content/terms-conditions/product-sales.aspx
+For more information, contact a CDW account manager.
+© 2026 CDW•G LLC, 200 N. Milwaukee Avenue, Vernon Hills, IL 60061 | 800.808.4239

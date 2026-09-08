@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Board Document Search</title>
+<meta name="description" content="Full-text search across public school board meeting agendas, minutes and packets." />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<a class="skip" href="#q">Skip to search</a>
+
+<header class="masthead">
+  <div class="wrap">
+    <h1 id="site-title">Board Document Search</h1>
+    <p id="site-tagline" class="tagline">Loading search index&hellip;</p>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+  <form id="search-form" role="search" autocomplete="off">
+    <div class="searchbar">
+      <input id="q" name="q" type="search" enterkeyhint="search"
+             placeholder="Search agendas, minutes and packets…"
+             aria-label="Search board documents" disabled />
+      <button id="go" type="submit" disabled>Search</button>
+    </div>
+
+    <div class="filters" id="filters" hidden>
+      <label>Year
+        <select id="f-year"><option value="">Any</option></select>
+      </label>
+      <label>Type
+        <select id="f-kind">
+          <option value="">Everything</option>
+          <option value="agenda_item">Agenda items</option>
+          <option value="attachment">Attachments</option>
+          <option value="minutes">Minutes</option>
+        </select>
+      </label>
+      <label>Sort
+        <select id="f-sort">
+          <option value="rank">Best match</option>
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+        </select>
+      </label>
+      <button type="button" id="reset" class="linkish">Reset</button>
+    </div>
+  </form>
+
+  <noscript>
+    <p class="status error">This search runs in your browser and needs JavaScript enabled.
+    The original documents are always available directly on BoardBook.</p>
+  </noscript>
+
+  <p id="status" class="status" role="status" aria-live="polite">Downloading the search index&hellip;</p>
+
+  <section id="results" aria-label="Search results"></section>
+
+  <nav id="pager" class="pager" hidden>
+    <button type="button" id="more">Show more results</button>
+  </nav>
+
+  <section id="tips" class="tips">
+    <h2>Search tips</h2>
+    <ul>
+      <li><code>bond referendum</code> &mdash; documents containing both words.</li>
+      <li><code>"roll call vote"</code> &mdash; an exact phrase.</li>
+      <li><code>budget OR levy</code> &mdash; either word.</li>
+      <li><code>transport*</code> &mdash; prefix match (transportation, transported&hellip;).</li>
+      <li><code>budget -referendum</code> &mdash; exclude a word. <code>NOT</code> works too.</li>
+      <li><code>budget -"superintendent board report"</code> &mdash; exclude a whole phrase.</li>
+      <li><code>budget -title:"board report"</code> &mdash; exclude only by document title,
+          so documents that merely mention it are kept.</li>
+    </ul>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p id="foot-meta"></p>
+    <p class="fineprint">
+      This is an independent, open-source index of public meeting records. It is not affiliated with
+      or endorsed by BoardBook or the district. Documents are linked back to their original source;
+      the originals are always authoritative.
+    </p>
+  </div>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
