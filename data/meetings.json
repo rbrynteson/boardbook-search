@@ -2,7 +2,7 @@
   "orgId": "964",
   "orgName": "Robbinsdale Area Schools (ISD 281)",
   "baseUrl": "https://meetings.boardbook.org",
-  "generatedAt": "2026-09-09T00:24:51.934Z",
+  "generatedAt": "2026-09-11T17:15:02.433Z",
   "attachmentsSinceDate": "2023-01-01",
   "meetings": [
     {
@@ -2257,7 +2257,7 @@
       "location": "Education Service Center Boardroom, 4148 Winnetka Ave N, New Hope, MN 55427",
       "body": "board",
       "agendaUrl": "https://meetings.boardbook.org/Public/Agenda/964?meeting=756333",
-      "minutesUrl": null,
+      "minutesUrl": "https://meetings.boardbook.org/Public/Minutes/964?meeting=756333",
       "packetUrl": "https://meetings.boardbook.org/Public/DownloadAgenda/964?meeting=756333",
       "items": [
         {
@@ -2393,7 +2393,13 @@
           "order": 10
         }
       ],
-      "minutes": null,
+      "minutes": {
+        "kind": "html",
+        "title": "Minutes",
+        "url": "https://meetings.boardbook.org/Public/Minutes/964?meeting=756333",
+        "fileId": null,
+        "textKey": "minutes-756333"
+      },
       "documentsIndexed": true
     },
     {
@@ -7118,7 +7124,7 @@
       ],
       "minutes": {
         "kind": "pdf",
-        "title": "May 11, 2026 at 6:00 PM - Study Session",
+        "title": "Minutes",
         "url": "https://meetings.boardbook.org/Public/Minutes/964?meeting=743187",
         "fileId": "4448296",
         "textKey": "4448296"
