@@ -2,7 +2,7 @@
   "orgId": "964",
   "orgName": "Robbinsdale Area Schools (ISD 281)",
   "baseUrl": "https://meetings.boardbook.org",
-  "generatedAt": "2026-09-18T17:13:01.864Z",
+  "generatedAt": "2026-09-25T17:58:25.437Z",
   "attachmentsSinceDate": "2023-01-01",
   "meetings": [
     {
@@ -376,11 +376,11 @@
               "indexed": true
             },
             {
-              "fileId": "14437974",
-              "name": "Summer Programming 2026_presentation 9-22-26",
+              "fileId": "14460855",
+              "name": "Summer Programming 2026_presentation",
               "kind": "pdf",
-              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14437974",
-              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14437974?org=964",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14460855",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14460855?org=964",
               "indexed": true
             }
           ],
@@ -882,6 +882,14 @@
               "kind": "pdf",
               "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14421125",
               "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14421125?org=964",
+              "indexed": true
+            },
+            {
+              "fileId": "14460213",
+              "name": "Superintendent's Board Report 09.22.26",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14460213",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14460213?org=964",
               "indexed": true
             }
           ],
