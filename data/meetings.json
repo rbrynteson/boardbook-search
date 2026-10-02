@@ -2,9 +2,614 @@
   "orgId": "964",
   "orgName": "Robbinsdale Area Schools (ISD 281)",
   "baseUrl": "https://meetings.boardbook.org",
-  "generatedAt": "2026-09-25T17:58:25.437Z",
+  "generatedAt": "2026-10-02T18:35:20.693Z",
   "attachmentsSinceDate": "2023-01-01",
   "meetings": [
+    {
+      "meetingId": "768354",
+      "title": "October 5, 2026 at 7:00 PM - Business Meeting",
+      "name": "Business Meeting",
+      "date": "2026-10-05",
+      "time": "7:00 PM",
+      "meetingType": "Regular",
+      "cancelled": false,
+      "notes": "School Board Business Meeting\n\nDr. Kenneth Wutoh, School Board Vice Chair, will be attending this meeting remotely.",
+      "location": "Education Service Center Boardroom, 4148 Winnetka Ave N, New Hope, MN 55427",
+      "body": "board",
+      "agendaUrl": "https://meetings.boardbook.org/Public/Agenda/964?meeting=768354",
+      "minutesUrl": null,
+      "packetUrl": "https://meetings.boardbook.org/Public/DownloadAgenda/964?meeting=768354",
+      "items": [
+        {
+          "itemId": "18851958",
+          "parentId": "0",
+          "depth": 0,
+          "label": "1.",
+          "title": "Welcome",
+          "qualifier": "",
+          "presenter": "Dr. Greta Evans-Becker, School Board Chair",
+          "description": "",
+          "attachments": [],
+          "order": 0
+        },
+        {
+          "itemId": "18851959",
+          "parentId": "0",
+          "depth": 0,
+          "label": "2.",
+          "title": "Call to Order/Land Acknowledgement",
+          "qualifier": "5 minutes",
+          "presenter": "Dr. Greta Evans-Becker, School Board Chair",
+          "description": "",
+          "attachments": [],
+          "order": 1
+        },
+        {
+          "itemId": "18851960",
+          "parentId": "18851959",
+          "depth": 1,
+          "label": "2.A.",
+          "title": "Roll Call",
+          "qualifier": "",
+          "presenter": "ReNae Bowman, School Board Clerk",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14486112",
+              "name": "Call to Order - Roll Call - Business Meeting - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14486112",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14486112?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 2
+        },
+        {
+          "itemId": "18851961",
+          "parentId": "18851959",
+          "depth": 1,
+          "label": "2.B.",
+          "title": "Land Acknowledgement",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14452489",
+              "name": "RAS Land Acknowledgement",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14452489",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14452489?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 3
+        },
+        {
+          "itemId": "18851962",
+          "parentId": "0",
+          "depth": 0,
+          "label": "3.",
+          "title": "Approval of the Agenda",
+          "qualifier": "5 minutes, Roll Call Vote",
+          "presenter": "Dr. Greta Evans-Becker, School Board Chair",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14486125",
+              "name": "Approval of the Business Meeting Agenda - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14486125",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14486125?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 4
+        },
+        {
+          "itemId": "18851963",
+          "parentId": "0",
+          "depth": 0,
+          "label": "4.",
+          "title": "Rdale Proud",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 5
+        },
+        {
+          "itemId": "18898517",
+          "parentId": "18851963",
+          "depth": 1,
+          "label": "4.A.",
+          "title": "The Elementary Handbook Project",
+          "qualifier": "15 minutes",
+          "presenter": "Bridget Dooley, Principal of Northport Elementary\nMelissa Jackson, Principal of Forest Elementary\nJennifer Smith, Principal of FAIR School Pilgrim Lane",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14491291",
+              "name": "Rdale Proud - The Elementary Handbook Project - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491291",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491291?org=964",
+              "indexed": true
+            },
+            {
+              "fileId": "14491292",
+              "name": "Rdale Proud - Elementary Handbook - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491292",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491292?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 6
+        },
+        {
+          "itemId": "18905908",
+          "parentId": "0",
+          "depth": 0,
+          "label": "5.",
+          "title": "Special Report",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 7
+        },
+        {
+          "itemId": "18906015",
+          "parentId": "18905908",
+          "depth": 1,
+          "label": "5.A.",
+          "title": "Capital Projects Levy Report",
+          "qualifier": "15 minutes",
+          "presenter": "Maureen Mullen, Director of Facilities and Operations\nJoel VerDuin, Senior Director of Technology",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14491472",
+              "name": "Special Report - Capital Projects Levy Report - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491472",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491472?org=964",
+              "indexed": true
+            },
+            {
+              "fileId": "14491474",
+              "name": "Capital Projects Levy - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491474",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491474?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 8
+        },
+        {
+          "itemId": "18851964",
+          "parentId": "0",
+          "depth": 0,
+          "label": "6.",
+          "title": "Consent Agenda Items for Board Approval",
+          "qualifier": "5 minutes, Roll Call Vote",
+          "presenter": "",
+          "description": "Consent Agenda items are considered to be routine in nature and will be enacted by one motion. There will be no separate discussion of these items unless a Board member so requests, in which event the item will be removed as a Consent Agenda item and addressed. Consent Agenda items are as follows:",
+          "attachments": [
+            {
+              "fileId": "14491482",
+              "name": "Action - Consent Agenda - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491482",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491482?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 9
+        },
+        {
+          "itemId": "18851965",
+          "parentId": "18851964",
+          "depth": 1,
+          "label": "6.A.",
+          "title": "Administrative",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 10
+        },
+        {
+          "itemId": "18898530",
+          "parentId": "18851965",
+          "depth": 2,
+          "label": "6.A.1.",
+          "title": "2027 Health and Dental Insurance Renewal",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14486170",
+              "name": "2027 Health and Dental Insurance Renewal_10-5-26",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14486170",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14486170?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 11
+        },
+        {
+          "itemId": "18851966",
+          "parentId": "18851965",
+          "depth": 2,
+          "label": "6.A.2.",
+          "title": "Meeting Minutes",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14488561",
+              "name": "September 22, 2026 - Business Meeting Minutes (draft)",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14488561",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14488561?org=964",
+              "indexed": true
+            },
+            {
+              "fileId": "14488563",
+              "name": "September 22, 2026 - Study Session Summary Minutes (draft)",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14488563",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14488563?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 12
+        },
+        {
+          "itemId": "18851967",
+          "parentId": "18851964",
+          "depth": 1,
+          "label": "6.B.",
+          "title": "Financial Reports",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 13
+        },
+        {
+          "itemId": "18851968",
+          "parentId": "18851967",
+          "depth": 2,
+          "label": "6.B.1.",
+          "title": "Bi-Monthly Disbursement Report for October 6, 2026",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14489670",
+              "name": "Disbursements for 10-6-26",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14489670",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14489670?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 14
+        },
+        {
+          "itemId": "18851969",
+          "parentId": "18851964",
+          "depth": 1,
+          "label": "6.C.",
+          "title": "Personnel Reports",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 15
+        },
+        {
+          "itemId": "18851970",
+          "parentId": "18851969",
+          "depth": 2,
+          "label": "6.C.1.",
+          "title": "Licensed Staff Personnel Report",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14486175",
+              "name": "Licensed Staff Personnel Report_10-5-26",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14486175",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14486175?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 16
+        },
+        {
+          "itemId": "18851971",
+          "parentId": "18851969",
+          "depth": 2,
+          "label": "6.C.2.",
+          "title": "Non-Licensed Staff Personnel Report",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14486177",
+              "name": "Non-Licensed Staff Personnel Report_10-5-26",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14486177",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14486177?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 17
+        },
+        {
+          "itemId": "18851972",
+          "parentId": "0",
+          "depth": 0,
+          "label": "7.",
+          "title": "Unfinished Business",
+          "qualifier": "",
+          "presenter": "(None for this evening.)",
+          "description": "",
+          "attachments": [],
+          "order": 18
+        },
+        {
+          "itemId": "18851973",
+          "parentId": "0",
+          "depth": 0,
+          "label": "8.",
+          "title": "New Business",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 19
+        },
+        {
+          "itemId": "18899070",
+          "parentId": "18851973",
+          "depth": 1,
+          "label": "8.A.",
+          "title": "Action: Resolution Accepting Donations",
+          "qualifier": "5 minutes, Roll Call Vote",
+          "presenter": "Kristen Hoheisel, Chief Financial Officer",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14492337",
+              "name": "Action - Resolution Accepting Donations - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14492337",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14492337?org=964",
+              "indexed": true
+            },
+            {
+              "fileId": "14492338",
+              "name": "October 5, 2026 - Resolution Accepting Donations",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14492338",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14492338?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 20
+        },
+        {
+          "itemId": "18851974",
+          "parentId": "0",
+          "depth": 0,
+          "label": "9.",
+          "title": "Policy",
+          "qualifier": "",
+          "presenter": "(None for this evening.)",
+          "description": "",
+          "attachments": [],
+          "order": 21
+        },
+        {
+          "itemId": "18851975",
+          "parentId": "0",
+          "depth": 0,
+          "label": "10.",
+          "title": "Administrative Reports",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14491515",
+              "name": "Administrative Reports - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491515",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491515?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 22
+        },
+        {
+          "itemId": "18899105",
+          "parentId": "18851975",
+          "depth": 1,
+          "label": "10.A.",
+          "title": "Superintendent's Report",
+          "qualifier": "10 minutes",
+          "presenter": "Dr. Teri Staloch, Superintendent",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14491527",
+              "name": "Superintendent's Report - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491527",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491527?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 23
+        },
+        {
+          "itemId": "18899111",
+          "parentId": "18851975",
+          "depth": 1,
+          "label": "10.B.",
+          "title": "Budget Reduction Options for 2027-28",
+          "qualifier": "10 minutes",
+          "presenter": "Kristen Hoheisel, Chief Financial Officer\nDr. Bob McDowell, Assistant Superintendent",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14491574",
+              "name": "Budget Reduction Options for 2027-28 - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491574",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491574?org=964",
+              "indexed": true
+            },
+            {
+              "fileId": "14492761",
+              "name": "2027-28 Budget Reduction Options_presentation_10-5-26",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14492761",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14492761?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 24
+        },
+        {
+          "itemId": "18851976",
+          "parentId": "0",
+          "depth": 0,
+          "label": "11.",
+          "title": "Board Committee Reports and Board Reports",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14491692",
+              "name": "Board Reports - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491692",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491692?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 25
+        },
+        {
+          "itemId": "18851977",
+          "parentId": "0",
+          "depth": 0,
+          "label": "12.",
+          "title": "Future Events",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14487777",
+              "name": "Future Events - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14487777",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14487777?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 26
+        },
+        {
+          "itemId": "18851978",
+          "parentId": "0",
+          "depth": 0,
+          "label": "13.",
+          "title": "Adjourn the Meeting",
+          "qualifier": "",
+          "presenter": "Dr. Greta Evans-Becker, School Board Chair",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14491694",
+              "name": "Adjourn the Meeting - October 5, 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491694",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491694?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 27
+        }
+      ],
+      "minutes": null,
+      "documentsIndexed": true
+    },
+    {
+      "meetingId": "768353",
+      "title": "October 5, 2026 at 6:00 PM - School Board Listening Time",
+      "name": "School Board Listening Time",
+      "date": "2026-10-05",
+      "time": "6:00 PM",
+      "meetingType": "Regular",
+      "cancelled": false,
+      "notes": "School Board Listening Time\n\nFacilitating this Listening Time will be Helen Bassett, School Board Director,\n\nwith Aviva Hillenbrand, School Board Treasurer and Caroline Long, School Board Director.",
+      "location": "Education Service Center Boardroom, 4148 Winnetka Ave N, New Hope, MN 55427",
+      "body": "board",
+      "agendaUrl": "https://meetings.boardbook.org/Public/Agenda/964?meeting=768353",
+      "minutesUrl": null,
+      "packetUrl": "https://meetings.boardbook.org/Public/DownloadAgenda/964?meeting=768353",
+      "items": [
+        {
+          "itemId": "18851952",
+          "parentId": "0",
+          "depth": 0,
+          "label": "1.",
+          "title": "Welcome to Listening Time",
+          "qualifier": "",
+          "presenter": "",
+          "description": "The Robbinsdale Area School Board welcomes and encourages input and feedback from members of our school district community. The School Board Listening Time is held from 6:00 - 6:50 p.m. before the first board meeting of most months.\n\nFacilitating this Listening Time will be Helen Bassett, School Board Director, with Aviva Hillenbrand, School Board Treasurer and Caroline Long, School Board Director.\n\nQuestions? Send an email to Molly Olson, Executive Assistant to the School Board and Superintendent, at molly_olson@rdale.org",
+          "attachments": [
+            {
+              "fileId": "14452480",
+              "name": "Listening Time Procedure_6-2025",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14452480",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14452480?org=964",
+              "indexed": true
+            },
+            {
+              "fileId": "14452481",
+              "name": "Listening Time Request Form_6-2025",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14452481",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14452481?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 0
+        }
+      ],
+      "minutes": null,
+      "documentsIndexed": true
+    },
     {
       "meetingId": "766097",
       "title": "September 22, 2026 at 7:30 PM - Study Session",
@@ -472,11 +1077,11 @@
           "description": "",
           "attachments": [
             {
-              "fileId": "14429484",
-              "name": "September 1, 2026 - Business Meeting Minutes (draft)",
+              "fileId": "14487752",
+              "name": "September 1, 2026 Business Meeting minutes_Approved 9-1-26",
               "kind": "pdf",
-              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14429484",
-              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14429484?org=964",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14487752",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14487752?org=964",
               "indexed": true
             }
           ],
@@ -688,11 +1293,11 @@
           "description": "",
           "attachments": [
             {
-              "fileId": "14421022",
+              "fileId": "14487961",
               "name": "New Business - Review and Comment - September 22, 2026",
               "kind": "pdf",
-              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14421022",
-              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14421022?org=964",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14487961",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14487961?org=964",
               "indexed": true
             },
             {
@@ -749,11 +1354,11 @@
               "indexed": true
             },
             {
-              "fileId": "14438017",
-              "name": "MDE Levy Limitation and Certification Report 2026 Payable 2027",
+              "fileId": "14488097",
+              "name": "MDE Levy Limitation and Certification Report 2026 payable 2027_Approved 9-22-26",
               "kind": "pdf",
-              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14438017",
-              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14438017?org=964",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14488097",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14488097?org=964",
               "indexed": true
             }
           ],
@@ -953,7 +1558,7 @@
       "location": "Education Service Center Boardroom, 4148 Winnetka Ave N, New Hope, MN 55427",
       "body": "board",
       "agendaUrl": "https://meetings.boardbook.org/Public/Agenda/964?meeting=762689",
-      "minutesUrl": null,
+      "minutesUrl": "https://meetings.boardbook.org/Public/Minutes/964?meeting=762689",
       "packetUrl": "https://meetings.boardbook.org/Public/DownloadAgenda/964?meeting=762689",
       "items": [
         {
@@ -1157,11 +1762,11 @@
           "description": "",
           "attachments": [
             {
-              "fileId": "14429553",
+              "fileId": "14487723",
               "name": "August 17, 2026 Business Meeting minutes_Approved 9-1-26",
               "kind": "pdf",
-              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14429553",
-              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14429553?org=964",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14487723",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14487723?org=964",
               "indexed": true
             },
             {
@@ -1641,7 +2246,13 @@
           "order": 29
         }
       ],
-      "minutes": null,
+      "minutes": {
+        "kind": "pdf",
+        "title": "September 1, 2026 at 7:00 PM - Business Meeting",
+        "url": "https://meetings.boardbook.org/Public/Minutes/964?meeting=762689",
+        "fileId": "14487756",
+        "textKey": "14487756"
+      },
       "documentsIndexed": true
     },
     {
@@ -1656,7 +2267,7 @@
       "location": "Education Service Center Boardroom, 4148 Winnetka Ave N, New Hope, MN 55427",
       "body": "board",
       "agendaUrl": "https://meetings.boardbook.org/Public/Agenda/964?meeting=762688",
-      "minutesUrl": null,
+      "minutesUrl": "https://meetings.boardbook.org/Public/Minutes/964?meeting=762688",
       "packetUrl": "https://meetings.boardbook.org/Public/DownloadAgenda/964?meeting=762688",
       "items": [
         {
@@ -1689,7 +2300,13 @@
           "order": 0
         }
       ],
-      "minutes": null,
+      "minutes": {
+        "kind": "html",
+        "title": "Minutes",
+        "url": "https://meetings.boardbook.org/Public/Minutes/964?meeting=762688",
+        "fileId": null,
+        "textKey": "minutes-762688"
+      },
       "documentsIndexed": true
     },
     {
@@ -6645,7 +7262,7 @@
       ],
       "minutes": {
         "kind": "pdf",
-        "title": "June 1, 2026 at 7:00 PM - Business Meeting",
+        "title": "Minutes",
         "url": "https://meetings.boardbook.org/Public/Minutes/964?meeting=747444",
         "fileId": "4448299",
         "textKey": "4448299"
