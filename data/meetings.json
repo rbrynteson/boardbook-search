@@ -2,9 +2,109 @@
   "orgId": "964",
   "orgName": "Robbinsdale Area Schools (ISD 281)",
   "baseUrl": "https://meetings.boardbook.org",
-  "generatedAt": "2026-10-02T18:35:20.693Z",
+  "generatedAt": "2026-10-09T19:04:43.923Z",
   "attachmentsSinceDate": "2023-01-01",
   "meetings": [
+    {
+      "meetingId": "771500",
+      "title": "October 13, 2026 at 6:00 PM - Financial Advisory Council",
+      "name": "Financial Advisory Council",
+      "date": "2026-10-13",
+      "time": "6:00 PM",
+      "meetingType": "Finance",
+      "cancelled": false,
+      "notes": "Financial Advisory Council Meeting",
+      "location": "Education Service Center at FAIR Crystal, 3915 Adair Avenue North, Room B230, Crystal, Minnesota 55422",
+      "body": "board",
+      "agendaUrl": "https://meetings.boardbook.org/Public/Agenda/964?meeting=771500",
+      "minutesUrl": null,
+      "packetUrl": "https://meetings.boardbook.org/Public/DownloadAgenda/964?meeting=771500",
+      "items": [
+        {
+          "itemId": "18939489",
+          "parentId": "0",
+          "depth": 0,
+          "label": "1.",
+          "title": "Detailed Agenda",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [
+            {
+              "fileId": "14522844",
+              "name": "FAC Committee Agenda October 13 2026",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14522844",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14522844?org=964",
+              "indexed": true
+            }
+          ],
+          "order": 0
+        },
+        {
+          "itemId": "18939449",
+          "parentId": "0",
+          "depth": 0,
+          "label": "2.",
+          "title": "Discussion of Committee Purpose",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 1
+        },
+        {
+          "itemId": "18939451",
+          "parentId": "0",
+          "depth": 0,
+          "label": "3.",
+          "title": "Overview of School Finance",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 2
+        },
+        {
+          "itemId": "18939461",
+          "parentId": "0",
+          "depth": 0,
+          "label": "4.",
+          "title": "2027-2028 Budget Forecast Assumptions - Revenue",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 3
+        },
+        {
+          "itemId": "18939467",
+          "parentId": "0",
+          "depth": 0,
+          "label": "5.",
+          "title": "Other?",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 4
+        },
+        {
+          "itemId": "18939474",
+          "parentId": "0",
+          "depth": 0,
+          "label": "6.",
+          "title": "Adjourn",
+          "qualifier": "",
+          "presenter": "",
+          "description": "",
+          "attachments": [],
+          "order": 5
+        }
+      ],
+      "minutes": null,
+      "documentsIndexed": true
+    },
     {
       "meetingId": "768354",
       "title": "October 5, 2026 at 7:00 PM - Business Meeting",
@@ -55,11 +155,11 @@
           "description": "",
           "attachments": [
             {
-              "fileId": "14486112",
+              "fileId": "14502234",
               "name": "Call to Order - Roll Call - Business Meeting - October 5, 2026",
               "kind": "pdf",
-              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14486112",
-              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14486112?org=964",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14502234",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14502234?org=964",
               "indexed": true
             }
           ],
@@ -461,6 +561,14 @@
               "kind": "pdf",
               "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14491527",
               "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14491527?org=964",
+              "indexed": true
+            },
+            {
+              "fileId": "14505723",
+              "name": "Superintendent's Board Report 10.05.26",
+              "kind": "pdf",
+              "viewerUrl": "https://meetings.boardbook.org/Documents/FileViewerOrPublic/964?file=14505723",
+              "pdfUrl": "https://meetings.boardbook.org/Documents/DownloadPDF/14505723?org=964",
               "indexed": true
             }
           ],
@@ -6458,7 +6566,7 @@
       ],
       "minutes": {
         "kind": "pdf",
-        "title": "June 8, 2026 at 6:00 PM - Study Session",
+        "title": "Minutes",
         "url": "https://meetings.boardbook.org/Public/Minutes/964?meeting=748921",
         "fileId": "4448300",
         "textKey": "4448300"
