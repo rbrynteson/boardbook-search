@@ -1,0 +1,134 @@
+Finance Advisory Council (FAC)
+Tuesday October 20, 2026
+Members:
+Kristen Hoheisel Ginny Verbrugge Aviva Hillenbrand
+Sarah Taylor Dr. Teri Staloch April Gulley
+Nicole Lee Aunnie Kramber Todd Stenson
+Agenda:
+1. 2027-2028 Budget Forecast Assumptions - Revenue a. Enrollment Projections b. General Education Aid c. Levy and State Aid shift or changes d. Compensatory e. Referendums f. Federal Grants g. Special Education h. All other formula driven or miscellaneous revenue i. Carryover from prior years
+2. Other?
+3. Adjourn
+
+District Enrollment Projection Variance
+& Comprehensive Trend Analysis Report
+1. Executive Summary & Policy Corrections
+Between October 2024 (10,253 students) and October 2026 (9,137 students), district K-12
+enrollment declined by 1,116 students (-10.88%). Standard cohort-survival demographic models projected an average 2-year decline of 418 students (-4.08%), leaving an unexplained negative variance of -698 students.
+To accurately isolate non-demographic causes from underlying population shifts, this document incorporates three critical policy and operational corrections based on actual district implementation:
+● Phased Minneapolis Busing Removal (2025-26 vs. 2026-27):
+○ FY26 Phase 1: The initial partial reduction of Minneapolis transportation in
+2025-2026 had very minimal impact on district enrollment.
+○ FY27 Phase 2: The total elimination of all remaining Minneapolis busing in
+2026-2027 generated a major structural drop, accounting for an estimated -220 to
+-260 open-enrolled Minneapolis students who transitioned out of the district.
+● ICE Enforcement Operations Timing: ICE enforcement activity took place in early 2026; however, no pupil reduction occurred in January 2026 as a result. Instead, the enforcement impact manifested later during the spring months (February through April
+2026), accounting for a portion of the 276-student drop observed between October 1,
+2025 and June 1, 2026.
+● Building Closures & Consolidations (2026-2027): School consolidations (e.g., middle school shifts and elementary site mergers for FY27) generated transitional friction, with an estimated accounting for approximately -120 to -150 students in transition/open-enrollment loss.
+2. Decomposition of 2-Year Enrollment Loss (FY25 to
+FY27)
+Decomposing the total observed 2-year loss (-1,116 students) separates ongoing demographic trends from specific non-recurring operational disruptions:
+
+Loss FY26 Impact FY27 Impact 2-Year % of Total Analytical
+Component Cumulative Loss Classification
+Demographer -212 -206 -418 37.5% Permanent
+Baseline Baseline
+Expected Trend
+Loss
+Minneapolis -20 (Minimal) -240 -260 23.3% Fixed
+Busing (Assuming One-Time
+Removal Full Drop) Structural
+(Phased) Policy
+Step-Down
+ICE -140 -10 (Residual) -150 13.4% Mid-Year
+Enforcement (Feb-Apr) External
+Impact Shock
+(Spring 2026) (Stabilizing)
+Building 0 -135 -135 12.1% Transitional
+Closures & Reassignment
+Consolidatio Friction ns
+Residual -36 -117 -153 13.7% Underlying
+Organic Demographic
+Kindergarten Divergence
+/ Migration
+Drop
+Total Actual -336 -780 -1,116 100.0% Actual Count
+District (10,253 down
+Decline to 9,137)
+3. Quantitative Impact Analysis of Specific Factors
+3.2 ICE Enforcement Impact Analysis (Spring 2026)
+Monthly district enrollment records verify that no drop occurred in January 2026. Enrollment remained steady through January before declining in February, March, and April 2026. This spring drop accounts for approximately 140 of the 276 mid-year departures between October
+1, 2025 (9,917) and June 1, 2026 (9,641).
+
+3.2 Building Closure & Realignment Friction (2026-2027)
+Consolidating middle school operations and elementary sites for the 2026-2027 school year created a transitional open-enrollment leak of ~120 to 150 students as reassigned families evaluated alternative options during the transition period.
+4. Mathematical Layout & Committee Adjustment
+Formulas
+To adjust future demographer projections (FY28-FY35), the committee can apply one of two mathematical options:
+Option A: Unadjusted Extrapolation Model (Linear Extrapolation)
+Treats all 1,116 lost students as ongoing demographic decay, applying a flat downward scalar.
+Option B: Refined Multi-Factor Model
+Isolates fixed non-recurring policy/external shocks from organic cohort survival trends
+5. Multi-Year Projection Scenarios (FY27 to FY30)
+Academic Year Demographer Unadjusted Refined Variance vs.
+Average Model Aggressive Model Multi-Factor Aggressive Model
+(k = 0.9290) Model
+(k = 0.9844)
+2026-27 (Year 2 9,835 9,137 9,137 (Actual) 0
+Actual Baseline)
+2027-28 (Year 3) 9,766 9,073 9,283 +210 students
+2028-29 (Year 4) 9,668 8,982 9,187 +205 students
+2029-30 (Year 5) 9,615 8,932 9,135 +203 students
+2034-35 (Year 9,170 8,519 8,697 +178 students
+10)
+
+Robbinsdale / High Survival Rate
+K (+Hdcp) 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th 11th 12th K-5 6-8 9-12 K-12 total
+2025-26 686 685 667 733 750 716 701 701 695 779 847 819 1138 4237 2097 3583 9917
+25-26 Cohort 686 686 685 667 733 750 716 701 701 695 779 847 819 4207 2118 3140 9465
+Historical 1.007 1.01 1.003 0.994 0.966 1.002 1.037 0.989 1.113 1.009 0.987 1.128 0 0 0
+Actual 0.950 0.933 0.940 0.952 0.937 0.843 0.929 0.947 1.084 0.971 0.953 1.217
+26-27 Proj 577 652 639 626 701 704 598 650 664 754 759 810 1003 3899 1912 3326 9137
+26-27 Cohort 577 577 652 639 626 701 704 598 650 664 754 759 810 3772 1952 2987 8711
+Historical 1.007 1.01 1.003 0.994 0.966 1.002 1.037 0.989 1.113 1.009 0.987 1.128 0 0 0
+27-28 Proj 577 581 659 641 622 677 705 620 643 739 761 749 914 3757 1968 3163 8888
+27-28 Cohort 577 581 659 641 622 677 705 620 643 739 761 749 3080 2003 2892 7974
+Historical 1.007 1.01 1.003 0.994 0.966 1.002 1.037 0.989 1.113 1.009 0.987 1.128 0 0 0
+28-29 Proj 0 581 587 660 637 601 679 732 613 715 746 751 845 3067 2023 3057 8147
+28-29 Cohort 0 581 587 660 637 601 679 732 613 715 746 751 2465 2011 2825 7302
+Historical 1.007 1.01 1.003 0.994 0.966 1.002 1.037 0.989 1.113 1.009 0.987 1.128 0 0 0
+29-30 Proj 0 0 587 589 657 615 602 704 723 683 722 736 847 2447 2029 2988 7464
+29-30 Cohort 0 0 587 589 657 615 602 704 723 683 722 736 1832 1921 2864 6617
+Historical 1.007 1.01 1.003 0.994 0.966 1.002 1.037 0.989 1.113 1.009 0.987 1.128 0 0 0
+30-31 Proj 0 0 0 589 585 634 617 625 696 805 689 713 830 1808 1937 3037 6782
+3 A - Enrollment
+
+Robbinsdale / High Survival Rate
+K (+Hdcp) 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th 11th 12th K-5 6-8 9-12 K-12 total
+2025-26 686 685 667 733 750 716 701 701 695 779 847 819 1138 4237 2097 3583 9917
+25-26 Cohort 686 686 685 667 733 750 716 701 701 695 779 847 819 4207 2118 3140 9465
+Historical 1.007 1.01 1.003 0.994 0.966 1.002 1.037 0.989 1.113 1.009 0.987 1.128 0 0 0
+Actual 0.950 0.933 0.940 0.952 0.937 0.843 0.929 0.947 1.084 0.971 0.953 1.217
+26-27 Proj 577 652 639 626 701 704 598 650 664 754 759 810 1003 3899 1912 3326 9137
+26-27 Cohort 577 577 652 639 626 701 704 598 650 664 754 759 810 3772 1952 2987 8711
+Historical 0.950 0.933 0.940 0.952 0.937 0.843 0.929 0.947 1.084 0.971 0.953 1.217 0 0 0
+27-28 Proj 577 548 608 601 596 657 593 556 616 720 732 723 986 3587 1765 3161 8512
+27-28 Cohort 577 548 608 601 596 657 593 556 616 720 732 723 2930 1806 2791 7527
+Historical 0.950 0.933 0.940 0.952 0.937 0.843 0.929 0.947 1.084 0.971 0.953 1.217 0 0 0
+28-29 Proj 0 548 511 572 572 558 554 551 526 667 699 698 880 2762 1631 2944 7337
+28-29 Cohort 0 548 511 572 572 558 554 551 526 667 699 698 2203 1663 2590 6457
+Historical 0.950 0.933 0.940 0.952 0.937 0.843 0.929 0.947 1.084 0.971 0.953 1.217 0 0 0
+29-30 Proj 0 0 511 481 544 536 471 514 522 570 648 666 849 2072 1507 2733 6313
+29-30 Cohort 0 0 511 481 544 536 471 514 522 570 648 666 1537 1521 2406 5464
+Historical 0.950 0.933 0.940 0.952 0.937 0.843 0.929 0.947 1.084 0.971 0.953 1.217 0 0 0
+30-31 Proj 0 0 0 481 458 510 452 437 487 566 554 617 811 1448 1376 2548 5372
+3 A - Enrollment
+
+Miscellaneous Revenue - Historical
+2019-20 2020-21 2021-22 2022-23 2023-24 2024-25 2025-26
+Fees 530,149.15 581,342.28 526,853.04 536,271.28 588,216.29 592,225.35 574,574.50
+Interest 1,612,804.18 2,271,483.64 (1,879,351.76) 2,092,382.74 3,880,024.42 3,712,870.83 3,406,567.78
+Rent 95,764.93 83,575.71 98,025.91 72,825.48 109,436.72 157,904.15 271,928.78
+Donations 366,011.92 382,584.51 290,065.41 639,870.00 497,759.58 564,195.99 414,032.20
+Total 2,604,730.18 3,318,986.14 (964,407.40) 3,341,349.50 5,075,437.01 5,027,196.32 4,667,103.26
+3 H - Miscellaneous Revenue

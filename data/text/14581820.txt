@@ -1,0 +1,620 @@
+District 281 Enrollment Analysis: Oct 2025 to Oct 2026
+Summary
+Closure group: Noble, Sonnesyn and the three elementaries that received their students retained 86.1% of K-4 students, against 98.4% at schools with no closure. That gap is about 143
+students.
+Lakeview: it is the clear outlier, with 77.8% retention against the students it expected to enroll.
+Cooper High School: it retained 87.8% of grades 9-11, against 96.3% at Armstrong, an excess loss of about 82 students.
+Largest drop: the 5th grade class lost 118 students (16.5%) on entering 6th grade.
+Estimated excess loss: about 225 students, roughly 37% of the 612 students, identified as at risk from the transportation reduction.
+Data note: the 2026 sheet's Year GAIN/LOSS row shows -157, but the actual change between the two
+October counts is -780. This analysis uses the actual counts, and the row should be checked.
+1. Cohort advancement
+Assuming every student advance one grade, the 5th-to-6th grade transition lost the most students (118, or 16.5%), and the 11th-to-12th grade count rose by 184.
+Cohort Oct 2025 Oct 2026 Change % change
+K to 1 686 652 -34 -5.0%
+1 to 2 685 639 -46 -6.7%
+2 to 3 667 626 -41 -6.1%
+3 to 4 733 701 -32 -4.4%
+4 to 5 750 704 -46 -6.1%
+5 to 6 716 598 -118 -16.5%
+6 to 7 701 650 -51 -7.3%
+7 to 8 701 664 -37 -5.3%
+8 to 9 695 754 +59 +8.5%
+9 to 10 779 759 -20 -2.6%
+10 to 11 847 810 -37 -4.4%
+11 to 12 819 1,003 +184 +22.5%
+Entry year: this year's kindergarten class is 577, down 109 (15.9%) from last year's 686.
+
+Grade 12 increase: it comes mostly from Robbinsdale Academy-HVW, where grade 11 (33)
+became grade 12 (191). That looks like an alternative or credit-recovery pipeline, not growth.
+5th-to-6th grade drop: it is the largest in the district and lines up with the middle school consolidation and the Robbinsdale Middle School transportation risk.
+2. Closure schools vs. non-closure schools
+Elementary schools tied to closure retained about 12 points fewer students than schools with no closure. For elementary, I tracked K-4 students in 2025 to grades 1-5 in 2026, which excludes 5th graders who leave elementary anyway.
+Group 2025 K-4 2026 grades 1-5 Retention
+No closure (Forest, SEA, Meadow Lake, RSI, 2,355 2,318 98.4%
+Northport, Fair-Pilgrim Lane)
+Closure group (Noble, Sonnesyn, plus receivers 1,166 1,004 86.1%
+Lakeview, Neill, Zachary)
+The closure group is about 143 students below what the no-closure rate would predict.
+Receiving schools
+The expected base for each receiving school is its own K-4 count plus the students reassigned to it:
+Noble sent 129 to Lakeview and 57 to Neill, and Sonnesyn sent 82 to Zachary and 93 to Neill.
+Receiving school Expected (own K-4 + Actual grades 1-5 Retention reassigned)
+Lakeview (+129 Noble) 324 252 77.8%
+Neill (+57 Noble, +93 Sonnesyn) 381 361 94.8%
+Zachary (+82 Sonnesyn) 432 391 90.5%
+Lakeview is the clear outlier. It absorbed the most Noble students, and Noble's 48 transportation-risk students would explain most of its shortfall of about 67 students. Neill held up well, and Zachary is moderately below baseline.
+Middle school
+The four feeder schools (Fair-Crystal, Plymouth, Robbinsdale, Sandburg) retained 92.8% of their grade 6-
+7 students into grades 7-8, or 1,294 of 1,395. That is only slightly worse than the district's own 6-to-7 (-
+7.3%) and 7-to-8 (-5.3%) rates, so the real hit is at the 5th-to-6th grade entry point.
+Sandburg grew from 306 to 992 (+686), which is more than Robbinsdale Middle School's 571, so some
+Fair-Crystal students probably landed there too. Plymouth also rose from 749 to 895.
+
+3. Transportation reduction: did the risk materialize?
+The clearest effect is at Cooper High School, and the closure-group elementary loss is the likeliest second effect. Estimated excess loss is about 225 students (143 in the elementary closure group plus 82
+at Cooper), against 612 students identified at risk. That is roughly 37%, before any middle school effect.
+School At risk Result vs. control Read
+Cooper HS 308 Grades 9-11 to 10-12 retained 87.8%, vs. Armstrong Largest and clearest at 96.3%. Excess loss is about 82 students, or 27% of effect.
+those at risk.
+Noble (via 48 The closure group is about 143 below baseline. Plausibly the driver,
+Lakeview, especially at
+Neill, Zachary) Lakeview.
+Lakeview 33 Retention of 77.8% against its expected base. Combined with the
+Noble flow, a likely contributor.
+Northport 90 K-4 retention of 97.5%, essentially the same as the No visible effect.
+98.4% control.
+Robbinsdale 133 Cannot be isolated because Fair-Crystal is unknown, Possible.
+Middle School but the 5th-to-6th grade drop of 118 is consistent with a hit.
+Caveats
+These are retention comparisons, not proof of cause, so the closure and transportation effects cannot be fully separated from ordinary mobility.
+What counts as loss: retention is cohort-based, so students who moved, or who enrolled in charter, open-enrollment or private schools, all show up as loss.
+Controls: Armstrong is a decent but imperfect control for Cooper, and the six no-closure elementaries are a reasonable control for the closure group.
+Reassignment counts: the 186 reassigned from Noble and 175 from Sonnesyn are close to those schools' K-4 enrollments (180 and 210). Sonnesyn's 35-student gap suggests it lost families before reassignment.
+
+"sJUNOD jeNjOe ay} SASN YOOGyJOM SIU} 'S}]UNOD J8qO}OO OM} By} UZEMJEq ebueyo jenjoe ay} yoyew JOU SOP (/G}-) MOL SSOT/NIVD Je8A S,J99US 9Z0Z SUL
+
+(€z9) 9}e61jsenu! 0} Aouedeiosiq
+(2g1) e2ays 920Z UO peyodes ,§SO1/ NIVD 488A,
+(082) (1e303 $Z0z - 1230} 970Z) eBueYd Jed jenjoy
+- - (0 q pjnoys) esueseyig
+LEL'6 L166 9194 payndwod je}0} pues
+ZEL'6 L166 Jeays }914}SIp UO payodal Je}0} pues
+
+$]89YS }91J}SIP 94} 0} UORIIDUODAY
+(%6"2) (ogz) 2eL'6 2166 1230} 3914381
+(%z 2) (4g2) gze'e ees'e zr6
+(%8"8) (se) Z16'L 260'Z 8-9
+(%0'8) (gee) 668'E Lez' sy
+
+(4eaf 49A0 42a 'sapes6 awies) pueg epes6 Aq abueyo jenuuy
+
+(%6°S1) (601) azIs ssejo ueyeBiepuly
+
+SOU OURO 39202190 eS
+
+(uayseBsepury) ssejo Buimoou
+
+"ymolb jou 'auyadid Alanooal-}Ipaso/anljeusaye Ue BI] SYOO| pue (LE :Z) apes6 <- eg 711 apes6) AAAH-AWepeoy ajepsuiqqoy Aq Ajabue] UaAup si dwinf Z| <- || 8u} :a}0N
+
+(%1'S)
+(%S°2)
+G2
+(%b'v)
+(%9'2)
+G'S
+(%€'S)
+(%€'L)
+(%9°91)
+(%1'9)
+(%v'r)
+(%1'9)
+(%2'9)
+(%0'S)
+
+eBueys %
+
+(or)
+(612)
+8
+(ze)
+(02)
+6S
+(ze)
+(1g)
+(BLL)
+(9b)
+(ze)
+(Ly)
+(9b)
+(ve)
+
+Lgg'2 o96'2 ZL < LL Bulpnjoxe Jon
+09s'8 622'8 syoyoo |e ON
+€00'1 ZL 618 bb eL< bb
+Ole LL 278 OL bL< OL
+6S2 Ob 622 6 Oor<6
+vSL 6 S69 8 6<8
+99 8 LOZ Z Bcd
+0s9 Z 102 9 L<9
+865 9 9LL G g9<S
+vol G OSZ v G<¥
+Loz vy €&L € v<''
+929 € 499 rd e<Z
+2 S89 L ach
+
+b 989 oT) L<-»
+
+ac wunoe 9202 390 | 9psi® $202 390 yin 2020 | apes $202 390 Pte
+
+"apei6 }x9uU ay) Ul JO} pajuNogze Jou sjuapnys = aajeBan 'JUNO gzOz SNuIW juNod gz0z = abueYD
+
+(pewinsse aoueape % 001) epesb yx0U 9Z0Z 190 <- epesB §z0Z 190 :JUeWaDUeApe OYyoD
+
+"UMOUUN SI JUaM S]UapN}s [e}SAID-sIe4 Bay "UOSEdWOD Jey BY} SI MOJ pauiquod a4} Os 'Bingpues/yNoWAld O} parow Ajqewinsaud sjuapn}s J19yy 'Jaays 9ZOZ OU} WOY JUasge aJe sJepsulqgoy pue |e}skp
+
+ceL WE'8B
+ly %S'06
+2 %8'v6
+
+We LL
+
+v00'L
+L6e
+Loe ard
+
+sz (syuapnjs) aye1 Buosjsuy "SA SSO] Ssaoxa Jado05
+%E96 06z'L 6ee'L Buojsuuy
+%8'L8 ess 126 dadoop
+
+uonusied | Zi-0b 16 920Z390 | bresbz0z390 | jooung
+
+ZL-OL 4B < | 1-6 46 '(}0u3U09) Buosysuy "sa (ySI4 UOHeYOdsuUed}) 4ado05 :;ooYDs YBIH "CG
+
+z
+%8'26 v6z'L sec'L PaUIquios sjooyds spay sno
+(a}0u as) e/u 959 602 Bunqpues
+(a}0u aas) eyu - see ayepsuiqqoy
+(a}0u as) e/u geo L6v yjnouwlf}d
+(a}0u aes) e/u - 1eysfug-se 4
+
+pono riba EO LeeeO pops |
+
+8-2 46 920Z 390 0} paydes} 1-9 46 §Z0Z 390 :]0049s aIPPIN "9
+
+LEL'b Lge 9LL Bulalaoad [e}01
+ev a} ose aueq Areyoez
+- osL rd HI8N
+
+6ZL S6L MalAaye 7]
+
+Weyuous, | vomeres S-1 46 9z0z lenyoy | + eseq pajsadx ul paubisseay +-¥ $707 UME Jooyos Bulajasay
+
+sjuapnjs asnsojo pauBblsseed + p-y UMO = aseq payaadxa :sjooyos Bu!
+
+99u "a
+
+"yemoe dnos6-ainsojo - uoljUua}aJ BuNsojO-oU X ~-y GZOZ dnoJb-ainsojo = sso] ssaoxy 'auey AJeydeZ pue ||IBN 'MalAaye] SjOOYdS HulAladel ay} snd UASaUUOS 'ajqoN = dnoJ6 ainsoj9
+
+Lev
+
+AECL
+b'98
+%v'86
+
+PLL
+%L'L6
+SLE
+eve
+%EOSL
+%6'901
+%e'86
+Ye 621
+%6'86
+
+uoquajay
+
+v00'L
+BLe'z
+
+L6e
+
+Loe
+9se
+
+sss
+L9e ble ose ege
+
+6re
+$-1 4B 9202 90
+
+"(Aemhue Areyuawa|a anes] Aay} aouls papnjoxe g apei6) 9z0z 390 Ul S-| SapeJ6 0} payoes} sJuBpN}s p-y SZ0Z JO 'AlejUaWA|A
+
+(syuapnjs) ayes a4nsoj9-ou "SA SSO] SS89X3
+(sjulod abeyuaosad) deb uonuajay
+
+99L'L dnou6b ainsojp sse'z @4nso[d ON
+ose Buiaiaoay dnou6 aunso9 aueq Areyoez olz pasojo dnou6 ainsojp uAsauuos
+80e Jonuog @JNsojo ON aue] wBId-41e4
+g9e Joquog @INSO|D ON yodyyion
+OgL pasojo dnou6 ainsojp 31GON
+68S loujUuoD 8JNSO|D ON Isa
+Lez Buialaoay dnou6 aunsoj9 IHN
+Lye Jonuod SJNSO|O ON aye] Mopeay e6e Jonuog aJNsojo ON vas
+S6L Buiniaoay dnou6 aunso9 malAaye]
+
+ese Jonuod SJNSO|D ON ysa104
+
+joouds Aq uonuajes Arequawialy "y
+
+S]OOYDS a1NSO}I-UOU "SA S[OOYDS aiNso|D
+
+ajqesedas jou jng joaya SW ajepsuiqqoy UjIM JUB}sISUOD 'sso| UOMISUB} Jsabie7 (3) |.) (s}uapnjs) sso] WOYOd g <-
+
+Ayes U01}U9}a1 [01]U0D 24NSO|9-ON
+
+QAO B/QISIA OU :JOs]UOD Se aWeS ay} nNoqY %SG'76 uol]Uaj}aJ p-y HOdYON
+
+JOsJU0D MOjaq [1AM '(2|GON GZL + v-y UMO) BSeq pajoadxa 'sp %Q"7/ aseq pa}dedxa "SA UOIJUA}a1 MAIAeye]
+%0'LE s]Uapnjs 4SU-Je PayIjuap! Jo Y% SY
+
+L922 SSO] SS8OX9 PayeUlj}sa [e}O]
+
+uonuajal ArejUuaaja aunsojo-oU "SA Z'Ey 1 (sjuapnjs) sso] ssaoxa dnoib-ainsojo Aueyuawayy
+
+uoljuajel BuosWuy 'SA. S'Z8 (sjuapnys) sso] ssaoxa 4ado05
+
+(sdnou6 |013U09 'SA SSO] SSa0Xxa) ZaZI|/elJa}eW YS UY} PIG 'D
+
+HES 2218 eel juau]]o1ua GZ0Z PaUIquiod jo aieys ysii-ye :Binqpues + SIN aJepsuIqqoy
+%G 6E 822 06 YSU Je Bp + P9JUNODDEUN :aSed }SIOM B/GON
+ysl 87 (peubisseai 991 - 97Z) 10} payunoooeuN :3a/qoN
+
+SOLIBUBIS BSBI-}SJON "G
+
+(%6°2) 9202 390 <- $Z0z 390 'abueyp 301N}sIp jenjoy
+
+%z'9 (§Z0Z 390) 913SIP Jo % Se YS IV
+9L8'L SL Ve S79'% Z19 ySU ye [e}OL
+Sly %L0e Sev 06 yodyyon
+062 HEEL osz ee MOalAaye]
+LLL'L %0'ET% bye'l 80€ SH Jadoo
+- WEES LLS eel SIN 8]epsuiqqoy
+- HVS 8IGON
+
+yuawjo1us 9202 390 Jooyss jo % yuaw[o1us §Z0Z 190, (pepiaodd) ¥su IV
+
+SH Je sjuspnyg "y
+
+9W09}NO puke ainsodxea :uooNpel UOHVeyIodsuelL
+
+SeL'L
+LS
+8ez ss ver ole
+
+LZ gL 99 LZ 99 vl ver eo
+
+618
+
+ee ve
+Ger
+Ze
+
+lve
+
+vy
+687
+cle
+
+622
+
+(44
+GLY
+Cre
+
+S69
+
+0c
+
+246
+
+981
+(AcTA
+Ort
+
+LOZ
+
+OLL
+(4:0
+ve
+O9L
+
+Loz 9bZ
+
+4
+
+66
+
+£02
+
+€S7
+
+vrl
+(42)
+ov
+6S
+OZ
+8v
+(4a)
+6y
+£9
+ZL
+GS
+
+osZ
+
+89
+ov
+GL
+gL
+6€
+ebb
+6S
+eZ
+€8
+vy
+
+eel
+
+GL
+0S
+99
+GL
+Sv
+(4A)
+ov vl v8
+ge
+
+299
+
+6S
+Le
+GS
+eZ
+ge
+Leb ce
+£9
+08
+QV
+
+S89
+
+GL
+6y v9
+(42)
+oe ebb
+8v eZ
+el ee
+
+989
+
+eZ
+ve
+8v
+62
+0€
+Leb eg
+99
+eZ
+ge
+
+LL66
+LS
+Ze cel e9ol'b
+Lve'l
+90€
+LLS
+6rL
+vey ely
+0sz
+L9E
+sev
+822
+Lb2
+082
+Oly
+Oly ose
+
+(pajndwios) sjvLOL GNVYD
+OLY
+MAH-Awapesy ajepsuiqqoy
+VAY
+
+Buosuy dadoop
+Binqpues ayepsulqqoy yynowAld feysAug-s1ey
+
+aue] Areyoez uAsauuog
+
+aue7 Wb] Id-4le4
+yodyyon
+
+8I9°N
+
+Isa
+
+I!8N
+
+aye] Mopea vas
+
+malAayey
+
+ysa104
+
+"Se(NWUOJ = ORIG 'paplAoid No Jaays JOLISIP ay} Woy Ul padA} sjuNOD JUBW||OJUa = anig
+
+GZ0Z '| 49q0}90 - JUSWJOIUZ |Z 3914381
+
+£00'L
+2g
+L6L
+6S
+6Ly
+LLé
+
+69 99 cL v9 gL 6S 807
+eo
+
+01g
+
+vy ov cov
+£97
+
+652
+
+oe
+807
+ele
+
+psl
+
+6
+ly
+8Sz
+
+y99
+
+Ove
+
+90€
+
+os9
+
+Ole
+
+cee
+
+86S
+
+9ee
+
+L£S@
+
+vol
+
+eZ
+
+gL
+8
+
+ZOL
+06
+gL
+GL
+GS
+
+Loz
+
+28
+
+s9
+
+QbL
+eZ
+£8
+v8
+eg
+
+929
+
+cL
+
+lv
+£9
+
+QbL
+6S
+v9
+gL
+ZS
+
+6€9
+
+28
+
+cg cg
+
+OOL
+69
+gL
+GL
+vy
+
+cs9
+
+cL
+
+6y vl
+
+QbL
+LZ
+eZ
+gL
+vy
+
+zLs
+
+bL
+
+8g
+6S
+
+G6
+09
+29
+OL
+ge
+
+Lev'é
+2g eve edb
+29L'b
+VELL
+66
+
+S68
+
+cov
+6SE
+GLY
+0s9
+Lev ger
+OSV
+062
+
+(pajndwios) sjvLOL GNVYD
+OLY
+MAH-Awapesy ajepsuiqqoy
+VAY
+
+Buosuy dadoop
+Binqpues ayepsulqqoy yynowAld eysAug-s1e4
+
+aue] Areyoez uAsauuog
+
+aue7 Wb] Id-4le4
+yodyyon
+
+8I9°N
+
+Isa
+
+I!8N
+
+aye] Mopea vas
+
+malAayey
+
+ysa104
+
+"Se(NWUOJ = ORIG 'paplAoid No Jaays JOLISIP ay} Woy Ul padA} sjuNOD JUBW||OJUa = anig
+
+9202 '| 49q0}90 - JUSWJOIUZ }8Z 3914381
